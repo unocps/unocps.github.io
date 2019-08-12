@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Cyber-Physical Systems, The University of Texas at Austin, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Automation Research Engineer, Dec 2015 - Aug 2016
+  * The University of Hong Kong (HKU) & PI Power Electronic ltd
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Engineer, May 2013 - Aug 2013 
+  * Pei-Chi Huang, Mark Nixon and Aloysius K. Mok," Automatic Devices Identification through OCR System ", 2013
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -56,4 +45,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
