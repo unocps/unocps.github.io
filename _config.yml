@@ -85,9 +85,9 @@ author:
   bio              : "Assistant professor at the University of Nebraska at Omaha"
   location         : "Omaha, NE"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UtGynOsAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : phuang@unomaha.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
