@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Pei-Chi Huang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Assistant professor at the University of Nebraska at Omaha"
   location         : "Omaha, NE"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
