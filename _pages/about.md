@@ -1,5 +1,3 @@
-This is Dr. Pei-Chi Huang's home on the web!
-
 ---
 permalink: /
 title: "About me"
@@ -10,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Pei-Chi Huang received her PhD in Computer Science from the University of Texas at Austin in 2017 under the supervision of Prof. Aloysius K. Mok, and she joined the University of Nebraska Omaha as an assistant professor in 2018. Dr. Huang is currently looking for Master and PhD students, who are interested in her research. Preference will be given to candidates who have experience in her research interests.
+This is Dr. Pei-Chi Huang's home on the web!
 
-Contact Info
-======
-* phuang AT unomaha DOT edu
-* Office: PKI 174A
-* Phone: (402) 554-3496
+Dr. Pei-Chi Huang received her PhD in [the Department of Computer Science](https://www.cs.utexas.edu/) from [the University of Texas at Austin](https://www.utexas.edu/) in 2017 under [the supervision of Prof. Aloysius K. Mok](https://www.cs.utexas.edu/users/mok/), and she joined [the University of Nebraska Omaha](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science/index.php) as an assistant professor in 2018. Dr. Huang is currently looking for Master and PhD students, who are interested in her research. Preference will be given to candidates who have experience in her research interests.
 
-Research Interests
+# Research Interests
 ======
 * Cyber-Physical Systems with Machine Learning
 * Real-time Computing and Scheduling Algorithms 
 * Wireless Communication/Networking Systems
+
+# Contact Info
+======
+* phuang AT unomaha DOT edu
+* Office: PKI 174A
+* Phone: (402) 554-3496
