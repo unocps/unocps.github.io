@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/2019-fall-teaching-1
 venue: 
-date: 2019/08/26
+date: 2019-08-26
 location: 
 ---
 
