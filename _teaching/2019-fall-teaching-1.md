@@ -1,16 +1,14 @@
 ---
 title: "CSCI4500 Operating Systems (Spring 2019)"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
-date: 2019-08-26
 ---
 
 Introduction to the theory, design, and implementation of software systems to support the management of computing resources. Topics include the synchronization of concurrent processes, memory management, processor management, scheduling, device management, file systems, and protection.
 
 # Administrative Information
-| Instructor:      | Pei-Chi Huang Email: phuang at unomaha dot edu               | 
-| :--------------- |:-------------------------------------------------------------|
+|:---------------- |:-------------------------------------------------------------|
+| Instructor:      | Pei-Chi Huang      Email: phuang at unomaha dot edu          | 
 | Office Hour:     | Wednesday 3:00 - 4:00 PM, PKI 174A Building or by appointment|
 | Class Info:      | TTH 3:00PM - 4:15PM, Peter Kiewit Institute 155              | 
 | Course Schedule: | https://                                                     | 
