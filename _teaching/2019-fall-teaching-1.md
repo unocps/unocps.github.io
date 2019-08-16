@@ -1,6 +1,12 @@
+---
 title: "CSCI4500 Operating Systems (Spring 2019)"
+collection: teaching
+type: 
 permalink: /teaching/2019-fall-teaching-1
-
+venue: 
+date: 
+location: 
+---
 
 Introduction to the theory, design, and implementation of software systems to support the management of computing resources. Topics include the synchronization of concurrent processes, memory management, processor management, scheduling, device management, file systems, and protection.
 
