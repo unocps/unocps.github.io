@@ -15,8 +15,8 @@ Introduction to the theory, design, and implementation of software systems to su
 * Email: phuang at unomaha dot edu
 * Office Hour: Wednesday 3:00 - 4:00 PM, PKI 174A Building or by appointment
 * Class Info: TTH 3:00PM - 4:15PM, Peter Kiewit Institute 155
-* [Course Schedule](https://unocps.github.io/2019-fall-teaching-1-schedule)| 
-* Course Syallbus https://                                                     | 
+* [Course Schedule](https://unocps.github.io/teaching/2019-fall-teaching-1-schedule) 
+* Course Syallbus https://      
 
 ## Prequisites:	
 CSCI 3710 (Introduction to Digital Design and Computer Organization), CSCI 3320 (Data Structures), and MATH 1950 (Calculus I). CSCI 4350 (Computer Architecture) is recommended; open only to students in the School of Engineering and declared Computer Science minors.
