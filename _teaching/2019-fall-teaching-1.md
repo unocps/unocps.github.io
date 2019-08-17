@@ -39,6 +39,8 @@ Homeworks and Programming Assignments are subject to late penalty. Here is the p
 
 Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
 
+
+
 ## Textbook <a name="schedule"></a>
 Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd edition), Prentice-Hall (2006)
 
