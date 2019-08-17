@@ -23,8 +23,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 |   Thur | Aug. 29 | [Introduction to Operating Systems & History](https://) | Reading: ch.1.1 - 1.3|
 |   Tue    | Sep. 3 <br> Sep. 5   | [Basic Operating Systems Concepts - Part 1](https://) | 2.a Reading: ch.1.3 - 1.4 <br> 2.b Reading: ch. 1.4 - 1.5|
 |   Tue    | Sep. 10 <br> Sep. 12 | [Basic Operating Systems Concepts - Part 2](https://) <br> [Concurrency](https://)                                    |  3.a Reading: Reading: ch.2.1 <br> 3.b Reading: ch.2.2 OSTEP Lock (skip 28.8-28.11)|
-|   Tue    | Sep. 17 <br> Sep. 19 | [Communication & Synchronization - Part 1](https://) | 4.a Reading: 2.2 & OSTEP:  Common Concurrency Problems, pages 1-11 (stop at "Deadlock Avoidance via Scheduling") & OSTEP:  Monitors
- <br> 4.b Reading: ch. 1.4 - 1.5|
+|   Tue    | Sep. 17 <br> Sep. 19 | [Communication & Synchronization - Part 1](https://) | Reading: 2.2 & OSTEP:  Common Concurrency Problems, pages 1-11 (stop at "Deadlock Avoidance via Scheduling") & OSTEP:  Monitors <br> Reading: ch. 1.4 - 1.5|
 |   Tue    | Sep. 24 <br> Sep. 26 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
 |   Tue    | Oct. 1 <br> Oct. 3   | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
 |   Tue    | Oct. 8 <br> Oct. 10  | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) 
