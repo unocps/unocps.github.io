@@ -2,7 +2,7 @@
 title: "CSCI4500 Course Schedule"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/schedule
+permalink: /teaching/2019-fall-teaching-1
 venue: 
 date: 2019-08-25
 location: 
