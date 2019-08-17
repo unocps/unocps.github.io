@@ -81,4 +81,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Dec. 5  | Oral Presentation TBD                                 | Reading: ch.1.3 - 1.4 |
 | Tue  | Dec. 10 | Oral Presentation TBD                                 | Reading: ch.1.3 - 1.4 |
 | Thur | Dec. 12 | Put It All Together & In class exam review            | Report Format <br> Report Due 11:59pm <br> Program 3 Due 11:59pm |
-| Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | 3:00pm-5:00pm |
+| Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | 2:30pm-4:30pm |
