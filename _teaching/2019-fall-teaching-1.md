@@ -1,7 +1,7 @@
 ---
 title: "CSCI4500 Operating Systems (Spring 2019)"
 collection: teaching
-type: 
+type: Undergraduate course
 permalink: /teaching/2019-fall-teaching-1
 venue: 
 date: 2019-08-26
