@@ -11,4 +11,4 @@ Members
 ======
 |         Name        |     Title           |       Topic         |   Email |
 |:--------------------|:--------------------|:--------------------|:--------------------| 
-|[Dilanga Lakshitha Galapita Mudiyanselage](https://www.cs.utexas.edu/)| PhD | TBD | dabeyrathna@unomaha.edu|
+|[Dilanga Lakshitha Galapita Mudiyanselage](https://www.cs.utexas.edu/)| PhD students | Deep Learning | dabeyrathna@unomaha.edu|
