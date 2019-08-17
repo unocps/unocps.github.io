@@ -17,9 +17,9 @@ The online book Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
 
-| Week   | Date    | Topic                  | Assignment                     | 
-| :------|:--------|:-----------------------|:-------------------------------|
+| Week   | Date    | Topic                  | Assignment \                   |
 |        |         |                        | (to be completed before class) |
+| :------|:--------|:-----------------------|:-------------------------------|
 | 1      | Tue  Aug 27 | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |   |
 | &nbsp  | Thur Aug 29 | [Introduction to Operating Systems & History]                                                   | Reading: ch.1.1 - 1.3 |
 
