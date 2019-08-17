@@ -47,9 +47,9 @@ Contact the instructor in case of medical emergency, and a written proof from yo
 # Schedule 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
-| Date |         |               Topic                 | Assignment <br>(to be completed before class) |
-|:----:|:--------|:------------------------------------|:----------------------------------------------|
-| Tue  | Aug. 27 | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |                       |
+| Date |           |               Topic                 | Assignment <br>(to be completed before class) |
+|:----:|:----------|:------------------------------------|:----------------------------------------------|
+| Tue  | Aug. 27   | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |      |
 | Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.3 |
 | Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
 | Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
