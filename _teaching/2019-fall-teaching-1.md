@@ -13,11 +13,11 @@ Introduction to the theory, design, and implementation of software systems to su
 ## Administrative Information
 
 
-| Instructor      | Pei-Chi Huang         Email: phuang at unomaha dot edu|
-|:---------------- |:-------------------------------------------------------------|
+| Instructor      | Pei-Chi Huang                Email: phuang at unomaha dot edu|
+|:--------------- |:-------------------------------------------------------------|
 | Office Hour     | Wednesday 3:00 - 4:00 PM, PKI 174A Building or by appointment|
 | Class Info      | TTH 3:00PM - 4:15PM, Peter Kiewit Institute 155              | 
-| Course Schedule | https://                                                     | 
+| Course Schedule | (https://unocps.github.io/2019-fall-teaching-1-schedule)     | 
 | Course Syallbus | https://                                                     | 
 
 ## Prequisites:	
