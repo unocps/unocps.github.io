@@ -11,7 +11,7 @@ location:
 Introduction to the theory, design, and implementation of software systems to support the management of computing resources. Topics include the synchronization of concurrent processes, memory management, processor management, scheduling, device management, file systems, and protection.
 
 ## Administrative Information
-| Instructor:      | Pei-Chi Huang         Email: phuang at unomaha dot edu</span>|
+| Instructor:      | Pei-Chi Huang         Email: phuang at unomaha dot edu|
 |:---------------- |:-------------------------------------------------------------|
 | Office Hour:     | Wednesday 3:00 - 4:00 PM, PKI 174A Building or by appointment|
 | Class Info:      | TTH 3:00PM - 4:15PM, Peter Kiewit Institute 155              | 
