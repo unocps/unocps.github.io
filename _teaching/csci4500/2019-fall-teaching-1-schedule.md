@@ -19,7 +19,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Week   | Date    | Topic                  | Assignment <br>(to be completed before class) |
 | :------|:--------|:-----------------------|:-------------------------------|
-| 1\     | Tue Aug 27 <br> Thur Aug 29 | [Introduction & Themes(https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) <br>[Introduction to Operating Systems & History](https://)| <br> Reading: ch.1.1 - 1.3|
+| 1      | Tue Aug 27 <br> Thur Aug 29 | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) <br>[Introduction to Operating Systems & History](https://)| <br> Reading: ch.1.1 - 1.3|
 
 
 
