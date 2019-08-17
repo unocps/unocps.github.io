@@ -20,9 +20,13 @@ Readings from additional sources are linked from the schedule. All reading assig
 |   Week   |   Date    | Topic                                | Assignment <br>(to be completed before class) |
 | :------: | :-------- | :------------------------------------|:----------------------------------------------|
 |    1     | Aug. 27 <br> Aug. 29 | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) <br> [Introduction to Operating Systems & History](https://)                                                    | <br> Reading: ch.1.1 - 1.3|
+
 |    2     | Sep. 3 <br> Sep. 5   | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
-|    3     | Sep. 10 <br> Sep. 12 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+
+|    3     | Sep. 10 <br> Sep. 12 | [Basic Operating Systems Concepts - Part 2](https://) <br> [Concurrency](https://)                                  |  Reading: Reading: ch.2.1 <br> Reading: ch.2.2 OSTEP Lock (skip 28.8-28.11)|
+
 |    4     | Sep. 17 <br> Sep. 19 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+
 |    5     | Sep. 24 <br> Sep. 26 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
 |    6     | Oct. 1 <br> Oct. 3   | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
 |    7     | Oct. 8 <br> Oct. 10  | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) 
