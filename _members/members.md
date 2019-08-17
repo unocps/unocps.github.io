@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /members/
 title: "Members"
 excerpt: "Members"
 author_profile: true
 redirect_from: 
-  - /members/
+  - 
 ---
 
 Members
