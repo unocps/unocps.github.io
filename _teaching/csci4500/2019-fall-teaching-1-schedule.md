@@ -17,9 +17,22 @@ The online book Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
 
-| Week   | Date    | Topic                  | Assignment <br>(to be completed before class) |
-| :------|:--------|:-----------------------|:-------------------------------|
-| 1      | Tue Aug 27 <br> Thur Aug 29 | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) <br>[Introduction to Operating Systems & History](https://)| <br> Reading: ch.1.1 - 1.3|
-
-
-
+|   Week   |   Date    | Topic                                | Assignment <br>(to be completed before class) |
+| :------: | :-------- | :------------------------------------|:----------------------------------------------|
+|    1     | Aug. 27 <br> Aug. 29 | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) <br> [Introduction to Operating Systems & History](https://)                                                    | <br> Reading: ch.1.1 - 1.3|
+|    2     | Sep. 3 <br> Sep. 5   | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|    3     | Sep. 10 <br> Sep. 12 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|    4     | Sep. 17 <br> Sep. 19 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|    5     | Sep. 24 <br> Sep. 26 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|    6     | Oct. 1 <br> Oct. 3   | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|    7     | Oct. 8 <br> Oct. 10  | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) 
+|    8     | Oct. 15 <br> Oct. 17 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|    9     | Oct. 22 <br> Oct. 24 | Semester Break            |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   10     | Oct. 29 <br> Oct. 31 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   11     | Nov. 5 <br> Nov. 7   | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   12     | Nov. 12 <br> Nov. 14 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://)                                  |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   13     | Nov. 19 <br> Nov. 21 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   14     | Nov. 26 <br> Nov. 28 | Thanksgiving Vacation     |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   15     | Dec. 3 <br> Dec. 5 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   16     | Dec. 10 <br> Dec. 12 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
+|   17     | Dec. 17 <br> Dec. 19 | [Basic Operating Systems Concepts - Part 1](https://) <br> [Basic Operating Systems Concepts - Part 1](https://) |  Reading: ch.1.3 - 1.4 <br> Reading: ch. 1.4 - 1.5|
