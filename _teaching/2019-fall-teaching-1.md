@@ -21,16 +21,20 @@ Introduction to the theory, design, and implementation of software systems to su
 CSCI 3710 (Introduction to Digital Design and Computer Organization), CSCI 3320 (Data Structures), and MATH 1950 (Calculus I). CSCI 4350 (Computer Architecture) is recommended; open only to students in the School of Engineering and declared Computer Science minors.
 
 ## Recommended Textbook
-Operating System Concepts 9th Edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
+Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd edition), Prentice-Hall (2006)
+
+### Supplemental material
+* The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (indicated by OSTEP; this book is available for purchase at the site above if you prefer a print copy)
+* Operating System Concepts 9th Edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
 
 ## Grading
 There will be four homeworks, three programming assignments, one midterm and one final.
 The final course grade will be computed as follows:
 
-Homework: 15%
-Programming Assignments: 32%
-Midterm: 20%
-Final 33%
+* Homework and Quizzes: 15%
+* Programming Assignments: 35%
+* Midterm: 20%
+* Final 30%
 
 If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
 
@@ -40,16 +44,8 @@ Homeworks and Programming Assignments are subject to late penalty. Here is the p
 Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
 
 
-
-## Textbook <a name="schedule"></a>
-Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd edition), Prentice-Hall (2006)
-
-## Supplemental material
-The online book Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (indicated by OSTEP; this book is available for purchase at the site above if you prefer a print copy)
-
+# Schedule 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
-
-## Schedule 
 
 | Date |         |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:--------|:------------------------------------|:----------------------------------------------|
