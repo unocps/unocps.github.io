@@ -3,7 +3,7 @@ title: "CSCI4500 Operating Systems (Spring 2019)"
 collection: teaching
 type: Undergraduate course
 permalink: /teaching/2019-fall-teaching-1
-venue: 
+venue: UNO
 date: 2019-08-26
 location: 
 ---
