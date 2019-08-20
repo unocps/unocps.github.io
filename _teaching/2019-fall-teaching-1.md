@@ -34,6 +34,15 @@ The final course grade will be computed as follows:
 * Homework and Quizzes: 15%
 * Programming Assignments: 30%
 * Midterm: 20%
+* Final 35%
+
+If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
+
+### Grading Type
+ Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
+
+|Points	   | Grade |
+|:---------|:------|
 |97 – 100% | A+    |
 |93 – 96%  | A     |
 |90 – 92%  | A-    |
@@ -58,8 +67,7 @@ Contact the instructor in case of medical emergency, and a written proof from yo
 You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
 
 
-
------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 
 # Schedule 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
@@ -67,21 +75,21 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Aug. 27   | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |      |
-| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch 1.1 - 1.2 |
-| Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch 1.3 - 1.4 |
-| Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch 1.4 - 1.5 |
-| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch 2.1 - 2.2       |
+| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.2 |
+| Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
+| Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
+| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1       |
 | Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
-| Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency <br> Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock   <br>   Avoidance via Scheduling") & OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) |
-| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: ch 2.3 <br> <span style="color:blue"> **Homework 1 Available** text</span>  <br>  <span style="color:green"> **Program 1 Available** text</span> |
-| Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.1       |
-| Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: Reading: ch.2.2 OSTEP [Lock](http://) (skip 28.8-28.11)|
-| Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.1.3 - 1.4 |
-| Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.1.4 - 1.5 |
-| Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.1.3 - 1.4 |
-| Thur | Oct. 10 | Deadlock                                              | Reading: ch.1.4 - 1.5 |
-| Tue  | Oct. 15 | Deadlock                                              | Reading: ch.1.3 - 1.4 |
-| Thur | Oct. 17 | Scheduling                                            | Reading: ch.1.4 - 1.5 |
+| Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") |
+| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 1 Available** text</span>  <br>  <span style="color:green"> **Program 1 Available** text</span> |
+| Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.2 |
+| Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3  <br>  <span style="color:red"> **Homework 1 Due, in Class** text</span>  <br>  <span style="color:green"> **Homework 1 Solution** text</span> |
+| Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
+| Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:red"> **Homework 2 Due, in Class** text</span>  <br>  <span style="color:green"> **Homework 2 Solution** text</span> <br> <span style="color:green"> **Homework 3 Available** text</span> |
+| Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
+| Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 |
+| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling]()|
+| Thur | Oct. 17 | Scheduling                                            | Reading: ch. |
 | Tue  | Oct. 22 | Semester Break                                        | Reading: ch.1.3 - 1.4 |
 | Thur | Oct. 24 | <font color="#dd0000"> Midterm </font><br />          | Reading: ch.1.3 - 1.4 |
 | Tue  | Oct. 29 | Scheduling                                            | Reading: ch.1.3 - 1.4 |
