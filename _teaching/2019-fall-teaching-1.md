@@ -59,8 +59,8 @@ If you have questions regarding the grading of homework, programming assignments
 
 
 ## Late Policy
-Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days. 
-<span style="color:red">some **This is Red Bold.** text</span>
+Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.
+
 Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
 
 ## Academic Integrity
