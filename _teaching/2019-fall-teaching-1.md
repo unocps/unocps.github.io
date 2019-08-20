@@ -8,7 +8,7 @@ date: 2019-08-26
 location: 
 ---
 
-Introduction to the theory, design, and implementation of software systems to support the management of computing resources. Topics include the synchronization of concurrent processes, memory management, processor management, scheduling, device management, file systems, and protection.
+An operating system is an abstraction of computer system hardware; it manages the sharing of various hardware and software resources among the users of the computer system. The parallel history of hardware and operating system development introduces many key concepts including, for example, processor modes, direct memory access (DMA), device controllers, and virtual memory. Basic approaches to kernel organization and implementation are considered. This is often the first course in which students encounter concurrency and concurrent programs. Additional topic areas include system performance evaluation (particularly relating to processor and memory management), security, virtualization, resource allocation and scheduling, and  file systems.
 
 ## Administrative Information
 * Instructor: Pei-Chi Huang
@@ -23,7 +23,7 @@ CSCI 3710 (Introduction to Digital Design and Computer Organization), CSCI 3320 
 ## Recommended Textbook
 Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd edition), Prentice-Hall (2006)
 
-### Supplemental material
+### Supplemental materials
 * The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (indicated by OSTEP; this book is available for purchase at the site above if you prefer a print copy)
 * Operating System Concepts 9th Edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
 
@@ -42,7 +42,31 @@ If you have questions regarding the grading of homework, programming assignments
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days. 
 
 Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
-33
+
+## Academic Integrity
+You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
+
+## Grading Type
+Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
+
+| Points   | Grade |
+|:---------|:------|
+|97 – 100% | A+    |
+|93 – 96%  | A     |
+|90 – 92%  | A-    |
+|87 – 89%  | B+    |
+|83 – 86%  | B     |
+|80 – 82%  | B-    |
+|77 – 79%  | C+    |
+|73 – 76%  | C     |
+|70 – 72%  | C-    |
+|67 – 69%  | D+    |
+|63 – 66%  | D     |
+|60 – 62%  | D-    |
+|0 – 59%   | F     |
+
+
+-----------------------------------------------------------------------
 
 # Schedule 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
@@ -50,11 +74,11 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Aug. 27   | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |      |
-| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.3 |
+| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.2 |
 | Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
 | Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
-| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1       |
-| Thur | Sep. 12 | Concurrency                                           | Reading: Reading: ch.2.2 OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
+| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1 - 2.2       |
+| Thur | Sep. 12 | Concurrency                                           | Reading: Reading OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
 | Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: 2.2 & OSTEP:  Common Concurrency <br> Problems, pages 1-11 (stop at "Deadlock   <br>   Avoidance via Scheduling") & OSTEP:  Monitors|
 | Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.1       |
