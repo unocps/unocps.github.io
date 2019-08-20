@@ -65,7 +65,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.1.4 - 1.5 |
 | Tue  | Oct. 15 | Deadlock                                              | Reading: ch.1.3 - 1.4 |
 | Thur | Oct. 17 | Scheduling                                            | Reading: ch.1.4 - 1.5 |
-| Tue  | Oct. 22 | Semester Break                                        | Reading: ch.1.3 - 1.4 |https://cps.cse.uconn.edu/teaching/os/schedule/
+| Tue  | Oct. 22 | Semester Break                                        | Reading: ch.1.3 - 1.4 |
 | Thur | Oct. 24 | <font color="#dd0000"> Midterm </font><br />          | Reading: ch.1.3 - 1.4 |
 | Tue  | Oct. 29 | Scheduling                                            | Reading: ch.1.3 - 1.4 |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation                | Reading: ch.1.4 - 1.5 |
