@@ -32,9 +32,9 @@ There will be four homeworks, three programming assignments, one midterm and one
 The final course grade will be computed as follows:
 
 * Homework and Quizzes: 15%
-* Programming Assignments: 35%
+* Programming Assignments: 30%
 * Midterm: 20%
-* Final 30%
+* Final 35%
 
 If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
 
@@ -42,7 +42,7 @@ If you have questions regarding the grading of homework, programming assignments
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days. 
 
 Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
-
+33
 
 # Schedule 
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
@@ -65,7 +65,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.1.4 - 1.5 |
 | Tue  | Oct. 15 | Deadlock                                              | Reading: ch.1.3 - 1.4 |
 | Thur | Oct. 17 | Scheduling                                            | Reading: ch.1.4 - 1.5 |
-| Tue  | Oct. 22 | Semester Break                                        | Reading: ch.1.3 - 1.4 |
+| Tue  | Oct. 22 | Semester Break                                        | Reading: ch.1.3 - 1.4 |https://cps.cse.uconn.edu/teaching/os/schedule/
 | Thur | Oct. 24 | <font color="#dd0000"> Midterm </font><br />          | Reading: ch.1.3 - 1.4 |
 | Tue  | Oct. 29 | Scheduling                                            | Reading: ch.1.3 - 1.4 |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation                | Reading: ch.1.4 - 1.5 |
@@ -74,11 +74,11 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.1.3 - 1.4 |
 | Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.1.4 - 1.5 |
 | Tue  | Nov. 19 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.1.3 - 1.4 |
-| Thur | Nov. 21 | Input/Output Hardware & Software                      | Reading: ch.1.4 - 1.5 |
-| Tue  | Nov. 26 | Input/Output Hardware & Software                      | Reading: ch.1.3 - 1.4 |
+| Thur | Nov. 21 | Input/Output Hardware                                 | Reading: ch.1.4 - 1.5 |
+| Tue  | Nov. 26 | Input/Output Software                                 | Reading: ch.1.3 - 1.4 |
 | Thur | Nov. 28 | Thanksgiving Vacation                                 | Reading: ch.1.4 - 1.5 |
-| Tue  | Dec. 3  | Oral Presentation TBD                                 | Reading: ch.1.3 - 1.4 |
-| Thur | Dec. 5  | Oral Presentation TBD                                 | Reading: ch.1.3 - 1.4 |
-| Tue  | Dec. 10 | Oral Presentation TBD                                 | Reading: ch.1.3 - 1.4 |
+| Tue  | Dec. 3  | Conference                                            | Reading: ch.1.3 - 1.4 |
+| Thur | Dec. 5  | Conference                                            | Reading: ch.1.3 - 1.4 |
+| Tue  | Dec. 10 | Security                                              | Reading: ch.1.3 - 1.4 |
 | Thur | Dec. 12 | Put It All Together & In class exam review            | Report Format <br> Report Due 11:59pm <br> Program 3 Due 11:59pm |
 | Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | 2:30pm-4:30pm |
