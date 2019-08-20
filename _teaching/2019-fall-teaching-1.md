@@ -67,9 +67,10 @@ Contact the instructor in case of medical emergency, and a written proof from yo
 You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
 
 
+
 ---------------------------------------------------------------------------------------------------------------
 
-# Schedule 
+# Schedule
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
@@ -81,29 +82,32 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1       |
 | Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
 | Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") |
-| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 1 Available** text</span>  <br>  <span style="color:green"> **Program 1 Available** text</span> |
+| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <font="color:blue"> **Homework 1 Available** </font>  <br>  <span style="color:green"> **Program 1 Available** </span> |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.2 |
-| Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3  <br>  <span style="color:red"> **Homework 1 Due, in Class** text</span>  <br>  <span style="color:green"> **Homework 1 Solution** text</span> |
+| Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3  <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
 | Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
-| Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:red"> **Homework 2 Due, in Class** text</span>  <br>  <span style="color:green"> **Homework 2 Solution** text</span> <br> <span style="color:green"> **Homework 3 Available** text</span> |
+| Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:red"> **Homework 2 Due, in Class**</span>  <br>  <span style="color:green"> **Homework 2 Solution** text</span> <br> <span style="color:green"> **Homework 3 Available**</span> |
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 |
-| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling]()|
-| Thur | Oct. 17 | Scheduling                                            | Reading: ch. |
-| Tue  | Oct. 22 | Semester Break                                        | Reading: ch.1.3 - 1.4 |
-| Thur | Oct. 24 | <font color="#dd0000"> Midterm </font><br />          | Reading: ch.1.3 - 1.4 |
-| Tue  | Oct. 29 | Scheduling                                            | Reading: ch.1.3 - 1.4 |
-| Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation                | Reading: ch.1.4 - 1.5 |
-| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.1.3 - 1.4 |
-| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: ch.1.4 - 1.5 |
-| Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.1.3 - 1.4 |
-| Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.1.4 - 1.5 |
-| Tue  | Nov. 19 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.1.3 - 1.4 |
-| Thur | Nov. 21 | Input/Output Hardware                                 | Reading: ch.1.4 - 1.5 |
-| Tue  | Nov. 26 | Input/Output Software                                 | Reading: ch.1.3 - 1.4 |
-| Thur | Nov. 28 | Thanksgiving Vacation                                 | Reading: ch.1.4 - 1.5 |
-| Tue  | Dec. 3  | Conference                                            | Reading: ch.1.3 - 1.4 |
-| Thur | Dec. 5  | Conference                                            | Reading: ch.1.3 - 1.4 |
-| Tue  | Dec. 10 | Security                                              | Reading: ch.1.3 - 1.4 |
-| Thur | Dec. 12 | Put It All Together & In class exam review            | Report Format <br> Report Due 11:59pm <br> Program 3 Due 11:59pm |
+| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Homework 3 Due, in Class** text</span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
+| Thur | Oct. 17 | Scheduling                                            | Reading: ch.3.4 |
+| Tue  | Oct. 22 | Semester Break                                        |                 |
+| Thur | Oct. 24 | <font color="#dd0000"> Midterm </font><br />          |                 |
+| Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 - 4.2 |
+| Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
+| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.3 <br> <font ="color:green"> **Homework 4 Available**</font> |
+| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: <font="color:red"> **Program 2 Due, in Class**</font> |
+| Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 |
+| Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.5 |
+| Tue  | Nov. 19 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.6 |
+| Thur | Nov. 21 | Input/Output Hardware                                 | Reading: ch.5.1 |
+| Tue  | Nov. 26 | Input/Output Software                                 | Reading: ch.5.2 |
+| Thur | Nov. 28 | Thanksgiving Vacation                                 |                 |
+| Tue  | Dec. 3  | Conference                                            | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](book.mixu.net/distsys/abstractions.html), [Chapter 3](book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
+| Thur | Dec. 5  | Conference                                            | Reading: ch.5.3 |
+| Tue  | Dec. 10 | Security                                              | Reading: ch.5.4 |
+| Thur | Dec. 12 | Put It All Together & In class exam review            | <font="color:red"> **Program 3 Due, 11:59pm** </font> |
 | Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | 2:30pm-4:30pm |
+
+
+
