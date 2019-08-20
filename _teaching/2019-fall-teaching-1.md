@@ -34,23 +34,6 @@ The final course grade will be computed as follows:
 * Homework and Quizzes: 15%
 * Programming Assignments: 30%
 * Midterm: 20%
-* Final 35%
-
-If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
-
-## Late Policy
-Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days. 
-
-Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
-
-## Academic Integrity
-You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
-
-## Grading Type
-Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
-
-| Points   | Grade |
-|:---------|:------|
 |97 – 100% | A+    |
 |93 – 96%  | A     |
 |90 – 92%  | A-    |
@@ -66,6 +49,16 @@ Letter grades will be determined using the weighted average of the various items
 |0 – 59%   | F     |
 
 
+## Late Policy
+Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days. 
+<span style="color:red">some **This is Red Bold.** text</span>
+Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
+
+## Academic Integrity
+You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
+
+
+
 -----------------------------------------------------------------------
 
 # Schedule 
@@ -74,13 +67,13 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Aug. 27   | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |      |
-| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.2 |
-| Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
-| Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
-| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1 - 2.2       |
-| Thur | Sep. 12 | Concurrency                                           | Reading: Reading OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
-| Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: 2.2 & OSTEP:  Common Concurrency <br> Problems, pages 1-11 (stop at "Deadlock   <br>   Avoidance via Scheduling") & OSTEP:  Monitors|
-| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: ch.1.4 - 1.5 |
+| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch 1.1 - 1.2 |
+| Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch 1.3 - 1.4 |
+| Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch 1.4 - 1.5 |
+| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch 2.1 - 2.2       |
+| Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
+| Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency <br> Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock   <br>   Avoidance via Scheduling") & OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) |
+| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: ch 2.3 <br> <span style="color:blue"> **Homework 1 Available** text</span>  <br>  <span style="color:green"> **Program 1 Available** text</span> |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.1       |
 | Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: Reading: ch.2.2 OSTEP [Lock](http://) (skip 28.8-28.11)|
 | Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.1.3 - 1.4 |
