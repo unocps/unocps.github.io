@@ -28,12 +28,12 @@ Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd editio
 * Operating System Concepts 9th Edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
 
 ## Grading
-There will be five homeworks, three programming assignments, one midterm and one final.
+There will be six homeworks, three programming assignments, one midterm and one final.
 The final course grade will be computed as follows:
 
-* Homework and Quizzes: 15%
+* Homework and Quizzes: 16%
 * Programming Assignments: 30%
-* Midterm: 23%
+* Midterm: 22%
 * Final 32%
 
 If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
@@ -56,12 +56,6 @@ If you have questions regarding the grading of homework, programming assignments
 |63 – 66%  | D     |
 |60 – 62%  | D-    |
 |0 – 59%   | F     |
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
 
 ## Late Policy
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.
@@ -87,8 +81,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1       |
 | Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
 | Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") |
-| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 1 Available** </span
- >  <br>  <span style="color:green"> **Program 1 Available** </span> |
+| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 1 Available** </span>  <br>  <span style="color:green"> **Program 1 Available** </span> |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.2 |
 | Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3  <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
 | Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
@@ -96,9 +89,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 |
 | Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
-| Thur | Oct. 17 | Scheduling                                            | Reading: ch.3.4 |
-| Tue  | Oct. 22 | Semester Break                                        |                 |
-| Thur | Oct. 24 | <span style="color:red"> Midterm </span> |              |
+| Thur | Oct. 17 | <span style="color:red"> Midterm </span>              | Reading: ch.3.4 |
+| Tue  | Oct. 22 | Semester Break |                 |
+| Thur | Oct. 24 | Semester Break |                 |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 - 4.2 |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.3 <br> <span style ="color:green"> **Homework 4 Available**</span> |
