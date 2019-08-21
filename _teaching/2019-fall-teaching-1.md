@@ -89,7 +89,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
-| Thur | Oct. 17 | <span style="color:red"> Midterm </span> |      |
+| Thur | Oct. 17 | <span style="color:red"> **Midterm** </span> |      |
 | Tue  | Oct. 22 | Semester Break | <span style="color:blue"> **Homework 4 Available** </span> |
 | Thur | Oct. 24 | Semester Break | Reading: ch.3.4 |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
