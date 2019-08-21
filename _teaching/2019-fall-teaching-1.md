@@ -28,13 +28,13 @@ Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd editio
 * Operating System Concepts 9th Edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
 
 ## Grading
-There will be four homeworks, three programming assignments, one midterm and one final.
+There will be five homeworks, three programming assignments, one midterm and one final.
 The final course grade will be computed as follows:
 
 * Homework and Quizzes: 15%
 * Programming Assignments: 30%
-* Midterm: 20%
-* Final 35%
+* Midterm: 23%
+* Final 32%
 
 If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
 
@@ -43,6 +43,7 @@ If you have questions regarding the grading of homework, programming assignments
 
 |Points	   | Grade |
 |:---------|:------|
+|<img width=100/>|<img width=100/>|
 |97 – 100% | A+    |
 |93 – 96%  | A     |
 |90 – 92%  | A-    |
