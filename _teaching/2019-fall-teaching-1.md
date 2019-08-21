@@ -41,9 +41,9 @@ If you have questions regarding the grading of homework, programming assignments
 ### Grading Type
  Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
 
+<div class="grade_type">
 |Points	   | Grade |
 |:---------|:------|
-|<img width=100/>|<img width=100/>|
 |97 – 100% | A+    |
 |93 – 96%  | A     |
 |90 – 92%  | A-    |
@@ -57,7 +57,7 @@ If you have questions regarding the grading of homework, programming assignments
 |63 – 66%  | D     |
 |60 – 62%  | D-    |
 |0 – 59%   | F     |
-
+</div>
 
 ## Late Policy
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.
