@@ -57,6 +57,12 @@ If you have questions regarding the grading of homework, programming assignments
 |60 – 62%  | D-    |
 |0 – 59%   | F     |
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ## Late Policy
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.
 
