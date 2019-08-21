@@ -1,5 +1,5 @@
 ---
-title: "CSCI4500 Operating Systems (Spring 2019)"
+title: "CSCI4500 Operating Systems (Fall 2019)"
 collection: teaching
 type: Undergraduate course
 permalink: /teaching/2019-fall-teaching-1
