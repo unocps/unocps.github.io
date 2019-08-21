@@ -79,7 +79,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
 | Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1  <br> <span style="color:blue"> **Homework 1 Available** </span> |
-| Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <span style="color:green"> **Program 1 Available** </span> |
+| Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <span style="color:blue"> **Program 1 Available** </span> |
 | Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
 | Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 2 Available** </span> |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.2 |
@@ -88,16 +88,16 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:blue"> **Homework 3 Available** </span> |
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
-| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due**</span> <br>  <span style="color:green"> **Program 2 Available** </span> |
-| Thur | Oct. 17 | <span style="color:red"> Midterm </span> |  |
+| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
+| Thur | Oct. 17 | <span style="color:red"> Midterm </span> |      |
 | Tue  | Oct. 22 | Semester Break | <span style="color:blue"> **Homework 4 Available** </span> |
 | Thur | Oct. 24 | Semester Break | Reading: ch.3.4 |
-| Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 - 4.2 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
+| Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.3 |
-| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | |
-| Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 <br> <span style="color:blue"> **Homework 5 Available** </span> <br> <span style="color:red"> **Program 1 Due**</span>|
-| Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.5 <br>  <span style="color:green"> **Program 3 Available** </span> |
+| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.2 |
+| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: ch.4.3 |
+| Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 <br> <span style="color:blue"> **Homework 5 Available** </span> <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
+| Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.5 <br>  <span style="color:blue"> **Program 3 Available** </span> |
 | Tue  | Nov. 19 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.6 <br> <span style="color:red"> **Homework 5 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 5 Solution**</span>  |
 | Thur | Nov. 21 | Input/Output Hardware                                 | Reading: ch.5.1 |
 | Tue  | Nov. 26 | Input/Output Software                                 | Reading: ch.5.2 |
