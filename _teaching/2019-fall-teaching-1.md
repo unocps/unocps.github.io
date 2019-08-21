@@ -58,18 +58,17 @@ If you have questions regarding the grading of homework, programming assignments
 |0 – 59%   | F     |
 
 ## Late Policy
-Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.
+Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span>
 
 Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
 
 ## Academic Integrity
 You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
 
-
-
 ---------------------------------------------------------------------------------------------------------------
 
 # Schedule
+This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
@@ -89,7 +88,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
-| Thur | Oct. 17 | <span style="color:red"> **Midterm** </span> |      |
+| Thur | Oct. 17 | <span style="color:red"> **Midterm** </span> |   <span style="color:red"> **3:00pm-4:15pm** </span>   |
 | Tue  | Oct. 22 | Semester Break | <span style="color:blue"> **Homework 4 Available** </span> |
 | Thur | Oct. 24 | Semester Break | Reading: ch.3.4 |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
@@ -106,4 +105,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Dec. 5  | Conference                                            | Reading: ch.5.3 <br> <span style="color:red"> **Homework 6 Due** </span>  <br>  <span style="color:green"> **Homework 6 Solution**</span> |
 | Tue  | Dec. 10 | Security                                              | Reading: ch.5.4 |
 | Thur | Dec. 12 | Put It All Together & In class exam review            | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | <span style="color:red"> **2:30pm-4:30pm** </span> |
+| Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) (TBD) | <span style="color:red"> **2:30pm-4:30pm** </span> |
