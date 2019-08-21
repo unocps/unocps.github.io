@@ -95,8 +95,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 24 | <span style="color:red"> Midterm </span> |              |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 - 4.2 |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.3 <br> <font ="color:green"> **Homework 4 Available**</font> |
-| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: <font="color:red"> **Program 2 Due, in Class**</font> |
+| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.3 <br> <span style ="color:green"> **Homework 4 Available**</span> |
+| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: <span style="color:red"> **Program 2 Due, in Class**</span> |
 | Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 |
 | Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.5 |
 | Tue  | Nov. 19 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.6 |
@@ -107,4 +107,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Dec. 5  | Conference                                            | Reading: ch.5.3 |
 | Tue  | Dec. 10 | Security                                              | Reading: ch.5.4 |
 | Thur | Dec. 12 | Put It All Together & In class exam review            | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Thur | Dec. 17 | <span style="color:red"> Midterm[Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt)</span> TBD | 2:30pm-4:30pm] |
+| Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | <span style="color:red"> 2:30pm-4:30pm </span> |
