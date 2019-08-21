@@ -41,7 +41,6 @@ If you have questions regarding the grading of homework, programming assignments
 ### Grading Type
  Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
 
-<div class="grade_type">
 |Points	   | Grade |
 |:---------|:------|
 |97 – 100% | A+    |
@@ -57,7 +56,6 @@ If you have questions regarding the grading of homework, programming assignments
 |63 – 66%  | D     |
 |60 – 62%  | D-    |
 |0 – 59%   | F     |
-</div>
 
 ## Late Policy
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: 20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.
@@ -76,24 +74,25 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Tue  | Aug. 27   | [Introduction & Themes](https://drive.google.com/file/d/1LJZGwb4iwN0j61UWXRvGEUgvF1mr1nLa/view) |      |
+| Tue  | Aug. 27   | [Introduction & Themes](https://drive.google.com/) |      |
 | Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.2 |
 | Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
 | Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1       |
 | Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11)|
 | Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") |
-| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <font="color:blue"> **Homework 1 Available** </font>  <br>  <span style="color:green"> **Program 1 Available** </span> |
+| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 1 Available** </span
+ >  <br>  <span style="color:green"> **Program 1 Available** </span> |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.2 |
 | Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3  <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
 | Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
-| Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:red"> **Homework 2 Due, in Class**</span>  <br>  <span style="color:green"> **Homework 2 Solution** text</span> <br> <span style="color:green"> **Homework 3 Available**</span> |
+| Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:red"> **Homework 2 Due, in Class**</span>  <br>  <span style="color:green"> **Homework 2 Solution** </span> <br> <span style="color:green"> **Homework 3 Available**</span> |
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 |
-| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Homework 3 Due, in Class** text</span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
+| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Thur | Oct. 17 | Scheduling                                            | Reading: ch.3.4 |
 | Tue  | Oct. 22 | Semester Break                                        |                 |
-| Thur | Oct. 24 | <font color="#dd0000"> Midterm </font><br />          |                 |
+| Thur | Oct. 24 | <span style="color:red"> Midterm </span> |              |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 - 4.2 |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.3 <br> <font ="color:green"> **Homework 4 Available**</font> |
@@ -107,8 +106,5 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Dec. 3  | Conference                                            | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](book.mixu.net/distsys/abstractions.html), [Chapter 3](book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
 | Thur | Dec. 5  | Conference                                            | Reading: ch.5.3 |
 | Tue  | Dec. 10 | Security                                              | Reading: ch.5.4 |
-| Thur | Dec. 12 | Put It All Together & In class exam review            | <font="color:red"> **Program 3 Due, 11:59pm** </font> |
-| Thur | Dec. 17 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) TBD | 2:30pm-4:30pm |
-
-
-
+| Thur | Dec. 12 | Put It All Together & In class exam review            | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
+| Thur | Dec. 17 | <span style="color:red"> Midterm[Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt)</span> TBD | 2:30pm-4:30pm] |
