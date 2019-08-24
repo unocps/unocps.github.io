@@ -5,7 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 
-# **Selected journal papers**
+# Selected journal papers
 
 1. Quan Leng, Wei-Ju Chen, Pei-Chi Huang, Yi-Hung Wei, Aloysius K. Mok, and Song Han, "[Network management of multicluster RT-WiFi networks](https://dl.acm.org/citation.cfm?id=3283451)", ACM Transactions on Sensor Networks (TOSN), 15(1): Article 12, 2019.
 1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "[Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework](https://dl.acm.org/citation.cfm?doid=3284746.3178903)", ACM Transactions on Cyber-Physical Systems (TCPS), 3(2): Article 14, October 2018.
@@ -14,7 +14,7 @@ author_profile: true
 1. Yen-Chiu Chen, Hsin-Wen Wei, Pei-Chi Huang, Wei-Kuan Shih and Tsan-sheng Hsu, "[The bridge-connectivity augmentation problem with a partition constraint](https://www.sciencedirect.com/science/article/pii/S0304397510002148)", Theoretical Computer Science, 411(31-33): 2878-2889, 2010.
 1. Pei-Chi Huang, Hsin-Wen Wei, Wan-Chen Lu, Wei-Kuan Shih and Tsan-sheng Hsu, "[Smallest Bipartite Bridge-connectivity Augmentation](https://link.springer.com/article/10.1007/s00453-007-9127-1)", Algorithmica: An International Journal in Computer Science, 54(3): 353-378, 2009.
 
-# **Selected Conference Papers**
+# Selected Conference Papers
 
 1. Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [[video](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4)]
 1. Pei-Chi Huang and Aloysius K. Mok, "[A Case Study of Cyber-Physical System Design: Autonomous Pick-and-Place Robot](https://ieeexplore.ieee.org/abstract/document/8607230)", In 2018 IEEE 24th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), pp. 22-31. IEEE, 2018. [[video](http://www.cs.utexas.edu/~peggy/apc.html)] **(Best Paper Award Nomination)**
