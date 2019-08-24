@@ -5,17 +5,18 @@ permalink: /publication/
 author_profile: true
 ---
 
-* <span style="color:blue"> **Selected journal papers**</span>  
+<span style="color:blue"> **Selected journal papers**</span>  
 
-1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework", accepted to appear in ACM Transactions on Cyber-Physical Systems (TCPS), 2018
-1. Xiuming Zhu, Pei-Chi Huang, Jianyong Meng, Song Han, Aloysius K. Mok, Deji Chen and Mark Nixon, "ColLoc: A Collaborative localization and tracking System on WirelessHART", ACM Transactions on Embedded Computing Systems (TECS), 13(4s): Article 125, 2014
-1. Hsin-Wen Wei, Wan-Chen Lu, Pei-Chi Huang, Wei-Kuan Shih and Ming-Yang Kao, "Testing Whether a Set of Code Words Satisfies a Given Set of Constraints", Journal of Information Science and Engineering, 26(2): 333–346, 2010
-1. Yen-Chiu Chen, Hsin-Wen Wei, Pei-Chi Huang, Wei-Kuan Shih and Tsan-sheng Hsu, "The bridge-connectivity augmentation problem with a partition constraint", Theoretical Computer Science, 411(31-33): 2878-2889, 2010
-1.ei-Chi Huang, Hsin-Wen Wei, Wan-Chen Lu, Wei-Kuan Shih and Tsan-sheng Hsu, "Smallest Bipartite Bridge-connectivity Augmentation", Algorithmica: An International Journal in Computer Science, 54(3): 353-378, 2009
+1. Quan Leng, Wei-Ju Chen, Pei-Chi Huang, Yi-Hung Wei, Aloysius K. Mok, and Song Han, "[Network management of multicluster RT-WiFi networks](https://dl.acm.org/citation.cfm?id=3283451)", ACM Transactions on Sensor Networks (TOSN), 15(1): Article 12, 2019.
+1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "[Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework](https://dl.acm.org/citation.cfm?doid=3284746.3178903)", ACM Transactions on Cyber-Physical Systems (TCPS), 3(2): Article 14, October 2018.
+1. Xiuming Zhu, Pei-Chi Huang, Jianyong Meng, Song Han, Aloysius K. Mok, Deji Chen and Mark Nixon, "[ColLoc: A Collaborative localization and tracking System on WirelessHART](https://dl.acm.org/citation.cfm?id=2584656&dl=ACM&coll=DL)", ACM Transactions on Embedded Computing Systems (TECS), 13(4s): Article 125, 2014.
+1. Hsin-Wen Wei, Wan-Chen Lu, Pei-Chi Huang, Wei-Kuan Shih and Ming-Yang Kao, "[Testing Whether a Set of Code Words Satisfies a Given Set of Constraints](https://www.iis.sinica.edu.tw/page/jise/2010/201003_01.pdf)", Journal of Information Science and Engineering, 26(2): 333–346, 2010.
+1. Yen-Chiu Chen, Hsin-Wen Wei, Pei-Chi Huang, Wei-Kuan Shih and Tsan-sheng Hsu, "[The bridge-connectivity augmentation problem with a partition constraint](https://www.sciencedirect.com/science/article/pii/S0304397510002148)", Theoretical Computer Science, 411(31-33): 2878-2889, 2010.
+1. Pei-Chi Huang, Hsin-Wen Wei, Wan-Chen Lu, Wei-Kuan Shih and Tsan-sheng Hsu, "[Smallest Bipartite Bridge-connectivity Augmentation](https://link.springer.com/article/10.1007/s00453-007-9127-1)", Algorithmica: An International Journal in Computer Science, 54(3): 353-378, 2009.
 
-* <span style="color:blue"> **Selected Conference/Workshop Papers**</span>
+<span style="color:blue"> **Selected Conference/Workshop Papers**</span>
 
-1.Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [video](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4) 
+1. Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [[video]](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4) 
 
 
 1. Pei-Chi Huang, Yi-Hsuan Hsieh and Aloysius K. Mok, "A Skill-Based Programming System for Robotic Furniture Assembly", Accepted to appear in Industrial Informatics (INDIN), 2018 IEEE 16th International Conference on, 2018 [video]
