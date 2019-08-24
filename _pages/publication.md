@@ -5,7 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 
-<span style="color:blue"> **Selected journal papers**</span>  
+# **Selected journal papers**
 
 1. Quan Leng, Wei-Ju Chen, Pei-Chi Huang, Yi-Hung Wei, Aloysius K. Mok, and Song Han, "[Network management of multicluster RT-WiFi networks](https://dl.acm.org/citation.cfm?id=3283451)", ACM Transactions on Sensor Networks (TOSN), 15(1): Article 12, 2019.
 1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "[Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework](https://dl.acm.org/citation.cfm?doid=3284746.3178903)", ACM Transactions on Cyber-Physical Systems (TCPS), 3(2): Article 14, October 2018.
@@ -14,13 +14,15 @@ author_profile: true
 1. Yen-Chiu Chen, Hsin-Wen Wei, Pei-Chi Huang, Wei-Kuan Shih and Tsan-sheng Hsu, "[The bridge-connectivity augmentation problem with a partition constraint](https://www.sciencedirect.com/science/article/pii/S0304397510002148)", Theoretical Computer Science, 411(31-33): 2878-2889, 2010.
 1. Pei-Chi Huang, Hsin-Wen Wei, Wan-Chen Lu, Wei-Kuan Shih and Tsan-sheng Hsu, "[Smallest Bipartite Bridge-connectivity Augmentation](https://link.springer.com/article/10.1007/s00453-007-9127-1)", Algorithmica: An International Journal in Computer Science, 54(3): 353-378, 2009.
 
-<span style="color:blue"> **Selected Conference/Workshop Papers**</span>
+# **Selected Conference/Workshop Papers**
 
 1. Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [[video]](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4) 
+1. Pei-Chi Huang and Aloysius K. Mok, "[A Case Study of Cyber-Physical System Design: Autonomous Pick-and-Place Robot](https://ieeexplore.ieee.org/abstract/document/8607230)", In 2018 IEEE 24th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), pp. 22-31. IEEE, 2018. [[video](http://www.cs.utexas.edu/~peggy/apc.html)] **(Best Paper Award Nomination)**
+1. Pei-Chi Huang, Yi-Hsuan Hsieh and Aloysius K. Mok, "[A Skill-Based Programming System for Robotic Furniture Assembly](https://ieeexplore.ieee.org/abstract/document/8472030)", In 2018 IEEE 16th International Conference on Industrial Informatics (INDIN), pp. 355-361. IEEE, 2018. [[video]](http://www.cs.utexas.edu/~peggy/skills-based.html)
 
 
-1. Pei-Chi Huang, Yi-Hsuan Hsieh and Aloysius K. Mok, "A Skill-Based Programming System for Robotic Furniture Assembly", Accepted to appear in Industrial Informatics (INDIN), 2018 IEEE 16th International Conference on, 2018 [video]
-1. Pei-Chi Huang and Aloysius K. Mok, "A Case Study of Cyber-Physical System Design: Autonomous Pick-and-Place Robot", Accepted to appear in Embedded and Real-Time Computing Systems and Applications (RTCSA), 2018 IEEE 24th International Conference on, 2018 [video]
+
+
 1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Fok Chien-Liang, Aloysius K. Mok and Risto Miikkulainen, "Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework", The University of Texas at Austin, Department of Computer Sciences, technical report, 2017
 1. Wei-Ju Chen, Pei-Chi Huang, Quan Leng, Aloysius K. Mok and Song Han, "Regular Composite Resource Partition in Open Systems", Proceedings of the 38th IEEE Real-Time Systems Symposium (RTSS), pp 34-44, December 2017 [video]
 1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "Tradeoffs in Real-Time Robotic Task Design with Neuroevolution Learning for Imprecise Computation", Proceedings of the 36th IEEE Real-Time Systems Symposium (RTSS), pp 206–215, December 2015 [video]
