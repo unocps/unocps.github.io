@@ -16,14 +16,12 @@ author_profile: true
 
 # **Selected Conference/Workshop Papers**
 
-1. Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [[video]](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4) 
+1. Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [[video](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4)] 
 1. Pei-Chi Huang and Aloysius K. Mok, "[A Case Study of Cyber-Physical System Design: Autonomous Pick-and-Place Robot](https://ieeexplore.ieee.org/abstract/document/8607230)", In 2018 IEEE 24th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), pp. 22-31. IEEE, 2018. [[video](http://www.cs.utexas.edu/~peggy/apc.html)] **(Best Paper Award Nomination)**
-1. Pei-Chi Huang, Yi-Hsuan Hsieh and Aloysius K. Mok, "[A Skill-Based Programming System for Robotic Furniture Assembly](https://ieeexplore.ieee.org/abstract/document/8472030)", In 2018 IEEE 16th International Conference on Industrial Informatics (INDIN), pp. 355-361. IEEE, 2018. [[video]](http://www.cs.utexas.edu/~peggy/skills-based.html)
+1. Pei-Chi Huang, Yi-Hsuan Hsieh and Aloysius K. Mok, "[A Skill-Based Programming System for Robotic Furniture Assembly](https://ieeexplore.ieee.org/abstract/document/8472030)", In 2018 IEEE 16th International Conference on Industrial Informatics (INDIN), pp. 355-361. IEEE, 2018. [[video](http://www.cs.utexas.edu/~peggy/skills-based.html)]
+1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Fok Chien-Liang, Aloysius K. Mok and Risto Miikkulainen, "[Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework](http://www.cs.utexas.edu/~peggy/techReport201701.pdf)", The University of Texas at Austin, Department of Computer Sciences, technical report, 2017.
 
 
-
-
-1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Fok Chien-Liang, Aloysius K. Mok and Risto Miikkulainen, "Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework", The University of Texas at Austin, Department of Computer Sciences, technical report, 2017
 1. Wei-Ju Chen, Pei-Chi Huang, Quan Leng, Aloysius K. Mok and Song Han, "Regular Composite Resource Partition in Open Systems", Proceedings of the 38th IEEE Real-Time Systems Symposium (RTSS), pp 34-44, December 2017 [video]
 1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "Tradeoffs in Real-Time Robotic Task Design with Neuroevolution Learning for Imprecise Computation", Proceedings of the 36th IEEE Real-Time Systems Symposium (RTSS), pp 206–215, December 2015 [video]
 1. Pei-Chi Huang, Joel Lehman, Aloysius K. Mok, Risto Miikkulainen and Luis Sentis, "Grasping Novel Objects with a Dexterous Robotic Hand through Neuroevolution", 2014 IEEE Symposium on Computational Intelligence in Control and Automation (SSCI), pp. 125–132, 9–12 December 2014
