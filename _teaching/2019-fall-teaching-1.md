@@ -74,7 +74,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Aug. 27 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)  |                       |
-| Thur | Aug. 29 | Introduction to Operating Systems & History           | Reading: ch.1.1 - 1.2 |
+| Thur | Aug. 29 | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1TG4Gar6jJkRfJN3PMjXbli2UqYqXXVSN/view?usp=sharing)      | Reading: ch.1.1 - 1.2 |
 | Tue  | Sep. 3  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.3 - 1.4 |
 | Thur | Sep. 5  | Basic Operating Systems Concepts - Part 1             | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1  <br> <span style="color:blue"> **Homework 1 Available** </span> |
