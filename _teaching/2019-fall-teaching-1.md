@@ -13,7 +13,7 @@ An operating system is an abstraction of computer system hardware; it manages th
 # Administrative Information
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
-* Office Hour: Wednesday 3:00 - 4:00 PM, PKI 174A Building or by appointment
+* Office Hour: Wednesday 2:30 - 3:30 PM, PKI 174A Building or by appointment
 * Class Info: TTH 3:00PM - 4:15PM, PKI 155 Building
 * [Course Schedule](#schedule)      
 
