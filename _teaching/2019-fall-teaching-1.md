@@ -76,8 +76,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Aug. 27 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)  |                       |
 | Thur | Aug. 29 | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)      | Reading: ch.1.1 - 1.2 |
 | Tue  | Sep. 3  | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)      | Reading: ch.1.3 - 1.4 |
-| Thur | Sep. 5  | [Basic Operating Systems Concepts - Part 1](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
-| Tue  | Sep. 10 | Basic Operating Systems Concepts - Part 2             | Reading: ch.2.1  <br> <span style="color:blue"> **Homework 1 Available** </span> |
+| Thur | Sep. 5  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
+| Tue  | Sep. 10 | [Processes and File Systems](https://drive.google.com/file/d/1QenBZFfZHy-BrVFOAp_S7xgLN2ljoip7/view?usp=sharing)         | Reading: ch.2.1  <br> <span style="color:blue"> **Homework 1 Available** </span> |
 | Thur | Sep. 12 | Concurrency                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <span style="color:blue"> **Program 1 Available** </span> |
 | Tue  | Sep. 17 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
 | Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 2 Available** </span> |
