@@ -79,20 +79,20 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Sep. 5  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | [Processes and File Systems](https://drive.google.com/file/d/1QenBZFfZHy-BrVFOAp_S7xgLN2ljoip7/view?usp=sharing)         | Reading: ch.2.1  <br> <a href="https://drive.google.com/file/d/1CD2cSjDSj7dnxuUP11IbtUWJI3T1KqtP/view?usp=sharing" style="color: blue">Homework 1 Available</a> |
 | Thur | Sep. 12 | [Processes and File Systems](https://drive.google.com/file/d/1QenBZFfZHy-BrVFOAp_S7xgLN2ljoip7/view?usp=sharing)                                           | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <span style="color:blue"> **Program 1 Available** </span> |
-| Tue  | Sep. 17 | [Concurrency](https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing)              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
-| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 2 Available** </span> |
+| Tue  | Sep. 17 | [Concurrency](https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing)              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br>  <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 1 Solution** </span> |
+| Thur | Sep. 19 | Communication & Synchronization - Part 1              | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:blue"> **Homework 2 Available** </span> |
 | Tue  | Sep. 24 | Communication & Synchronization - Part 2              | Reading: ch.2.2 |
 | Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3 <br> <span style="color:red"> **Homework 2 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 2 Solution**</span> |
-| Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
+| Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
 | Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:blue"> **Homework 3 Available** </span> |
 | Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
-| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
+| Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
 | Thur | Oct. 17 | <span style="color:red"> **Midterm** </span> |   <span style="color:red"> **3:00pm-4:15pm** </span>   |
 | Tue  | Oct. 22 | Semester Break | <span style="color:blue"> **Homework 4 Available** </span> |
 | Thur | Oct. 24 | Semester Break | Reading: ch.3.4 |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
-| Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
+| Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.2 |
 | Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: ch.4.3 |
 | Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 <br> <span style="color:blue"> **Homework 5 Available** </span> <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
@@ -101,7 +101,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Nov. 21 | Input/Output Hardware                                 | Reading: ch.5.1 |
 | Tue  | Nov. 26 | Input/Output Software                                 | Reading: ch.5.2 |
 | Thur | Nov. 28 | Thanksgiving Vacation                                 | <span style="color:blue"> **Homework 6 Available** </span> |
-| Tue  | Dec. 3  | Conference                                            | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](book.mixu.net/distsys/abstractions.html), [Chapter 3](book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
+| Tue  | Dec. 3  | Conference                                            | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html), [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
 | Thur | Dec. 5  | Conference                                            | Reading: ch.5.3 <br> <span style="color:red"> **Homework 6 Due** </span>  <br>  <span style="color:green"> **Homework 6 Solution**</span> |
 | Tue  | Dec. 10 | Security                                              | Reading: ch.5.4 |
 | Thur | Dec. 12 | Put It All Together & In class exam review            | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
