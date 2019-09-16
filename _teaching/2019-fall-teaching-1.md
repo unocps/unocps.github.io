@@ -85,7 +85,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Sep. 26 | Communication & Synchronization - Part 2              | Reading: ch.2.3 <br> <span style="color:red"> **Homework 2 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 2 Solution**</span> |
 | Tue  | Oct. 1  | Classic Task Communication - Part 1                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
 | Thur | Oct. 3  | Classic Task Communication - Part 2                   | Reading: ch.3.1 <br> <span style="color:blue"> **Homework 3 Available** </span> |
-| Tue  | Oct. 8  | Classic Task Communication - Part 2                   | Reading: ch.3.2 |
+| Tue  | Oct. 8  | Attend a Meeting (No class)                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Deadlock                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Tue  | Oct. 15 | Scheduling                                            | Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
 | Thur | Oct. 17 | <span style="color:red"> **Midterm** </span> |   <span style="color:red"> **3:00pm-4:15pm** </span>   |
