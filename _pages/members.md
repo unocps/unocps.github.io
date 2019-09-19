@@ -5,6 +5,7 @@ permalink: /members/
 author_profile: true
 ---
 
-|         Name        |     Title           |       Topic         |   Email             |
+|         Name        |     Title           |       Topic         |   Email             | Semester             |
 |:--------------------|:--------------------|:--------------------|:--------------------| 
-|[Dilanga Lakshitha Galapita Mudiyanselage](https://dabeyrathna.github.io/)| PhD students | Deep Learning | dabeyrathna@unomaha.edu|
+|[Dilanga Lakshitha Galapita Mudiyanselage](https://dabeyrathna.github.io/)| PhD student | Deep Learning |  dabeyrathna@unomaha.edu| 2019 Spring - Present |
+|Janaki Devi Naveena Akula| Master student | Auto-Car |  jakula@unomaha.edu | 2019 Fall - Present |
