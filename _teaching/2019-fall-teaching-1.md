@@ -33,28 +33,6 @@ The final course grade will be computed as follows:
 
 * Homework and Quizzes: 16%
 * Programming Assignments: 30%
-* Midterm: 22%
-* Final 32%
-
-If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
-
-### Grading Type
- Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
-
-|Points	   | Grade |
-|:---------|:------|
-|97 – 100% | A+    |
-|93 – 96%  | A     |
-|90 – 92%  | A-    |
-|87 – 89%  | B+    |
-|83 – 86%  | B     |
-|80 – 82%  | B-    |
-|77 – 79%  | C+    |
-|73 – 76%  | C     |
-|70 – 72%  | C-    |
-|67 – 69%  | D+    |
-|63 – 66%  | D     |
-|60 – 62%  | D-    |
 |0 – 59%   | F     |
 
 ## Late Policy
@@ -79,7 +57,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Sep. 5  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | [Processes and File Systems](https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing)         | Reading: ch.2.1  <br> <a href="https://drive.google.com/file/d/1CD2cSjDSj7dnxuUP11IbtUWJI3T1KqtP/view?usp=sharing" style="color: blue">Homework 1 Available</a> |
 | Thur | Sep. 12 | [Processes and File Systems](https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing)         | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <a href="https://drive.google.com/file/d/1zk97Hjnv2SDBARQ7AqO4LxzD6fuJJfvn/view?usp=sharing" style="color: blue">Program 1 Available</a> |
-| Tue  | Sep. 17 | [Concurrency](https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing)              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> **Homework 1 Due, in Class** </span>  <br>  <a href="https://drive.google.com/file/d/11OJlZ5rGaLHgZ0B9nGOMyYls9dnMsUk9/view?usp=sharing" style="color: green">Homework 1 Solution</a> |
+| Tue  | Sep. 17 | [Concurrency](https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing)              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href="https://drive.google.com/file/d/11OJlZ5rGaLHgZ0B9nGOMyYls9dnMsUk9/view?usp=sharing" style="color: green">Homework 1 Solution</a> |
 | Thur | Sep. 19 | [Communication & Synchronization - Part 1](https://drive.google.com/file/d/111yLjWzoT3LPpLr6xO9-y2ZfCRHa1Frs/view?usp=sharing)              | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <a href="https://drive.google.com/file/d/1GPq8H8_RUyV9FmtDX6XOfx5v8m0XnHe_/view?usp=sharing" style="color: blue">Homework 2 Available</a> |
 | Tue  | Sep. 24 | [Communication & Synchronization - Part 1](https://drive.google.com/file/d/111yLjWzoT3LPpLr6xO9-y2ZfCRHa1Frs/view?usp=sharing)     | Reading: ch.2.2 |
 | Thur | Sep. 26 | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing)      | Reading: ch.2.3 <br> <span style="color:red"> **Homework 2 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 2 Solution**</span> |
