@@ -65,10 +65,10 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 3  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)                   | Reading: ch.3.1 <br> <span style="color:blue"> **Homework 3 Available** </span> |
 | Tue  | Oct. 8  | Attend a Meeting (No class)                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Classic Task Communication - Part 2                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
-| Tue  | Oct. 15 | Deadlock & Scheduling                                            | Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
-| Thur | Oct. 17 | <span style="color:red"> **Midterm** </span> |   <span style="color:red"> **3:00pm-4:15pm** </span>   |
+| Tue  | Oct. 15 | Deadlock               | Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
+| Thur | Oct. 17 | Scheduling |   <span style="color:red"> **3:00pm-4:15pm** </span>   |
 | Tue  | Oct. 22 | Semester Break | <span style="color:blue"> **Homework 4 Available** </span> |
-| Thur | Oct. 24 | Semester Break | Reading: ch.3.4 |
+| Thur | Oct. 24 | <span style="color:red"> **Midterm** </span> | Reading: ch.3.4 |
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.2 |
