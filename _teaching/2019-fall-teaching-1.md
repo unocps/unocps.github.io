@@ -66,6 +66,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Oct. 8  | Attend a Meeting (No class)                   | Reading: ch.3.2 |
 | Thur | Oct. 10 | Classic Task Communication - Part 2                                              | Reading: ch.3.3 <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Tue  | Oct. 15 | Deadlock    | <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br>  <span style="color:blue"> **Program 2 Available** </span> |
+| Thur | Oct. 17 | Scheduling |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)  |
+
 
 | Tue  | Oct. 29 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: ch.4.1 <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
