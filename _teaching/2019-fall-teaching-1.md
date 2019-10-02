@@ -33,6 +33,28 @@ The final course grade will be computed as follows:
 
 * Homework and Quizzes: 16%
 * Programming Assignments: 30%
+* Midterm: 22%
+* Final 32%
+
+If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
+
+### Grading Type
+ Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
+
+|Points	   | Grade |
+|:---------|:------|
+|97 – 100% | A+    |
+|93 – 96%  | A     |
+|90 – 92%  | A-    |
+|87 – 89%  | B+    |
+|83 – 86%  | B     |
+|80 – 82%  | B-    |
+|77 – 79%  | C+    |
+|73 – 76%  | C     |
+|70 – 72%  | C-    |
+|67 – 69%  | D+    |
+|63 – 66%  | D     |
+|60 – 62%  | D-    |
 |0 – 59%   | F     |
 
 ## Late Policy
