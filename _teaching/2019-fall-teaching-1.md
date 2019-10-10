@@ -86,7 +86,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Oct. 1  | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing)                   | Reading: ch.2.4, [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
 | Thur | Oct. 3  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)                   | Reading: ch.3.1 |
 | Tue  | Oct. 8  | Attend a Meeting (No class)      | Reading: ch.3.2 <br> <a href="https://drive.google.com/file/d/1MKUJ3LBZZ1NPaqyb8Td-ToYK5ImU4b0e/view?usp=sharing" style="color: blue">Homework 3 Available</a> |
-| Thur | Oct. 10 | Classic Task Communication - Part 2           | Reading: ch.3.3 <br> |
+| Thur | Oct. 10 | [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)      | Reading: ch.3.3 <br> |
 | Tue  | Oct. 15 | Deadlock    | <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Thur | Oct. 17 | Scheduling        |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:blue"> **Program 2 Available** </span>  |
 | Tue  | Oct. 22 | Semester Break    | <span style="color:blue"> **Homework 4 Available** </span> |
