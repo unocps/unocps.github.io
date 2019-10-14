@@ -89,7 +89,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 10 | [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)      | Reading: ch.3.3 <br> |
 | Tue  | Oct. 15 | [Scheduling](https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing)    | <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> **Homework 3 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 3 Solution**</span> |
 | Thur | Oct. 17 | [Scheduling](https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing)        |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <span style="color:blue"> **Program 2 Available** </span>  |
-| Tue  | Oct. 22 | Semester Break    |  Review Midterm |
+| Tue  | Oct. 22 | Semester Break    |  [Review Midterm](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) |
 | Thur | Oct. 24 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
 | Tue  | Oct. 29 | [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)               | Reading: ch.4.1 <br> <span style="color:blue"> **Homework 4 Available** </span> |
 | Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
