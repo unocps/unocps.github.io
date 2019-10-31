@@ -92,7 +92,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Oct. 22 | Semester Break    |  [Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) |
 | Thur | Oct. 24 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
 | Tue  | Oct. 29 | [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)               | Reading: ch.4.1 <br> <a href="https://drive.google.com/file/d/1lLrDKM_harM6jxrK3JyBIJF36lsSex2T/view?usp=sharing" style="color: blue">Homework 4 Available</a> |
-| Thur | Oct. 31 | Memory Overview - Part I: Memory Partition and Relocation               | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
+| Thur | Oct. 31 | [Memory Overview - Part I: Memory Partition and Relocation](https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.2 |
 | Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: ch.4.3  <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
 | Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 <br> <span style="color:blue"> **Homework 5 Available** </span> |
