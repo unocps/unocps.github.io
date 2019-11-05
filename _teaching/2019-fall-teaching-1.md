@@ -32,7 +32,7 @@ There will be six homeworks, three programming assignments, one midterm and one 
 The final course grade will be computed as follows:
 
 * Homework and Quizzes: 16%
-* Programming Assignments: 30%https://whttps://www.instagram.com/ww.instagram.com/
+* Programming Assignments: 30%
 * Midterm: 22%
 * Final 32%
 
@@ -93,8 +93,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 24 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
 | Tue  | Oct. 29 | [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)               | Reading: ch.4.1 <br> <a href="https://drive.google.com/file/d/1lLrDKM_harM6jxrK3JyBIJF36lsSex2T/view?usp=sharing" style="color: blue">Homework 4 Available</a> |
 | Thur | Oct. 31 | [Memory Overview - Part I: Memory Partition and Relocation](https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Tue  | Nov. 5  | Memory Overview - Part II: Techniques and Swapping                       | Reading: ch.4.2 |
-| Thur | Nov. 7  | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables | Reading: ch.4.3  <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
+| Tue  | Nov. 5  | [Memory Overview - Part I: Memory Partition and Relocation](https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing)   | Reading: ch.4.2 |
+| Thur | Nov. 7  | [Memory Overview - Part II: Techniques and Swapping](https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) | Reading: ch.4.3  <br> <span style="color:red"> **Homework 4 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 4 Solution**</span> |
 | Tue  | Nov. 12 | Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)| Reading: ch.4.4 <br> <span style="color:blue"> **Homework 5 Available** </span> |
 | Thur | Nov. 14 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.5 <br>  <span style="color:blue"> **Program 3 Available** </span> <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
 | Tue  | Nov. 19 | Virtual Memory - Part II: Policies (Page Replacement Algorithms)         | Reading: ch.4.6 <br> <span style="color:red"> **Homework 5 Due, in Class** </span>  <br>  <span style="color:green"> **Homework 5 Solution**</span>  |
