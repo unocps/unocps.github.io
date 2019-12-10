@@ -105,4 +105,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Dec. 5  | [Input/Output Software](https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing) (Conference: No class)                                           | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due, in Class </span>  <br>  <a href="https://drive.google.com/file/d/1u2JmGqBu4cRzv2BHHDhhPLmpsI7E1lEj/view?usp=sharing" style="color: green">Homework 6 Solution</a>|
 | Tue  | Dec. 10 | Security                                              | Reading: ch.5.4 |
 | Thur | Dec. 12 | Put It All Together & In class exam review            | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Thur | Dec. 19 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) | <span style="color:red"> **2:30pm-4:30pm** </span> |
+| Thur | Dec. 19 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) | <span style="color:red"> **3:00pm-5:00pm** </span> |
