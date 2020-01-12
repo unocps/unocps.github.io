@@ -5,6 +5,7 @@ type: Undergraduate course
 permalink: /teaching/2020-spring-teaching-1
 venue: UNO
 date: Jan 13, 2020 - May 08, 2020
+time: TTH 12:00PM - 1:15PM
 location: Peter Kiewit Institute 274
 
 ---
@@ -74,8 +75,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 <!---
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing) --> |                       | 
-| Thur | Jan. 16 | [Introduction to Operating Systems & History] <!---(https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)  -->    | Reading: ch.1.1 - 1.2 |
+| Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)|                       | 
+| Thur | Jan. 16 | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)| Reading: ch.1.1 - 1.2 |
 | Tue  | Jan. 21  | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)      | Reading: ch.1.3 - 1.4 |
 | Thur | Jan. 23  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | [Processes and File Systems](https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing)         | Reading: ch.2.1  <br> <a href="https://drive.google.com/file/d/1CD2cSjDSj7dnxuUP11IbtUWJI3T1KqtP/view?usp=sharing" style="color: blue">Homework 1 Available</a> |
