@@ -71,13 +71,13 @@ You may discuss the homeworks and assignments with anyone and use any reference 
 # Schedule
 This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
-
+<!---
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-(| Tue  | Aug. 27 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)  |                       | )
-| Thur | Aug. 29 | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)      | Reading: ch.1.1 - 1.2 |
-| Tue  | Sep. 3  | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)      | Reading: ch.1.3 - 1.4 |
-| Thur | Sep. 5  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
+| Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing) --> |                       | 
+| Thur | Jan. 16 | [Introduction to Operating Systems & History] <!---(https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)  -->    | Reading: ch.1.1 - 1.2 |
+| Tue  | Jan. 21  | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)      | Reading: ch.1.3 - 1.4 |
+| Thur | Jan. 23  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)         | Reading: ch.1.4 - 1.5 |
 | Tue  | Sep. 10 | [Processes and File Systems](https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing)         | Reading: ch.2.1  <br> <a href="https://drive.google.com/file/d/1CD2cSjDSj7dnxuUP11IbtUWJI3T1KqtP/view?usp=sharing" style="color: blue">Homework 1 Available</a> |
 | Thur | Sep. 12 | [Processes and File Systems](https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing)         | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <a href="https://drive.google.com/file/d/1zk97Hjnv2SDBARQ7AqO4LxzD6fuJJfvn/view?usp=sharing" style="color: blue">Program 1 Available</a> |
 | Tue  | Sep. 17 | [Concurrency](https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing)              | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href="https://drive.google.com/file/d/11OJlZ5rGaLHgZ0B9nGOMyYls9dnMsUk9/view?usp=sharing" style="color: green">Homework 1 Solution</a> |
@@ -107,3 +107,5 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Dec. 10 | [Security](https://drive.google.com/file/d/1Hs6S5NGaCTqa9GnO_Q7x3YUymVfGSCd3/view?usp=sharing)                                  | Reading: ch.5.4 |
 | Thur | Dec. 12 | [Put It All Together](https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review            | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
 | Thur | Dec. 19 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt) | <span style="color:red"> **3:00pm-5:00pm** </span> |
+--> 
+
