@@ -26,3 +26,38 @@ This course assumes students have a good understanding of basic operating system
 ### Supplemental materials
 
 ## Grading
+
+### Grading Type
+ Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
+
+|Points	   | Grade |
+|:---------|:------|
+|97 – 100% | A+    |
+|93 – 96%  | A     |
+|90 – 92%  | A-    |
+|87 – 89%  | B+    |
+|83 – 86%  | B     |
+|80 – 82%  | B-    |
+|77 – 79%  | C+    |
+|73 – 76%  | C     |
+|70 – 72%  | C-    |
+|67 – 69%  | D+    |
+|63 – 66%  | D     |
+|60 – 62%  | D-    |
+|0 – 59%   | F     |
+
+## Late Policy
+Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span>
+
+Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
+
+## Academic Integrity
+You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
+
+---------------------------------------------------------------------------------------------------------------
+
+# Schedule
+This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
+Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
+
+## Grading
