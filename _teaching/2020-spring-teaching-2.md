@@ -60,4 +60,3 @@ You may discuss the homeworks and assignments with anyone and use any reference 
 This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
-## Grading
