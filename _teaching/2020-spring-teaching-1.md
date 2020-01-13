@@ -13,7 +13,7 @@ location: Peter Kiewit Institute 274
 An operating system is an abstraction of computer system hardware; it manages the sharing of various hardware and software resources among the users of the computer system. The parallel history of hardware and operating system development introduces many key concepts including, for example, processor modes, direct memory access (DMA), device controllers, and virtual memory. Basic approaches to kernel organization and implementation are considered. This is often the first course in which students encounter concurrency and concurrent programs. Additional topic areas include system performance evaluation (particularly relating to processor and memory management), security, virtualization, resource allocation and scheduling, and  file systems.
 
 # Administrative Information
-* Instructor: Pei-Chi Huang
+* Instructor: Pei-Chi HuangReading: CPU Scheduling
 * Email: phuang at unomaha dot edu
 * Office Hour: Wednesday 2:30 - 3:30 PM, PKI 174A Building or by appointment
 * Class Info: TTH 12:00PM - 1:15PM, PKI 274 Building
@@ -92,8 +92,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | March 3 | [Scheduling]<!---(https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing)  -->  | <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> Homework 3 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
 | Thur | March 5 | [Deadlock]<!---(https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing) -->       |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <a href=" " style="color: blue">Program 2 Available</a> |
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | [Review Notes]<!---(https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) --> <br> <span style="color:red"> **12:00pm-1:15pm** </span> |
-| Thur | March 12 |  [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) -->  |
-| Tue  | March 17 | [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) -->  | Reading: ch.4.1 <br> <a href="" style="color: blue">Homework 4 Available</a> |
+| Thur | March 12 |  [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) -->  | Reading: ch.4.1 |
+| Tue  | March 17 | [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) -->  |  <a href="" style="color: blue">Homework 4 Available</a> |
 | Thur | March 19 |  [Memory Overview - Part II: Techniques and Swapping]<!---(https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) -->     | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  | March 24  | Spring Vacation  | Reading: ch.4.2 |
 | Thur | March 26  | Spring Vacation | Reading: ch.4.3  <br> <span style="color:red"> Homework 4 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
