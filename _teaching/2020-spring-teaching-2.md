@@ -78,7 +78,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Jan. 14  | [Introduction & Themes](https://drive.google.com/file/d/1Uga4Y1GsR2j5D2aiDyDRLvJJv7Tz1o68/view?usp=sharing)|    |
 | Thur | Jan. 16  | [Hardware and Xinu](https://drive.google.com/file/d/1uqzWAwhv9ciOSE69hA-rmrwNm9CulMyH/view?usp=sharing)| Reading: ch.1 <br> [Announcement of Final Project] |
 | Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual, Xinu Setup Procedure] | Reading: ch.2  |
-| Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 <br> Submit Project Topics |
+| Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
 | Tue  | Jan. 28  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems]    | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
 | Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems]      | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
