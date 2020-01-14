@@ -34,6 +34,7 @@ The primary textbook: Operating System Design: The Xinu Approach (second edition
 
 ## Grading
 
+
 ### Grading Type
  Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
 
@@ -68,12 +69,15 @@ This schedule, and the links contained in it, are subject to change during the s
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)|                       | 
-| Thur | Jan. 16 | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)| Reading: ch.1.1 - 1.2 |
-| Tue  | Jan. 21  | [Basic Operating Systems Concepts]<!---(https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing) -->| Reading: ch.1.3 - 1.4 |
-| Thur | Jan. 23  | [Basic Operating Systems Concepts]<!---(https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing) -->     | Reading: ch.1.4 - 1.5 |
-| Tue  | Jan. 28 | [Processes and File Systems]<!---(https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing) -->        | Reading: ch.2.1  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
-| Thur | Jan. 30 | [Processes and File Systems]<!---(https://drive.google.com/file/d/1P12kjBdXQsuCRFM87Tq5HTbsYX3trhUo/view?usp=sharing) -->        | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <a href="" style="color: blue">Program 1 Available</a> |
+| Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1Uga4Y1GsR2j5D2aiDyDRLvJJv7Tz1o68/view?usp=sharing) |  |
+| Thur | Jan. 16 | [Hardware and Xinu](https://drive.google.com/file/d/1uqzWAwhv9ciOSE69hA-rmrwNm9CulMyH/view?usp=sharing)| Reading: ch.1 |
+| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual, Xinu Setup Procedure] | Reading: ch.2 |
+| Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 |
+| Tue  | Jan. 28  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
+| Thur | Jan. 30  | [Hardware Architecture and Runtime Systems]    | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
+
+
+
 | Tue  | Feb. 4 | [Concurrency]<!---(https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing) -->               | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 6 | [Communication & Synchronization - Part 1]<!---(https://drive.google.com/file/d/1MAIAuhTYBHN4KF0lIAO7bb-LIZnYQHQk/view?usp=sharing) -->    | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <a href=" " style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 11 | [Communication & Synchronization - Part 1]<!---(https://drive.google.com/file/d/1MAIAuhTYBHN4KF0lIAO7bb-LIZnYQHQk/view?usp=sharing) -->    | Reading: ch.2.2 |
