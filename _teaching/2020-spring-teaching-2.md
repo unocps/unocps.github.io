@@ -34,6 +34,11 @@ The primary textbook: Operating System Design: The Xinu Approach (second edition
 
 ## Grading
 
+* Homework and Quizzes: 16%
+* Programming Assignments: 30%
+* Midterm: 22%
+* Final 32%
+
 
 ### Grading Type
  Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
@@ -72,7 +77,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Jan. 14  | [Introduction & Themes](https://drive.google.com/file/d/1Uga4Y1GsR2j5D2aiDyDRLvJJv7Tz1o68/view?usp=sharing)|    |
 | Thur | Jan. 16  | [Hardware and Xinu](https://drive.google.com/file/d/1uqzWAwhv9ciOSE69hA-rmrwNm9CulMyH/view?usp=sharing)| Reading: ch.1 |
-| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual, Xinu Setup Procedure] | Reading: ch.2 |
+| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual, Xinu Setup Procedure] | Reading: ch.2 <br> [Announcement of Oral Presentation] |
 | Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 |
 | Tue  | Jan. 28  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems]    | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
