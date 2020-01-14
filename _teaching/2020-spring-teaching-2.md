@@ -76,9 +76,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Jan. 14  | [Introduction & Themes](https://drive.google.com/file/d/1Uga4Y1GsR2j5D2aiDyDRLvJJv7Tz1o68/view?usp=sharing)|    |
-| Thur | Jan. 16  | [Hardware and Xinu](https://drive.google.com/file/d/1uqzWAwhv9ciOSE69hA-rmrwNm9CulMyH/view?usp=sharing)| Reading: ch.1 |
-| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual, Xinu Setup Procedure] | Reading: ch.2 <br> [Announcement of Final Project Presentation] |
-| Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 |
+| Thur | Jan. 16  | [Hardware and Xinu](https://drive.google.com/file/d/1uqzWAwhv9ciOSE69hA-rmrwNm9CulMyH/view?usp=sharing)| Reading: ch.1 <br> [Announcement of Final Project] |
+| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual, Xinu Setup Procedure] | Reading: ch.2  |
+| Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 <br> Submit Project Topics |
 | Tue  | Jan. 28  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems]    | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
 | Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems]      | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
@@ -97,7 +97,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | March 19 | [Clock and Timer Management]   | Reading: ch.16, 17|
 | Tue  | March 24  | Spring Vacation  |    |
 | Thur | March 26  | Spring Vacation | <span style="color:red"> Homework 4 Due </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
-| Tue  | March 31  |  [High-level Synchronous Message Passing] <br> Project Progress Report | Reading: ch.18 |
+| Tue  | March 31  |  [High-level Synchronous Message Passing]  | Reading: ch.18 |
 | Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> Project Progress Report | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
 | Tue  | Apr. 7 | [Network and Protocol Implementation]      | Reading: ch.20 |
 | Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.20 |
