@@ -35,9 +35,9 @@ The primary textbook: Operating System Design: The Xinu Approach (second edition
 ## Grading
 
 * Homework and Quizzes (Individual): 16%
-* Programming Assignments (Teamwork, only 1 or 2 each group): 27%
+* Programming Assignments (Teamwork, only 1 or 2 for each group): 27%
 * Midterm: 22%
-* Final (Teamwork, only 1 or 2 each group): 35%
+* Final (Teamwork, only 1 or 2 for each group): 35%
 
 
 ### Grading Type
@@ -84,24 +84,24 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems]      | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 6  | [Process Management]   | Reading: ch.6 <br> <a href=" " style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 11 | [Process Management]   | Reading: ch.6 |
-| Thur | Feb. 13 | [Process Coordination and Synchronization]     | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due, in Class </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
+| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> Project Progress Report    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due, in Class </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7  |
 | Thur | Feb. 20  | [Inter-Process Communication]     | Reading: ch.8 |
 | Tue  | Feb. 25  | [[Inter-Process Communication]    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
 | Thur | Feb. 27 | [Low-level Memory Management]      | Reading: ch.9,10 |
 | Tue  | March 3 | [Low-level Memory Management]      | Reading: ch.10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> Homework 3 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
-| Thur | March 5 | [High-level Memory Management]     |  Reading: ch.10, 11 <br> <a href=" " style="color: blue">Program 2 Available</a> |
+| Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11 <br> <a href=" " style="color: blue">Program 2 Available</a> |
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
-| Thur | March 12 | [High-level Memory Management]  | Reading: ch.12, 13 |
+| Thur | March 12 | [High-level Memory Management] <br> Project Progress Report  | Reading: ch.12, 13 |
 | Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
 | Thur | March 19 | [Clock and Timer Management]   | Reading: ch.16, 17|
 | Tue  | March 24  | Spring Vacation  |    |
 | Thur | March 26  | Spring Vacation | <span style="color:red"> Homework 4 Due </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
-| Tue  | March 31  |  [High-level Synchronous Message Passing]  | Reading: ch.18 |
-| Thur | Apr. 2 | [High-level Synchronous Message Passing]  | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
+| Tue  | March 31  |  [High-level Synchronous Message Passing] <br> Project Progress Report | Reading: ch.18 |
+| Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> Project Progress Report | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
 | Tue  | Apr. 7 | [Network and Protocol Implementation]      | Reading: ch.20 |
 | Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.20 |
-| Tue  | Apr. 14 | [File Systems]    | <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
+| Tue  | Apr. 14 | [File Systems]     | <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
 | Thur | Apr. 16 | Project presentations     |  Presentation List <br> Team 1, Team 2, Team 3 |
 | Tue  | Apr. 21 | Project presentations     |  Presentation List <br> Team 4, Team 5, Team 6 |
 | Thur | Apr. 23 | Project presentations     |  Presentation List <br> Team 7, Team 8, Team 9 |
