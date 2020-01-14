@@ -76,34 +76,31 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 |
 | Tue  | Jan. 28  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems]    | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
-
-
-
-| Tue  | Feb. 4 | [Concurrency]<!---(https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing) -->               | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
-| Thur | Feb. 6 | [Communication & Synchronization - Part 1]<!---(https://drive.google.com/file/d/1MAIAuhTYBHN4KF0lIAO7bb-LIZnYQHQk/view?usp=sharing) -->    | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <a href=" " style="color: blue">Homework 2 Available</a> |
-| Tue  | Feb. 11 | [Communication & Synchronization - Part 1]<!---(https://drive.google.com/file/d/1MAIAuhTYBHN4KF0lIAO7bb-LIZnYQHQk/view?usp=sharing) -->    | Reading: ch.2.2 |
-| Thur | Feb. 13 | [Communication & Synchronization - Part 2]<!---(https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing) -->     | Reading: ch.2.3 <br> <span style="color:red"> Homework 2 Due, in Class </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
-| Tue  | Feb. 18  | [Communication & Synchronization - Part 2]<!---(https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing) -->     | Reading: ch.2.4, [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
-| Thur | Feb. 20  | [Classic Task Communication - Part 1]<!---(https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)     -->     | Reading: ch.3.1 |
-| Tue  | Feb. 25  |  [Classic Task Communication - Part 2]<!---(https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)  -->                   | Reading: ch.3.2 <br> <a href="  " style="color: blue">Homework 3 Available</a> |
-| Thur | Feb. 27 | [Scheduling]<!---(https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing)  -->      | Reading: ch.3.3 <br> |
-| Tue  | March 3 | [Scheduling]<!---(https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing)  -->  | <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> Homework 3 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
-| Thur | March 5 | [Deadlock]<!---(https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing) -->       |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br> <a href=" " style="color: blue">Program 2 Available</a> |
-| Tue  | March 10 | <span style="color:red"> **Midterm** </span> | [Review Notes]<!---(https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) --> <br> <span style="color:red"> **12:00pm-1:15pm** </span> |
-| Thur | March 12 |  [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) -->  | Reading: ch.4.1 |
-| Tue  | March 17 | [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) -->  |  <a href="" style="color: blue">Homework 4 Available</a> |
-| Thur | March 19 |  [Memory Overview - Part II: Techniques and Swapping]<!---(https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) -->     | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Tue  | March 24  | Spring Vacation  | Reading: ch.4.2 |
-| Thur | March 26  | Spring Vacation | Reading: ch.4.3  <br> <span style="color:red"> Homework 4 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
-| Tue  | March 31 | [Memory Overview - Part II: Techniques and Swapping]<!---(https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) -->  | Reading: ch.4.4 |
-| Thur | Apr. 2 | [Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)]<!---(https://drive.google.com/file/d/1ak8YjWM22XT16cCNCvHTjkSxyAJzI5Ul/view?usp=sharing) -->  | Reading: ch.4.5 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
-| Tue  | Apr. 7 | [Virtual Memory - Part II: Policies (Page Replacement Algorithms)]<!---(https://drive.google.com/file/d/1SKbeNV2T-AgfnwqsdZzJeuJOEk2Oznd4/view?usp=sharing)   -->      | Reading: ch.4.6 |
-| Thur | Apr. 9 | [Virtual Memory - Part II: Policies (Page Replacement Algorithms)]<!---(https://drive.google.com/file/d/1SKbeNV2T-AgfnwqsdZzJeuJOEk2Oznd4/view?usp=sharing)   -->      | Reading: ch.5.1 |
-| Tue  | Apr. 14 | [Input/Output Hardware]<!---(https://drive.google.com/file/d/1PagIcxeeZvnkJbK_qoQlBsyCYVe7qQAA/view?usp=sharing) -->     | Reading: ch.5.2 <br> <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
-| Thur | Apr. 16 | [Input/Output Software]<!---(https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing) -->                                | <a href=" " style="color: blue">Homework 6 Available</a> |
-| Tue  | Apr. 21 | [Input/Output Software]<!---(https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing) -->        | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html), [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
-| Thur | Apr. 23 | Project presentations       | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 6 Solution</a>|
-| Tue  | Apr. 28 | Project presentations <!---(https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review   -->                              | Reading: ch.5.4 |
-| Thur | Apr. 30 | Project presentations| <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Thur | May 5 | Oral Presentation| Group |
+| Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems]      | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
+| Thur | Feb. 6  | [Process Management]   | Reading: ch.6 <br> <a href=" " style="color: blue">Homework 2 Available</a> |
+| Tue  | Feb. 11 | [Process Management]   | Reading: ch.6 |
+| Thur | Feb. 13 | [Process Coordination and Synchronization]     | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due, in Class </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
+| Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7  |
+| Thur | Feb. 20  | [Inter-Process Communication]     | Reading: ch.8 |
+| Tue  | Feb. 25  | [[Inter-Process Communication]    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
+| Thur | Feb. 27 | [Low-level Memory Management]      | Reading: ch.9,10 |
+| Tue  | March 3 | [Low-level Memory Management]      | Reading: ch.10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> Homework 3 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
+| Thur | March 5 | [High-level Memory Management]     |  Reading: ch.10, 11 <br> <a href=" " style="color: blue">Program 2 Available</a> |
+| Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
+| Thur | March 12 | [High-level Memory Management]  | Reading: ch.12, 13 |
+| Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
+| Thur | March 19 | [Clock and Timer Management]   | Reading: ch.16, 17|
+| Tue  | March 24  | Spring Vacation  |    |
+| Thur | March 26  | Spring Vacation | <span style="color:red"> Homework 4 Due </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
+| Tue  | March 31  |  [High-level Synchronous Message Passing]  | Reading: ch.18 |
+| Thur | Apr. 2 | [High-level Synchronous Message Passing]  | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
+| Tue  | Apr. 7 | [Network and Protocol Implementation]      | Reading: ch.20 |
+| Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.20 |
+| Tue  | Apr. 14 | [File Systems]    | <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
+| Thur | Apr. 16 | Project presentations     |  Presentation List <br> Team 1, Team 2, Team 3 |
+| Tue  | Apr. 21 | Project presentations     |  Presentation List <br> Team 4, Team 5, Team 6 |
+| Thur | Apr. 23 | Project presentations     |  Presentation List <br> Team 7, Team 8, Team 9 |
+| Tue  | Apr. 28 | Prep week                 |                                                |
+| Thur | Apr. 30 | Prep week                 | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
+| Sunday | May 3  | Report and Demo Due | [Report Template] <br> Report and Demo Due 11:59pm |
 
