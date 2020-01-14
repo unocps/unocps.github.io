@@ -9,7 +9,7 @@ time: TTH 3:00PM - 4:15PM
 location: Peter Kiewit Institute 274
 ---
 
-The course introduces the design and structure of computer operating systems. It covers the concepts, principles, functionality, trade-offs, and implementation of systems that support concurrent processing. The individual components of an operating system (Xinu) will be examined in detail at the source code level, and students will be expected to complete various assignments on real hardware (Raspberry Pi 2B or 3B or Beagle Bone Black or Intel Galileo board. Others are NOT recommended.). At a minimum, you will need a board, a memory card, a USB-micro cable, and a USB-serial adapter. Some of these assignments will involve simple “follow the steps” activities, while others will require the design of new or modified system components and application programs. Lectures will closely follow the expected readings which are indicated in the class schedule on the class web pages. 
+The course introduces the design and structure of computer operating systems, and also considers advanced operating system topics and exposes students to recent developments in operating systems research. The course involves the concepts, principles, functionality, trade-offs, and implementation of systems that support concurrent processing. The individual components of an operating system (Xinu) will be examined in detail at the source code level, and students will be expected to complete various assignments on real hardware (Raspberry Pi 2B or 3B or Beagle Bone Black or Intel Galileo board. Others are NOT recommended.). At a minimum, you will need a board, a memory card, a USB-micro cable, and a USB-serial adapter. Some of these assignments will involve simple “follow the steps” activities, while others will require the design of new or modified system components and application programs. Lectures will closely follow the expected readings which are indicated in the class schedule on the class web pages. 
 
 # Administrative Information
 * Instructor: Pei-Chi Huang
@@ -22,8 +22,15 @@ The course introduces the design and structure of computer operating systems. It
 This course assumes students have a good understanding of basic operating system principles similar to that provided by a traditional introductory undergraduate operating systems course. In particular, the major functions of an operating system should be familiar, as should the basic algorithms and techniques used to implement them. Concepts of concurrent programming, including processes, threads, and various mechanisms for interprocess communication should be familiar. It is expected that students will have familiarity with the API for a traditional UNIX/Linux operating system, including such things as input/output and process management. All of the programming for the course will be done using the C programming language. Familiarity with the concepts of assembly language for some machine is expected, although it is unlikely that any assembly language code will need to be written for the programming assignments.
 
 ## Recommended Textbook
+The primary textbook: Operating System Design: The Xinu Approach (second edition) by Douglas Comer, 2015, CRC Press.
 
 ### Supplemental materials
+* [Raspberry Pi](https://www.raspberrypi.org/)
+* [Upgrading Embedded Xinu for the Raspberry Pi 3](http://reu.mscs.mu.edu/index.php/Upgrading_Embedded_Xinu_for_the_Multi-Core_Raspberry_Pi_3)
+* The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+* Tanenbaum, A.S., 2009. Modern operating system. Pearson Education, Inc.
+* Daniel, P. and Marco, C., 2007. Understanding the Linux kernel.
+* Schimmel, C., 1994. UNIX systems for modern architectures: symmetric multiprocessing and caching for kernel programmers. Addison-Wesley.
 
 ## Grading
 
@@ -59,7 +66,6 @@ You may discuss the homeworks and assignments with anyone and use any reference 
 # Schedule
 This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
-<!---
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)|                       | 
@@ -91,8 +97,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Apr. 14 | [Input/Output Hardware]<!---(https://drive.google.com/file/d/1PagIcxeeZvnkJbK_qoQlBsyCYVe7qQAA/view?usp=sharing) -->     | Reading: ch.5.2 <br> <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
 | Thur | Apr. 16 | [Input/Output Software]<!---(https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing) -->                                | <a href=" " style="color: blue">Homework 6 Available</a> |
 | Tue  | Apr. 21 | [Input/Output Software]<!---(https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing) -->        | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html), [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
-| Thur | Apr. 23 | [Security] <!---(https://drive.google.com/file/d/1Hs6S5NGaCTqa9GnO_Q7x3YUymVfGSCd3/view?usp=sharing) -->                          | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 6 Solution</a>|
-| Tue  | Apr. 28 | [Put It All Together]<!---(https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review   -->                              | Reading: ch.5.4 |
-| Thur | Apr. 30 | Prep week | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Thur | May 5 | Oral Presentation| Group | -->
+| Thur | Apr. 23 | Project presentations       | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 6 Solution</a>|
+| Tue  | Apr. 28 | Project presentations <!---(https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review   -->                              | Reading: ch.5.4 |
+| Thur | Apr. 30 | Project presentations| <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
+| Thur | May 5 | Oral Presentation| Group |
 
