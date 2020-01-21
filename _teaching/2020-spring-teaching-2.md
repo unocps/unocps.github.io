@@ -77,9 +77,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue  | Jan. 14  | [Introduction & Themes](https://drive.google.com/file/d/1WcWtcpMVgTr0JCag4ExpLgFth8c_lZ6h/view?usp=sharing)|    |
 | Thur | Jan. 16  | [Hardware and Xinu](https://drive.google.com/file/d/1KKELMFod6h72_rUdvs3H76QudORE7Q2V/view?usp=sharing)| Reading: ch.1 <br> [Announcement of Final Project](https://drive.google.com/file/d/1rgnYin7oGLA4n1fcQMXgR_N3tNGbPRUt/view?usp=sharing) |
-| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual](https://drive.google.com/file/d/1gJlI3AoWDbBgFb5ZqsugrscmOU2Xcs7Y/view?usp=sharing) <br> [Xinu Setup Procedure](https://drive.google.com/file/d/1FQyCMn6bjh_5jko49ydTCSn_vjc-Lzqc/view?usp=sharing) | Reading: ch.2  |
-| Thur | Jan. 23  | [Organization of an Operating System]  | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
-| Tue  | Jan. 28  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
+| Tue  | Jan. 21  | [Xinu on Intel Galileo User Manual](https://drive.google.com/file/d/1gJlI3AoWDbBgFb5ZqsugrscmOU2Xcs7Y/view?usp=sharing) <br> [Xinu Setup Procedure](https://drive.google.com/file/d/1FQyCMn6bjh_5jko49ydTCSn_vjc-Lzqc/view?usp=sharing) | [Galileo System Receipt](https://drive.google.com/file/d/1jCtAfXEXYv17TyEpndDRWBzli0x7BoaC/view?usp=sharing) <br> Reading: ch.2  |
+| Thur | Jan. 23  | [Organization of an Operating System](https://drive.google.com/file/d/1-oU5uTOMux7nOjIEFJCHyW0VHvxQXBL8/view?usp=sharing)  | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
+| Tue  | Jan. 28  | [Organization of an Operating System](https://drive.google.com/file/d/1-oU5uTOMux7nOjIEFJCHyW0VHvxQXBL8/view?usp=sharing)  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems]    | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
 | Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems]      | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 6  | [Process Management]   | Reading: ch.6 <br> <a href=" " style="color: blue">Homework 2 Available</a> |
