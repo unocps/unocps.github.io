@@ -67,8 +67,8 @@ Contact the instructor in case of medical emergency, and a written proof from yo
 ## Academic Integrity
 You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
 
-### Reasonable accommodations 
-Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, <a href="unoaccessibility@unomaha.edu" style="color: black"> Email:</a>)
+### Accommodations 
+Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: unoaccessibility@unomaha.edu)
 
 ---------------------------------------------------------------------------------------------------------------
 
