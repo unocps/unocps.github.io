@@ -81,16 +81,16 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Jan. 23  | [Organization of an Operating System](https://drive.google.com/file/d/1-oU5uTOMux7nOjIEFJCHyW0VHvxQXBL8/view?usp=sharing)  | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
 | Tue  | Jan. 28  | [Organization of an Operating System](https://drive.google.com/file/d/1-oU5uTOMux7nOjIEFJCHyW0VHvxQXBL8/view?usp=sharing)  | Reading: Ch.4  <br> <a href=" " style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems](https://drive.google.com/file/d/1Q-Qcmd4bmKcNumAQgq2uDEL1tGf0Q8gm/view?usp=sharing) | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> |
-| Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems](https://drive.google.com/file/d/1Q-Qcmd4bmKcNumAQgq2uDEL1tGf0Q8gm/view?usp=sharing) | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
+| Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems](https://drive.google.com/file/d/1Q-Qcmd4bmKcNumAQgq2uDEL1tGf0Q8gm/view?usp=sharing) | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 6  | [Process Management]   | Reading: ch.6 <br> <a href=" " style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 11 | [Process Management]   | Reading: ch.6 |
-| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <span style="color:red"> Project Progress Report </span>    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due, in Class </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
+| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <span style="color:red"> Project Progress Report </span>    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7  |
 | Thur | Feb. 20  | [Inter-Process Communication]     | Reading: ch.8 |
 | Tue  | Feb. 25  | [[Inter-Process Communication]    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
-| Thur | Feb. 27 | [Low-level Memory Management]      | Reading: ch.9,10 |
-| Tue  | March 3 | [Low-level Memory Management]      | Reading: ch.10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <span style="color:red"> Homework 3 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
-| Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11 <br> <a href=" " style="color: blue">Program 2 Available</a> |
+| Thur | Feb. 27 | [Low-level Memory Management]      | Reading: ch.9,10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
+| Tue  | March 3 | [Low-level Memory Management]      | Reading: ch.10 <br> <a href=" " style="color: blue">Program 2 Available</a>  <br> <span style="color:red"> Homework 3 Due </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
+| Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11|
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
 | Thur | March 12 | [High-level Memory Management] <br> <span style="color:red"> Project Progress Report </span>  | Reading: ch.12, 13 |
 | Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
