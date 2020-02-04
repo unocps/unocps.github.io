@@ -85,10 +85,10 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Jan. 28  | [Organization of an Operating System](https://drive.google.com/file/d/1-oU5uTOMux7nOjIEFJCHyW0VHvxQXBL8/view?usp=sharing)  | Reading: Ch.4  <br> <a href="https://drive.google.com/file/d/1Q7sWMA_OzFTwaKk9BeVQA6wGfXoCeD11/view?usp=sharing" style="color: blue"> Homework 1 Available</a>  |
 | Thur | Jan. 30  | [Hardware Architecture and Runtime Systems](https://drive.google.com/file/d/1Q-Qcmd4bmKcNumAQgq2uDEL1tGf0Q8gm/view?usp=sharing) | Reading: ch.5 <br>  <a href="https://drive.google.com/file/d/1XTrXZQ0O-A5JPR9DlLA7k5_mzc8eTDb5/view?usp=sharing" style="color: blue">Program 1 Available</a> |
 | Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems](https://drive.google.com/file/d/1Q-Qcmd4bmKcNumAQgq2uDEL1tGf0Q8gm/view?usp=sharing) | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
-| Thur | Feb. 6  | [Process Management]   | Reading: ch.6 <br> <a href=" " style="color: blue">Homework 2 Available</a> |
-| Tue  | Feb. 11 | [Process Management]   | Reading: ch.6 |
-| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <span style="color:red"> Project Progress Report </span>    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
-| Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7  |
+| Thur | Feb. 6  | [Process Management](https://drive.google.com/file/d/1UgOuyvdqVbmrA_fFr8Ig9CgMbqN-cWlj/view?usp=sharing)   | Reading: ch.6 <br> <a href="https://drive.google.com/file/d/1sZ-qv1nHBWatOj0R1pv0vS98zmT2Os5r/view?usp=sharing" style="color: blue">Homework 2 Available</a> |
+| Tue  | Feb. 11 | [Process Management](https://drive.google.com/file/d/1UgOuyvdqVbmrA_fFr8Ig9CgMbqN-cWlj/view?usp=sharing)   | Reading: ch.6 |
+| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <span style="color:red"> Project Progress Report </span>    | Reading: ch.7 |
+| Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Thur | Feb. 20  | [Inter-Process Communication]     | Reading: ch.8 |
 | Tue  | Feb. 25  | [[Inter-Process Communication]    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
 | Thur | Feb. 27 | [Low-level Memory Management]      | Reading: ch.9,10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
