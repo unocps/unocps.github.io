@@ -87,7 +87,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Feb. 4 | [Hardware Architecture and Runtime Systems](https://drive.google.com/file/d/1Q-Qcmd4bmKcNumAQgq2uDEL1tGf0Q8gm/view?usp=sharing) | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 6  | [Process Management](https://drive.google.com/file/d/1UgOuyvdqVbmrA_fFr8Ig9CgMbqN-cWlj/view?usp=sharing)   | Reading: ch.6 <br> <a href="https://drive.google.com/file/d/1sZ-qv1nHBWatOj0R1pv0vS98zmT2Os5r/view?usp=sharing" style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 11 | [Process Management](https://drive.google.com/file/d/1UgOuyvdqVbmrA_fFr8Ig9CgMbqN-cWlj/view?usp=sharing)   | Reading: ch.6 |
-| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <span style="color:red"> Project Progress Report </span>    | Reading: ch.7 |
+| Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <a href="https://drive.google.com/file/d/1oQBRZEPD-DrWqsPtt2TRr7QtEkxqK-Fv/view?usp=sharing" style="color: red">Project Progress Report (3 mins presentation and one page section submission each team) | Reading: ch.7 |
 | Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Thur | Feb. 20  | [Inter-Process Communication]     | Reading: ch.8 |
 | Tue  | Feb. 25  | [[Inter-Process Communication]    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
@@ -95,13 +95,13 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | March 3 | [Low-level Memory Management]      | Reading: ch.10 <br> <a href=" " style="color: blue">Program 2 Available</a>  <br> <span style="color:red"> Homework 3 Due </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
 | Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11|
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
-| Thur | March 12 | [High-level Memory Management] <br> <span style="color:red"> Project Progress Report </span>  | Reading: ch.12, 13 |
+| Thur | March 12 | [High-level Memory Management] <br> <a href="https://drive.google.com/file/d/1oQBRZEPD-DrWqsPtt2TRr7QtEkxqK-Fv/view?usp=sharing" style="color: red">Project Progress Report (3 mins presentation and one page section submission each team) </a> | Reading: ch.12, 13 |
 | Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
 | Thur | March 19 | [Clock and Timer Management]   | Reading: ch.16, 17|
 | Tue  | March 24  | Spring Vacation  |    |
 | Thur | March 26  | Spring Vacation | <span style="color:red"> Homework 4 Due </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
 | Tue  | March 31  |  [High-level Synchronous Message Passing]  | Reading: ch.18 |
-| Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> <span style="color:red"> Project Progress Report </span> | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
+| Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> <a href="https://drive.google.com/file/d/1oQBRZEPD-DrWqsPtt2TRr7QtEkxqK-Fv/view?usp=sharing" style="color: red">Project Progress Report (3 mins presentation and one page section submission each team) | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
 | Tue  | Apr. 7 | [Network and Protocol Implementation]      | Reading: ch.20 |
 | Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.20 |
 | Tue  | Apr. 14 | [File Systems]     | <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
@@ -110,5 +110,5 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Apr. 23 | Project presentations     |  Presentation List <br> Team 7, Team 8, Team 9 |
 | Tue  | Apr. 28 | Prep week                 |                                                |
 | Thur | Apr. 30 | Prep week                 | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Sunday | May 3  | Report and Demo Due | [Report Template] <br> Report and Demo Due 11:59pm |
+| Sunday | May 3  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm |
 
