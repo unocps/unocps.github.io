@@ -110,6 +110,6 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Apr. 23 | [Security] <!---(https://drive.google.com/file/d/1Hs6S5NGaCTqa9GnO_Q7x3YUymVfGSCd3/view?usp=sharing) -->                          | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 6 Solution</a>|
 | Tue  | Apr. 28 | [Put It All Together]<!---(https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review   -->                              | Reading: ch.5.4 |
 | Thur | Apr. 30 | Prep week | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| The | May 5 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2) | <span style="color:red"> **12:00pm-2:00pm** </span> |
+| Tue | May 5 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2) | <span style="color:red"> **12:00pm-2:00pm** </span> |
 
 
