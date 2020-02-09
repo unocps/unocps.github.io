@@ -88,7 +88,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Feb. 6  | [Process Management](https://drive.google.com/file/d/1UgOuyvdqVbmrA_fFr8Ig9CgMbqN-cWlj/view?usp=sharing)   | Reading: ch.6 <br> <a href="https://drive.google.com/file/d/1sZ-qv1nHBWatOj0R1pv0vS98zmT2Os5r/view?usp=sharing" style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 11 | [Process Management](https://drive.google.com/file/d/1UgOuyvdqVbmrA_fFr8Ig9CgMbqN-cWlj/view?usp=sharing)   | Reading: ch.6 |
 | Thur | Feb. 13 | [Process Coordination and Synchronization]  <br> <a href="https://drive.google.com/file/d/1oQBRZEPD-DrWqsPtt2TRr7QtEkxqK-Fv/view?usp=sharing" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team) | Reading: ch.7 |
-| Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
+| Tue  | Feb. 18  | [Process Coordination and Synchronization]    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1OtqowdLAHAcz-1VyBc6ss658ZsewqV6F/view?usp=sharing" style="color: green">Homework 2 Solution</a> |
 | Thur | Feb. 20  | [Inter-Process Communication]     | Reading: ch.8 |
 | Tue  | Feb. 25  | [[Inter-Process Communication]    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
 | Thur | Feb. 27 | [Low-level Memory Management]      | Reading: ch.9,10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
