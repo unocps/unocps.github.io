@@ -13,7 +13,8 @@ location: Peter Kiewit Institute 274
 An operating system is an abstraction of computer system hardware; it manages the sharing of various hardware and software resources among the users of the computer system. The parallel history of hardware and operating system development introduces many key concepts including, for example, processor modes, direct memory access (DMA), device controllers, and virtual memory. Basic approaches to kernel organization and implementation are considered. This is often the first course in which students encounter concurrency and concurrent programs. Additional topic areas include system performance evaluation (particularly relating to processor and memory management), security, virtualization, resource allocation and scheduling, and  file systems.
 
 # Administrative Information
-* Instructor: Pei-Chi HuangReading: CPU Scheduling
+* Instructor: Pei-Chi Huang
+* Reading: CPU Scheduling
 * Email: phuang at unomaha dot edu
 * Office Hour: Wednesday 2:30 - 3:30 PM, PKI 174A Building or by appointment
 * Class Info: TTH 12:00PM - 1:15PM, PKI 274 Building
