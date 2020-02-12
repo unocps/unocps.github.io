@@ -95,13 +95,13 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | March 3 | [Low-level Memory Management]      | Reading: ch.10 <br> <a href=" " style="color: blue">Program 2 Available</a>  <br> <span style="color:red"> Homework 3 Due </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
 | Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11|
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
-| Thur | March 12 | [High-level Memory Management] <br> <a href="" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team) | Reading: ch.12, 13 |
+| Thur | March 12 | [High-level Memory Management] <br> <span style="color:red"> **Project Progress Report** (3 mins presentation and 1 page section submission each team) | Reading: ch.12, 13 |
 | Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
 | Thur | March 19 | [Clock and Timer Management]   | Reading: ch.16, 17|
 | Tue  | March 24  | Spring Vacation  |    |
 | Thur | March 26  | Spring Vacation | <span style="color:red"> Homework 4 Due </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
 | Tue  | March 31  |  [High-level Synchronous Message Passing]  | Reading: ch.18 |
-| Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> <a href="" style="color: red">Project Progress Report </a> (3 mins presentation and 1 page section submission each team) | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
+| Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> <span style="color:red"> **Project Progress Report** (3 mins presentation and 1 page section submission each team) | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>   <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
 | Tue  | Apr. 7 | [Network and Protocol Implementation]      | Reading: ch.20 |
 | Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.20 |
 | Tue  | Apr. 14 | [File Systems]     | <span style="color:red"> Homework 5 Due, in Class </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
