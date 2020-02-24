@@ -92,8 +92,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Feb. 20  | [Process Coordination and Synchronization](https://drive.google.com/file/d/178VqcrQpR8RYe4dzAqc-yeYKNgaAlyzo/view?usp=sharing)     | Reading: ch.8 |
 | Tue  | Feb. 25  | [Inter-Process Communication](https://drive.google.com/file/d/15EnGEGqgzc-GYJMRXmsb-xxyOxDXYPNI/view?usp=sharing)    | Reading: ch.9  <br> <a href="  " style="color: blue">Homework 3 Available</a> |
 | Thur | Feb. 27 | [Low-level Memory Management](https://drive.google.com/file/d/1sInAOVXUsT95Hj_4Hz8eGi-C2v2Vqr-M/view?usp=sharing)  | Reading: ch.9,10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
-| Tue  | March 3 | [Low-level Memory Management](https://drive.google.com/file/d/1sInAOVXUsT95Hj_4Hz8eGi-C2v2Vqr-M/view?usp=sharing)  | Reading: ch.10 <br> <a href=" " style="color: blue">Program 2 Available</a>  <br> <span style="color:red"> Homework 3 Due </span>  <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
-| Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11|
+| Tue  | March 3 | [Low-level Memory Management](https://drive.google.com/file/d/1sInAOVXUsT95Hj_4Hz8eGi-C2v2Vqr-M/view?usp=sharing)  | Reading: ch.10 <br> <a href=" " style="color: blue">Program 2 Available</a>  <br> <span style="color:red"> Homework 3 Due </span> |
+| Thur | March 5 | [High-level Memory Management]    |  Reading: ch.10, 11 <br>  <a href=" " style="color: green">Homework 3 Solution</a> |
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
 | Thur | March 12 | [High-level Memory Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team) | Reading: ch.12, 13 |
 | Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
