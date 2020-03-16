@@ -96,14 +96,15 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | March 5 | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  |  Reading: ch.10, 11 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/19Rm4NEuBACDmJ6pr6RLDyNOC_KMJen8E/view?usp=sharing" style="color: green">Homework 3 Solution</a> |
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
 | Thur | March 12 | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing) <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team) | Reading: ch.12, 13 |
-| Tue  | March 17 | [Device Management]      |  Reading: ch.14, 15 <br> <a href="" style="color: blue">Homework 4 Available</a> |
-| Thur | March 19 | [Clock and Timer Management]   | Reading: ch.16, 17|
-| Tue  | March 24  | Spring Vacation  |    |
-| Thur | March 26  | Spring Vacation | <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a>  |
-| Tue  | March 31  |  [High-level Synchronous Message Passing]| Reading: ch.18  <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span> |
-| Thur | Apr. 2 | [High-level Synchronous Message Passing] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | Reading: ch.19 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a> |
-| Tue  | Apr. 7 | [Network and Protocol Implementation]      | Reading: ch.20 |
-| Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.20 |
+| Tue  | March 17  | Spring Vacation  |   Reading: ch.14   |
+| Thur | March 19  | Spring Vacation  |   Reading: ch.14   |
+| Tue  | March 24  | Spring Vacation  |   Reading: ch.15   |
+| Thur | March 26  | Spring Vacation  |   Reading: ch.15   |
+| Tue  | March 31  | [Device Management]  | Reading: ch.16  <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span> <br> <a href="" style="color: blue">Homework 4 Available</a> |
+| Thur | Apr. 2 | [Clock and Timer Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | Reading: ch.16 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a> |
+| Tue  | Apr. 7 | [High-level Synchronous Message Passing]   | Reading: ch.17 |
+| Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.17 
+ <br> <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> |
 | Tue  | Apr. 14 | [File Systems]     | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
 | Thur | Apr. 16 | Project presentations     |  Presentation List <br> Team 1, Team 2, Team 3 |
 | Tue  | Apr. 21 | Project presentations     |  Presentation List <br> Team 4, Team 5, Team 6 |
