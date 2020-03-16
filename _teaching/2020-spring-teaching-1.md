@@ -101,8 +101,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | March 24  | Spring Vacation  | Reading: ch.4.2 |
 | Thur | March 26  | Spring Vacation  | Reading: ch.4.3  <br> <a href="" style="color: blue">Homework 4 Available</a> |
 | Tue  | March 31 |  [Memory Overview - Part I: Memory Partition and Relocation]<!---(https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) --> | Reading: ch.4.4  <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span> |
-| Thur | Apr. 2 | [Memory Overview - Part II: Techniques and Swapping]<!---(https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) -->| Reading: ch.4.5 <br>  <a href=" ">Program 3 Available</a> 
-<br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span> |
+| Thur | Apr. 2 | [Memory Overview - Part II: Techniques and Swapping]<!---(https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) -->| |
 | Tue  | Apr. 7 |  [Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)]<!---(https://drive.google.com/file/d/1ak8YjWM22XT16cCNCvHTjkSxyAJzI5Ul/view?usp=sharing) -->     | Reading: ch.4.6 |
 | Thur | Apr. 9 | [Virtual Memory - Part II: Policies (Page Replacement Algorithms)]<!---(https://drive.google.com/file/d/1SKbeNV2T-AgfnwqsdZzJeuJOEk2Oznd4/view?usp=sharing)   -->      | Reading: ch.5.1 |
 | Tue  | Apr. 14 | [Input/Output Hardware]<!---(https://drive.google.com/file/d/1PagIcxeeZvnkJbK_qoQlBsyCYVe7qQAA/view?usp=sharing) -->     | Reading: ch.5.2 <br> <span style="color:red"> Homework 5 Due (Upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
