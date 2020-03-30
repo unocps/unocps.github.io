@@ -105,10 +105,10 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Apr. 7 | [High-level Synchronous Message Passing]   | Reading: ch.17 |
 | Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.17 <br> <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> |
 | Tue  | Apr. 14 | [File Systems]     | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
-| Thur | Apr. 16 | Project presentations     |  Presentation List <br> Team 1, Team 2, Team 3 |
-| Tue  | Apr. 21 | Project presentations     |  Presentation List <br> Team 4, Team 5, Team 6 |
-| Thur | Apr. 23 | Project presentations     |  Presentation List <br> Team 7, Team 8, Team 9 |
-| Tue  | Apr. 28 | Prep week                 |                                                |
-| Thur | Apr. 30 | Prep week                 | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Sunday | May 3  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm |
+| Thur | Apr. 16 | [File Systems]     |  Presentation List <br> Team 1, Team 2, Team 3 |
+| Tue  | Apr. 21 | No Class )  |  Presentation List <br> Team 4, Team 5, Team 6 |
+| Thur | Apr. 23 | Conference (No Class)  |  Presentation List <br> Team 7, Team 8, Team 9 |
+| Tue  | Apr. 28 | Prep week             |                                                |
+| Thur | Apr. 30 | Prep week             | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
+| Sunday | May 3  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
 
