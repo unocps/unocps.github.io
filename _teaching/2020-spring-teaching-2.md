@@ -95,20 +95,20 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | March 3 | [Low-level Memory Management](https://drive.google.com/file/d/1jBAI_89Kzx6UcGkxZZbnQQu9pdWRbKuF/view?usp=sharing)  | Reading: ch.10 <br> <a href="https://drive.google.com/file/d/1xt8LBGXHzFXIkeACVxMtPD7SVhjmgJSF/view?usp=sharing" style="color: blue">Program 2 Available</a>  |
 | Thur | March 5 | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  |  Reading: ch.10, 11 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/19Rm4NEuBACDmJ6pr6RLDyNOC_KMJen8E/view?usp=sharing" style="color: green">Homework 3 Solution</a> |
 | Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <span style="color:red"> **3:00pm-4:15pm** </span> |
-| Thur | March 12 | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing) <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team) | Reading: ch.12, 13 |
-| Tue  | March 17  | Spring Vacation  |   Reading: ch.14   |
-| Thur | March 19  | Spring Vacation  |   Reading: ch.14   |
-| Tue  | March 24  | Spring Vacation  |   Reading: ch.15   |
-| Thur | March 26  | Spring Vacation  |   Reading: ch.15   |
-| Tue  | March 31  | [Device Management]  | Reading: ch.16  <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span> <br> <a href="" style="color: blue">Homework 4 Available</a> |
-| Thur | Apr. 2 | [Clock and Timer Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | Reading: ch.16 <br>  <a href=" ">Program 3 Available</a> <br> <a href=" " style="color: blue">Homework 5 Available</a> |
-| Tue  | Apr. 7 | [High-level Synchronous Message Passing]   | Reading: ch.17 |
-| Thur | Apr. 9 | [Network and Protocol Implementation]      | Reading: ch.17 <br> <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> |
-| Tue  | Apr. 14 | [File Systems]     | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>|
-| Thur | Apr. 16 | [File Systems]     |  Presentation List <br> Team 1, Team 2, Team 3 |
-| Tue  | Apr. 21 | No Class )  |  Presentation List <br> Team 4, Team 5, Team 6 |
-| Thur | Apr. 23 | Conference (No Class)  |  Presentation List <br> Team 7, Team 8, Team 9 |
-| Tue  | Apr. 28 | Prep week             |                                                |
+| Thur | March 12 | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing) <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team) | Reading: ch.12 |
+| Tue  | March 17  | Spring Vacation  |   Reading: ch.12   |
+| Thur | March 19  | Spring Vacation  |   Reading: ch.12   |
+| Tue  | March 24  | Spring Vacation  |   Reading: ch.13   |
+| Thur | March 26  | Spring Vacation  |   Reading: ch.13   |
+| Tue  | March 31  | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  | Reading: ch.13, 14  |
+| Thur | Apr. 2 | [Device Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | Reading: ch.14 <br>  <a href=" ">Program 3 Available</a> |
+| Tue  | Apr. 7 | [Clock and Timer Management]   | Reading: ch.15 <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
+| Thur | Apr. 9 | [High-level Synchronous Message Passing]      | Reading: ch.15   |
+| Tue  | Apr. 14 | [Network and Protocol Implementation]     | Reading: ch.16 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> |
+| Thur | Apr. 16 | [File Systems]        |  Reading: ch.16 <br> <a href=" " style="color: blue">Homework 5 Available</a>  |
+| Tue  | Apr. 21 | No Class (Conference) |         |
+| Thur | Apr. 23 | No Class (Conference) | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>  |
+| Tue  | Apr. 28 | Prep week             |         |
 | Thur | Apr. 30 | Prep week             | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
 | Sunday | May 3  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
 
