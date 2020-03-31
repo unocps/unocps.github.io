@@ -101,7 +101,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | March 24  | Spring Vacation  |   Reading: ch.13   |
 | Thur | March 26  | Spring Vacation  |   Reading: ch.13   |
 | Tue  | March 31  | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  | Reading: ch.13, 14  |
-| Thur | Apr. 2 | [Device Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | Reading: ch.14 <br>  <a href=" ">Program 3 Available</a> |
+| Thur | Apr. 2 | [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing) <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | Reading: ch.14 <br>  <a href=" ">Program 3 Available</a> |
 | Tue  | Apr. 7 | [Clock and Timer Management]   | Reading: ch.15 <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Thur | Apr. 9 | [High-level Synchronous Message Passing]      | Reading: ch.15   |
 | Tue  | Apr. 14 | [Network and Protocol Implementation]     | Reading: ch.16 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> |
