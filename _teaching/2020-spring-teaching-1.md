@@ -107,9 +107,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Apr. 14 |  [Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)](https://drive.google.com/file/d/1ak8YjWM22XT16cCNCvHTjkSxyAJzI5Ul/view?usp=sharing) | Reading: ch.5.1 |
 | Thur | Apr. 16 |  [Virtual Memory - Part II: Policies (Page Replacement Algorithms)](https://drive.google.com/file/d/1SKbeNV2T-AgfnwqsdZzJeuJOEk2Oznd4/view?usp=sharing)  | Reading: ch.5.2 <br> <span style="color:red"> Homework 5 Due (Upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a> <br> <a href=" " style="color: blue">Homework 6 Available</a> |
 | Tue  | Apr. 21 | [Input/Output Hardware and Software]<!---(https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing) --> <br> [Security] <!---(https://drive.google.com/file/d/1Hs6S5NGaCTqa9GnO_Q7x3YUymVfGSCd3/view?usp=sharing) -->      | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html), [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
-| Thur | Apr. 23 | [Put It All Together]<!---(https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review  --> | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 6 Solution</a>|
+| Thur | Apr. 23 | No Class (Conference)<!--- [Put It All Together](https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review  --> | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 6 Solution</a>|
 | Tue  | Apr. 28 | Prep week  | Reading: ch.5.4 |
-| Thur | Apr. 30 | Prep week  | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Tue | May 5 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2) | <span style="color:red"> **12:00pm-2:00pm** </span> |
+| Thur | Apr. 30 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2)  | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
+<!---| Tue | May 5 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2) | <span style="color:red"> **12:00pm-2:00pm** </span> | -->
 
 
