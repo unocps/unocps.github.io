@@ -111,4 +111,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Apr. 28 | Prep week  | Reading: ch.5.4 |
 | Thur | Apr. 30 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2)  | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
 
-
+<!---| Tue | May 5 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2) | <span style="color:red"> **12:00pm-2:00pm** </span> | -->
