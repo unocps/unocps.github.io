@@ -105,7 +105,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Apr. 7 |  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="https://drive.google.com/file/d/1_f8t1p51H8jdOjkBSUR6bmcECSl9LL3p/view?usp=sharing" style="color: blue">Homework 4 Available</a>  |
 | Thur | Apr. 9 | [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing)    | Reading: ch.14   |
 | Tue  | Apr. 14 | [Clock and Timer Management](https://drive.google.com/file/d/1dm7BrXpxm6SeGnltV_uB2--fHb0Cuyv3/view?usp=sharing) | Reading: ch.14 |
-| Thur | Apr. 15 | [High-level Synchronous Message Passing] <br> [Network and Protocol Implementation]        |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>  |
+| Thur | Apr. 16 | [High-level Synchronous Message Passing] <br> [Network and Protocol Implementation]        |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 4 Solution</a> <br> <a href=" " style="color: blue">Homework 5 Available</a>  |
 | Tue  | Apr. 21 | No Class (Conference) |         |
 | Thur | Apr. 23 | No Class (Conference) | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href=" " style="color: green">Homework 5 Solution</a>  |
 | Tue  | Apr. 28 | Prep week             |         |
