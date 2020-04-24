@@ -16,6 +16,9 @@ author_profile: true
 
 # Selected Conference Papers
 
+1. Wei-Ju Chen, Peng Wu, Pei-Chi Huang, Aloysius K Mok, Song Han, "[Online Reconfiguration of Regularity-Based Resource Partitions in Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/9052168)", In 2019 IEEE Real-Time Systems Symposium (RTSS), pp 495-507. IEEE, 2019. [[video](https://www.youtube.com/watch?v=8b-MMP3-cug)]  
+**(Outstanding Paper Award)**
+1. Dilanga Abeyrathna, Pei-Chi Huang, Xin Zhong, "[Anomaly Proposal-Based Fire Detection for Cyber-Physical Systems](https://ieeexplore.ieee.org/abstract/document/9071185)", In 2019 International Conference on Computational Science and Computational Intelligence (CSCI). IEEE, 2019. (Acceptance rate 17%)
 1. Yi-Hsuan Hsieh, Pei-Chi Huang, Qixing Huang, Aloysius K. Mok, "[LASSO: Location Assistant for Seeking and Searching Objects](https://ieeexplore.ieee.org/abstract/document/8780249/)", In 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), pp. 94-100. IEEE, 2019. [[video](https://www.cs.utexas.edu/~yihsuan/lasso_icps2019.mp4)]
 1. Pei-Chi Huang and Aloysius K. Mok, "[A Case Study of Cyber-Physical System Design: Autonomous Pick-and-Place Robot](https://ieeexplore.ieee.org/abstract/document/8607230)", In 2018 IEEE 24th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), pp. 22-31. IEEE, 2018. [[video](http://www.cs.utexas.edu/~peggy/apc.html)] **(Outstanding Paper Award)**
 1. Pei-Chi Huang, Yi-Hsuan Hsieh and Aloysius K. Mok, "[A Skill-Based Programming System for Robotic Furniture Assembly](https://ieeexplore.ieee.org/abstract/document/8472030)", In 2018 IEEE 16th International Conference on Industrial Informatics (INDIN), pp. 355-361. IEEE, 2018. [[video](http://www.cs.utexas.edu/~peggy/skills-based.html)]
