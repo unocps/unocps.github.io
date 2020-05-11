@@ -62,7 +62,7 @@ If you have questions regarding the grading of homework, programming assignments
 ## Late Policy
 Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span>
 
-Contact the instructor in case of medical emergency, and a written proof from your doctor is required.
+Contact the instructor in case of medical emergency, and a written proof from your doctor is required. You are allowed to extend one more day after the approval.
 
 ## Academic Integrity
 You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow the University Policy on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
@@ -72,43 +72,3 @@ Reasonable accommodations are provided for students who are registered with Acce
 
 ---------------------------------------------------------------------------------------------------------------
 
-# Schedule
-This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
-Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
-
-| Date |           |               Topic                 | Assignment <br>(to be completed before class) |
-|:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Tue  | Jan. 14 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing)|                       | 
-| Thur | Jan. 16 | [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)| Reading: ch.1.1 - 1.2 |
-| Tue  | Jan. 21  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)| Reading: ch.1.3 - 1.4 |
-| Thur | Jan. 23  | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)   | Reading: ch.1.4 - 1.5 |
-| Tue  | Jan. 28 | [Processes and File Systems](https://drive.google.com/file/d/1u9PDI84dMFSbit3ie_BT4lMJYR2Z6FVt/view?usp=sharing)   | Reading: ch.2.1  <br> <a href="https://drive.google.com/file/d/1Eiegb0mmqcxdHwyntymiADw3D3g-Lnt9/view?usp=sharing" style="color: blue"> Homework 1 Available</a>  |
-| Thur | Jan. 30 | [Processes and File Systems](https://drive.google.com/file/d/1u9PDI84dMFSbit3ie_BT4lMJYR2Z6FVt/view?usp=sharing)   | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <a href="https://drive.google.com/file/d/1GPoElL5mT6n0Psft_MYcep_JdArB1VRH/view?usp=sharing" style="color: blue">Program 1 Available</a> |
-| Tue  | Feb. 4 | [Concurrency](https://drive.google.com/file/d/1-MXunnb4MSH-XYhFOHvMJaV6-HTVrTmL/view?usp=sharing) | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1H9g2GmeFIGQGd67ctUrPU_XjliLOOZqz/view?usp=sharing" style="color: green">Homework 1 Solution</a> |
-| Thur | Feb. 6 | [Communication & Synchronization - Part 1](https://drive.google.com/file/d/1BshCOkYzbp9_88RSRpcXxilrtPbQdOS_/view?usp=sharing)    | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <a href="https://drive.google.com/file/d/1C4SyhA4b86yVHlPePnqInes6KZYhmkwG/view?usp=sharing" style="color: blue">Homework 2 Available</a> |
-| Tue  | Feb. 11 | [Communication & Synchronization - Part 1](https://drive.google.com/file/d/1BshCOkYzbp9_88RSRpcXxilrtPbQdOS_/view?usp=sharing) | Reading: ch.2.2 |
-| Thur | Feb. 13 | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing) | Reading: ch.2.3 <br> <span style="color:red"> Homework 2 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1pteLzBxzOHuSf6U2FTYhmu8b4nVViz_6/view?usp=sharing" style="color: green">Homework 2 Solution</a> |
-| Tue  | Feb. 18  | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing) <br> [fork example](https://drive.google.com/file/d/1yIM3CdJNSCeWgZkRn4w0cc_oAwERchzH/view?usp=sharing) | Reading: ch.2.4, [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
-| Thur | Feb. 20  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)  | Reading: ch.3.1  <br> <a href="https://drive.google.com/file/d/1c1-gj8jP0hZIz95KmMZ_eYmx0bJD-rAK/view?usp=sharing" style="color: blue">Homework 3 Available</a> |
-| Tue  | Feb. 25  |  [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)    | Reading: ch.3.2 |
-| Thur | Feb. 27 | [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)    | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
-| Tue  | March 3 | [Scheduling](https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing) | <a href="https://drive.google.com/file/d/17YTauXpvNMATYC5C5vDJt8mXd1X_7PDH/view?usp=sharing" style="color: blue">Program 2 Available</a>  <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="https://drive.google.com/file/d/1URgyA0466LWEzfvKAtGcWoq3-SZbuMU8/view?usp=sharing" style="color: green">Homework 3 Solution</a>|
-| Thur | March 5 | [Scheduling](https://drive.google.com/file/d/1E4b5cSOFFzbhgI46qYTMIDLLxmHL7BNf/view?usp=sharing) |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) |
-| Tue  | March 10 | <span style="color:red"> **Midterm** </span> | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> **12:00pm-1:15pm** </span> |
-| Thur | March 12 |  [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)  | Reading: ch.4.1 |
-| Tue  | March 17 | Spring Vacation   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Thur | March 19 | Spring Vacation   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Tue  | March 24  | Spring Vacation  |  |
-| Thur | March 26  | Spring Vacation  |  |
-| Tue  | March 31 |  [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)  | Reading: ch.4.2 <br> <a href="https://drive.google.com/file/d/1b0Haq-nhmyPYoXJv_29vCZnQ0ZA84yN8/view?usp=sharing" style="color: blue">Homework 4 Available</a>  |
-| Thur | Apr. 2 | [Memory Overview - Part I: Memory Partition and Relocation](https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) | Reading: ch.4.3 <br>  <a href="https://drive.google.com/file/d/1t8rNvfY33uCSNL399ae2Qr_b07qzKDZc/view?usp=sharing">Program 3 Available</a> |
-| Tue  | Apr. 7 | [Memory Overview - Part I: Memory Partition and Relocation](https://drive.google.com/file/d/1TP6_lLILPJiaBFYuoP6FCaAlAWx8xVaz/view?usp=sharing) | Reading: ch.4.4 <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
-| Thur | Apr. 9 | [Memory Overview - Part II: Techniques and Swapping](https://drive.google.com/file/d/1iN4dw1UbQtUxUcpnQZJ1mBZvmN9RukIv/view?usp=sharing) | Reading: ch.4.5  <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1wEWFKYwUb1EZHVRZTVTKPrRdE2rE_8kf/view?usp=sharing" style="color: green">Homework 4 Solution</a>  <br> <a href="https://drive.google.com/file/d/1EqMPX61nM2qvVHmvNMoWYIVsgDGUVlbL/view?usp=sharing" style="color: blue">Homework 5 Available</a> |
-| Tue  | Apr. 14 |  [Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)](https://drive.google.com/file/d/1ak8YjWM22XT16cCNCvHTjkSxyAJzI5Ul/view?usp=sharing) | Reading: ch.5.1 |
-| Thur | Apr. 16 |  [Virtual Memory - Part II: Policies (Page Replacement Algorithms)](https://drive.google.com/file/d/1SKbeNV2T-AgfnwqsdZzJeuJOEk2Oznd4/view?usp=sharing)  | Reading: ch.5.2 <br> <span style="color:red"> Homework 5 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1m2cevwa1yBmlcGBjxUCQwe05uzTWf8LN/view?usp=sharing" style="color: green">Homework 5 Solution</a> <br> <a href="https://drive.google.com/file/d/1-Lnnp_O_VZi2Cur2k4i4uGlyKzdF-FgG/view?usp=sharing" style="color: blue">Homework 6 Available</a> |
-| Tue  | Apr. 21 | [Input/Output Hardware](https://drive.google.com/file/d/1PagIcxeeZvnkJbK_qoQlBsyCYVe7qQAA/view?usp=sharing)<!--- <br> [Security] (https://drive.google.com/file/d/1Hs6S5NGaCTqa9GnO_Q7x3YUymVfGSCd3/view?usp=sharing) -->      | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html), [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51) |
-| Thur | Apr. 23 | [Input/Output Software](https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing)  <br>  No Class (Conference) <!--- [Put It All Together](https://drive.google.com/file/d/1Q2QlnlXHMPSGcowcq8UHWmEA6LmJbr9q/view?usp=sharing) & In class exam review  --> | Reading: ch.5.3 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1mKfsIebgPIBk8sO7BvNL0ITSjelm_Tfw/view?usp=sharing" style="color: green">Homework 6 Solution</a>|
-| Tue  | Apr. 28 | Prep week  | Reading: ch.5.4 |
-| Thur | Apr. 30 | <span style="color:red"> **Final Exam 12pm-1:10pm** </span> | <span style="color:red"> **Program 3 Due by May 3 at 11:59pm** </span> |
-
-<!---| Tue | May 5 | [Final Exam](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tt2) | <span style="color:red"> **12:00pm-2:00pm** </span> | -->
