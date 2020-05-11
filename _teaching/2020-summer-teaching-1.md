@@ -6,8 +6,8 @@ permalink: /teaching/2020-summer-teaching-1
 venue: Remote Learning
 date: May 18, 2020 - Jun 26, 2020
 time: MW 5:30PM - 8:25PM
-<!--- location: Peter Kiewit Institute 274  --> 
 ---
+<!--- location: Peter Kiewit Institute 274  --> 
 
 An operating system is an abstraction of computer system hardware; it manages the sharing of various hardware and software resources among the users of the computer system. The parallel history of hardware and operating system development introduces many key concepts including, for example, processor modes, direct memory access (DMA), device controllers, and virtual memory. Basic approaches to kernel organization and implementation are considered. This is often the first course in which students encounter concurrency and concurrent programs. Additional topic areas include system performance evaluation (particularly relating to processor and memory management), security, virtualization, resource allocation and scheduling, and  file systems.
 
