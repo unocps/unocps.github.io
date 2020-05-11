@@ -19,7 +19,7 @@ An operating system is an abstraction of computer system hardware; it manages th
 <!--- * Class Info: TTH 12:00PM - 1:15PM, PKI 274 Building --> 
 * [Course Schedule](#schedule)      
 
-## Prequisites:	
+## Prerequisites:
 CSCI 3710 (Introduction to Digital Design and Computer Organization), CSCI 3320 (Data Structures), and MATH 1950 (Calculus I). CSCI 4350 (Computer Architecture) is recommended; open only to students in the School of Engineering and declared Computer Science minors.
 
 ## Recommended Textbook
