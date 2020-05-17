@@ -76,4 +76,13 @@ You may discuss the homeworks and assignments with anyone and use any reference 
 Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: [unoaccessibility@unomaha.edu](unoaccessibility@unomaha.edu)
 
 ---------------------------------------------------------------------------------------------------------------
+# Schedule
+This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
+Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
+
+| Date |           |               Topic                 | Assignment <br>(to be completed before class) |
+|:----:|:----------|:------------------------------------|:----------------------------------------------|
+| Mon  | May. 18 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing) <br> [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing) |    Reading: ch.1.1 - 1.2  |
+| Wed | May. 20 | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)  | Reading: ch.1.3 - 1.5 |
+
 
