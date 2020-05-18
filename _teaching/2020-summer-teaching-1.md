@@ -86,7 +86,6 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Mon  | May. 18 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing) <br> [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing) |    Reading: ch.1.1 - 1.2  |
-| Wed | May. 20 | [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)  | Reading: ch.1.3 - 1.5 |
-
+| Mon  | May 18 | [Introduction & Themes](https://drive.google.com/file/d/1z4MxQtp75F2xu7-tTIWmQGHe4_VGt4sZ/view?usp=sharing) <br> [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing) |    Reading: ch.1.1 - 1.2  |
+| Wed | May 20 |  [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)  | Reading: ch.1.3 - 1.5 <br> <a href="<!---https://drive.google.com/file/d/1Eiegb0mmqcxdHwyntymiADw3D3g-Lnt9/view?usp=sharing --> " style="color: blue"> Homework 1 Available</a> |
 
