@@ -20,8 +20,7 @@ An operating system is an abstraction of computer system hardware; it manages th
 # Administrative Information
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
-* Office Hour: <!--- Wednesday 2:30 - 3:30 PM, PKI 174A Building or by appointment --> 
-<!--- * Class Info: TTH 12:00PM - 1:15PM, PKI 274 Building --> 
+* Office Hour: Tuesday 8:30 - 9:30 PM or by appointment <!---, PKI 174A Building or by appointment * Class Info: TTH 12:00PM - 1:15PM, PKI 274 Building --> 
 * [Course Schedule](#schedule)      
 
 ## Prerequisites:
@@ -33,6 +32,11 @@ Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd editio
 ### Supplemental materials
 * The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (indicated by OSTEP; this book is available for purchase at the site above if you prefer a print copy)
 * Operating System Concepts 9th Edition, by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
+
+## Get Odin account
+You need to apply for an account at Odin: IS&T Core Linux Server to finish your programs. More details are shown below:
+https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php 
+<span style="color:red"> **Please get one asap. Don't wait until the last minute to meet deadlines!** </span>
 
 ## Grading
 There will be six homeworks, three programming assignments, one midterm and one final.
