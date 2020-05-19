@@ -35,7 +35,7 @@ Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd editio
 
 ## Get Odin account
 You need to apply for an account at Odin: IS&T Core Linux Server to finish your programs. More details are shown below:
-https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php 
+[https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php](https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php)
 <span style="color:red"> **Please get one asap. Don't wait until the last minute to meet deadlines!** </span>
 
 ## Grading
