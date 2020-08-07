@@ -113,4 +113,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Dec. 03 | [Security]  | Reading: ch.5.4 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 6 Solution</a>|
 | Tue  | Dec. 8 |   [Put It All Together]   | Reading: ch.1-ch.5 and slides |
 | Tue  | Dec.10 | Prep week  | Reading: ch.1-ch.5 and slides <br> <span style="color:red"> **Program 3 Due  at 11:59pm** </span>  |
-| Thur | Dec.15 or Dec. 17 (TBD) | <span style="color:red"> **Final Exam (TBD)** </span> | |
+| Thur | Dec.15 or Dec. 17 (TBD) | <span style="color:red"> **Final Exam (TBD)** </span> | Reading: Textbooks & all slides |
