@@ -81,9 +81,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Tue   |  Aug. 25 |   [Introduction & Themes]    |                       |
-| Thur  |  Aug. 27 |   [Introduction to Operating Systems & History]   | Reading: ch.1.1 - 1.2 |
-| Tue   |  Sep. 01  |   [Basic Operating Systems Concepts]     | Reading: ch.1.3 - 1.4 |
+| Tue   |  Aug. 25 |   [Introduction & Themes](https://drive.google.com/file/d/1Osi_KDoKeKKmFbHiGnOpfkoy3xWef9CZ/view?usp=sharing)    |                       |
+| Thur  |  Aug. 27 |   [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)   | Reading: ch.1.1 - 1.2 |
+| Tue   |  Sep. 01  |   [Basic Operating Systems Concepts]    | Reading: ch.1.3 - 1.4 |
 | Thur  |  Sep. 03  |   [Basic Operating Systems Concepts]     | Reading: ch.1.4 - 1.5 |
 | Tue   |  Sep. 08 |    [Processes and File Systems]     | Reading: ch.2.1  <br> <a href="" style="color: blue"> Homework 1 Available</a>  |
 | Thur | Sep. 10 |   [Processes and File Systems]    | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <a href="" style="color: blue">Program 1 Available</a> |
