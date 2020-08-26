@@ -12,7 +12,7 @@ Dr. Pei-Chi Huang received her PhD in [the Department of Computer Science](https
 
 News
 =====
-Journal of Computer and Communications (JCC) Submssion: Please consider submitting your work to our [Special Issue on Artificial Intelligence and Cyber-Physical Systems](https://www.scirp.org/journal/htmlofspecialissue.aspx?id=7314&journalid=2431). Submission Deadline: March 15, 2021.
+I am a guest editor for Journal of Computer and Communications (JCC) Submssion: Please consider submitting your work to our [Special Issue on Artificial Intelligence and Cyber-Physical Systems](https://www.scirp.org/journal/htmlofspecialissue.aspx?id=7314&journalid=2431). Submission Deadline: March 15, 2021.
 
 Robotics, Networking, Artificial intelligence (R. N. A.) Laboratory
 ======
