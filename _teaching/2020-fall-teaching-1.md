@@ -83,8 +83,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | Tue   |  Aug. 25 |   [Introduction & Themes](https://drive.google.com/file/d/1uud-mj63HNquaauuSsv_EyvlMzDgQYsL/view?usp=sharing)    |                       |
 | Thur  |  Aug. 27 |   [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)   | Reading: ch.1.1 - 1.2 |
-| Tue   |  Sep. 01  |   [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)    | Reading: ch.1.3 - 1.4 |
-| Thur  |  Sep. 03  |   [Basic Operating Systems Concepts]     | Reading: ch.1.4 - 1.5 |
+| Tue   |  Sep. 01  |   [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)   | Reading: ch.1.3 - 1.4 |
+| Thur  |  Sep. 03  |   [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)    | Reading: ch.1.4 - 1.5 |
 | Tue   |  Sep. 08 |    [Processes and File Systems]     | Reading: ch.2.1  <br> <a href="" style="color: blue"> Homework 1 Available</a>  |
 | Thur | Sep. 10 |   [Processes and File Systems]    | Reading: OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) <br>  <a href="" style="color: blue">Program 1 Available</a> |
 | Tue  | Sep. 15 |   [Concurrency]         | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
