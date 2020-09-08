@@ -102,8 +102,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue |  Oct. 27   |  [Deadlock]  | Reading: ch.4.1 |
 | Thur  |  Oct. 29   |  [Deadlock]   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  |  Nov. 03   |  [Memory Overview - Part I: Memory Partition and Relocation]   | Reading: ch.4.2 <br> <a href="" style="color: blue">Homework 4 Available</a>  |
-| Thur |  Nov. 05 |   [Memory Overview - Part I: Memory Partition and Relocation] | Reading: ch.4.3 <br>  <a href="">Program 3 Available</a> |
-| Tue  |  Nov. 10   |  [Memory Overview - Part II: Techniques and Swapping]  | Reading: ch.4.4 <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>|
+| Thur |  Nov. 05 |   [Memory Overview - Part I: Memory Partition and Relocation] | Reading: ch.4.3 <br>  <span style="color:red"> **Program 2 Due, 11:59pm**</span> |
+| Tue  |  Nov. 10   |  [Memory Overview - Part II: Techniques and Swapping]  | Reading: ch.4.4 <br> <a href="">Program 3 Available</a>|
 | Thur |  Nov. 12  | [Memory Overview - Part II: Techniques and Swapping]    | Reading: ch.4.5  <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  <br> <a href="" style="color: blue">Homework 5 Available</a> |
 | Tue  | Nov. 17  |  [Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)] |  Reading: ch.5.1 |
 | Thur | Nov. 19   |  [Virtual Memory - Part II: Policies (Page Replacement Algorithms)]     | Reading: ch.5.2 <br> <span style="color:red"> Homework 5 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a> <br> <a href="" style="color: blue">Homework 6 Available</a> |
