@@ -93,8 +93,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Sep. 24 |   [Communication & Synchronization - Part 1](https://drive.google.com/file/d/1uFz_GId5KN3mkCM3TaRl58dhSYg-9GFf/view?usp=sharing) | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:red"> Homework 2 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1B6KuaQVXOAu6wpkhI_IybUO0IHj8b3_J/view?usp=sharing" style="color: green">Homework 2 Solution</a> |
 | Tue  | Sep. 29  |  [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing)     | Reading: ch.2.4 <br> [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
 | Thur | Oct. 01  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)  | Reading: ch.3.1  <br> <a href="https://drive.google.com/file/d/1LL7C7nBnkuDY0pEGYkomslRCm5qhIOTB/view?usp=sharing" style="color: blue">Homework 3 Available</a> |
-| Tue  | Oct. 06  |  [Classic Task Communication - Part 1]   | Reading: ch.3.2 |
-| Thur | Oct. 08 | [Classic Task Communication - Part 2]    | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
+| Tue  | Oct. 06  |  Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)   | Reading: ch.3.2 |
+| Thur | Oct. 08 | [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)    | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
 | Tue  | Oct. 13 | [Scheduling]    | <a href="" style="color: blue">Program 2 Available</a>  <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a>|
 | Thur | Oct. 15| [Scheduling] |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) |
 | Tue  | Oct. 20  | Semester Break (Student Holiday) - No classes  |  |
