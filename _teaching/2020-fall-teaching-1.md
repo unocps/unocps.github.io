@@ -95,8 +95,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Oct. 01  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)  | Reading: ch.3.1  <br> <a href="https://drive.google.com/file/d/1LL7C7nBnkuDY0pEGYkomslRCm5qhIOTB/view?usp=sharing" style="color: blue">Homework 3 Available</a> |
 | Tue  | Oct. 06  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)   | Reading: ch.3.2 |
 | Thur | Oct. 08 | [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)    | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
-| Tue  | Oct. 13 | [Scheduling]    | <a href="" style="color: blue">Program 2 Available</a>  <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a>|
-| Thur | Oct. 15| [Scheduling] |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) |
+| Tue  | Oct. 13 | [Scheduling]    | <a href="" style="color: blue">Program 2 Available</a>  |
+| Thur | Oct. 15| [Scheduling] |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
 | Tue  | Oct. 20  | Semester Break (Student Holiday) - No classes  |  |
 | Thur  | Oct. 22  | <span style="color:red"> **Midterm** </span> | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> **3:00pm-4:15pm or 4:30pm-6:00pm** </span> |
 | Tue |  Oct. 27   |  [Deadlock]  | Reading: ch.4.1 |
