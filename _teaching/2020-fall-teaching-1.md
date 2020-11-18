@@ -110,7 +110,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Nov. 24 | [Input/Output Hardware]     | Reading: Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html) <br> <span style="color:red"> Homework 5 Due by Nov. 25 (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a> <br> <a href="" style="color: blue">Homework 6 Available</a> |
 | Thur  | Nov. 26 | Student Holiday - No class  | Reading:  [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51)  |
 | Tue | Dec. 01 | [Input/Output Software]   | Reading: ch.5.3   |
-| Thur | Dec. 03 | [Security]  | Reading: ch.5.4 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 6 Solution</a>|
+| Thur | Dec. 03 | Attend Conference - No class  | Reading: ch.5.4 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 6 Solution</a>|
 | Tue  | Dec. 8 |   [Put It All Together]   | Reading: ch.1-ch.5 and slides |
 | Thur  | Dec.10 | Prep week  | Reading: ch.1-ch.5 and slides <br> <span style="color:red"> **Program 3 Due  at 11:59pm** </span>  |
 | Thur | Dec. 17 | <span style="color:red"> **Final Exam** </span> | Reading: Textbooks & all slides <br> <span style="color:red"> Anytime, 90 mins </span> |
