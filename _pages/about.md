@@ -27,5 +27,5 @@ Research Interests
 Contact Info
 ======
 * phuang AT unomaha DOT edu
-* Office: PKI 173C
+* Office: PKI 173D
 * Phone: (402) 554-3496
