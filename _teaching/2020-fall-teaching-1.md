@@ -111,6 +111,6 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur  | Nov. 26 | Student Holiday - No class  | Reading:  [Chapter 3](http://book.mixu.net/distsys/time.html), [The Google File System](https://ai.google/research/pubs/pub51)  |
 | Tue | Dec. 1 | [Input/Output Software](https://drive.google.com/file/d/1SbURC3lB5TYRmvmtEiJKdm9Dfufatljx/view?usp=sharing)   | Reading: ch.5.3   |
 | Thur | Dec. 3 | [Attend a Conference](http://2020.rtss.org/program/) - No class  | Reading: ch.5.4 <br>  <span style="color:red"> Homework 6 Due (Upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1T7irnCe75e56um4VX7Z3dH66pp4UV18Y/view?usp=sharing" style="color: green">Homework 6 Solution</a>|
-| Tue  | Dec. 8 |   [Put It All Together]   | Reading: ch.1-ch.5 and slides |
+| Tue  | Dec. 8 |   [Put It All Together](https://drive.google.com/file/d/16WBS4rkN9qzCM2UzdOdN1izuxxjz5AM9/view?usp=sharing)  | Reading: ch.1-ch.5 and slides |
 | Thur  | Dec. 10 | Prep week  | Reading: ch.1-ch.5 and slides <br> <span style="color:red"> **Program 3 Due  at 11:59pm** </span>  |
 | Thur | Dec. 17 | <span style="color:red"> **Final Exam** </span> | Reading: Textbooks & all slides <br> <span style="color:red"> Anytime, 100 mins </span> |
