@@ -102,7 +102,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue   |  Mar. 16   |  Spring Vacation (Student Holiday) - No classes   |  |
 | Thur  |  Mar. 18   |  Spring Vacation (Student Holiday) - No classes   |  |
 | Tue  |  Mar. 23   |  [Deadlock]   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Thur |  Mar. 25   |  [Deadlock]  | Reading: ch.4.2 <br> <a href="https://drive.google.com/file/d/1gqi4njpTmpXU6tXLT2uXUBAzJU-n8fX3/view?usp=sharing" style="color: blue">Homework 4 Available</a>  |
+| Thur |  Mar. 25   |  [Deadlock]  | Reading: ch.4.2 <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Tue   |  Mar. 30   |   [Memory Overview - Part I: Memory Partition and Relocation]   | Reading: ch.4.3 |
 | Thur  |  Apr. 1   |  [Memory Overview - Part II: Techniques and Swapping]  | Reading: ch.4.4 <br>  <span style="color:red"> **Program 2 Due, 11:59pm**</span> <br> <a href=""> Program 3 Available</a>|
 | Tue   |  Apr. 6  | [Memory Overview - Part II: Techniques and Swapping]    | Reading: ch.4.5  <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
