@@ -14,7 +14,7 @@ An operating system is an abstraction of computer system hardware; it manages th
 # Administrative Information
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
-* Office Hour: TTH 1:15PM - 2:15PM via Zoom or by appointment
+* Office Hour: Tuesday 1:15PM - 2:15PM via Zoom or by appointment
 * Date: Jan 11, 2021 - May 07, 2021
 * Class Info: TTH 12PM - 1:15PM, Remote Learning
 * [Course Schedule](#schedule)     
