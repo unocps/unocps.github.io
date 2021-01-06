@@ -83,7 +83,7 @@ Reasonable accommodations are provided for students who are registered with Acce
 This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
 Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
 
-|  Date  |                |               Topic                 | Assignment <br>(to be completed before class) |
+|          |  Date          |               Topic                 | Assignment <br>(to be completed before class) |
 |:--------:|:------------|:-------------------------------------|:----------------------------------------------|
 |  Mon   |   Jan. 11  |   [Introduction & Themes]                       |                       |
 |  Wed   |  Jan. 13  |   [Robot Mechanisms]                             |         |
