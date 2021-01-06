@@ -86,6 +86,6 @@ Readings from additional sources are linked from the schedule. All reading assig
 |  Date  |                |               Topic                 | Assignment <br>(to be completed before class) |
 |:--------:|:------------|:-------------------------------------|:----------------------------------------------|
 |  Mon   |   Jan. 11  |   [Introduction & Themes]                       |                       |
-|  Wed   |  Jan. 13  |   [Robot Mechanisms]                             |   Reading:        |
-|  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |   Reading:         |
-|  Wed   |  Jan. 20  |   [Applications of Simulation]                    |  Reading: ch.1.4 - 1.5 |
+|  Wed   |  Jan. 13  |   [Robot Mechanisms]                             |         |
+|  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
+|  Wed   |  Jan. 20  |   [Applications of Simulation]                    |   |
