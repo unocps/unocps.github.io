@@ -40,10 +40,10 @@ You need to apply for an account at Odin: IS&T Core Linux Server to download our
 ## Grading
 There will be 3-4 programming assignments, one group project. 
 The final course grade will be computed as follows:
-* Programming Assignments: 50%
+* Programming Assignments (individual): 50%
 * Group Project: 20%
-* Report and Presentation: 30%
-* Canvas Discussion/Class Participation: 5%
+* Group Report and Presentation: 30%
+* Canvas Discussion/Class Participation: TBD
 
 If you have questions regarding the grading of programming assignments, group project and report and presentation, you MUST email or come to see the instructor WITHIN ONE WEEK after the date your assignments have been returned to you.
 
