@@ -120,4 +120,4 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   |  Apr. 21     |     Presentation         |                  |
 |  Mon   |  Apr. 26     |    Prep week - No class      |                 |
 | Wed   |  Apr. 28      |    Prep week - No class   |    <span style="color:red"> **Program 3 Due at 11:59pm** </span>  |
-| Sun | May 2 | Report and Demo Due (TBD) | Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. | 
+| Sun | May 2 | Report and Demo Due (TBD) | Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, and 3) Demo video. | 
