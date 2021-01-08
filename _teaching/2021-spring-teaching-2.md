@@ -26,10 +26,13 @@ CSCI 3320 Data Structures AND any course equivalent to this course. CSCI 4500 Op
 Math/STAT 4450/8456 Introduction to Machine Learning and Data Mining; Knowledge of Python and C++, and familiar with Linux operating system , and GitHub for version control.
 
 ## Recommended Textbooks
-* Joseph, L. (2018). Learning Robotics using Python: Design, simulate, program, and prototype an autonomous mobile robot using ROS, OpenCV, PCL, and Python. Packt Publishing Ltd. 
 * [Robot Operating System (ROS) website](http://wiki.ros.org/)
+* Joseph, L. (2018). Learning Robotics using Python: Design, simulate, program, and prototype an autonomous mobile robot using ROS, OpenCV, PCL, and Python. Packt Publishing Ltd. 
+This will be used as a reference, rather than as a textbook, but we will use quite a few methods from it, and it is a valuable addition to your professional library. 
 
 ### Supplemental materials
+
+* Martinez, Aaron, and Enrique Fernández. Learning ROS for robotics programming. Packt Publishing Ltd, 2013. 
 * Quigley, M., Gerkey, B., & Smart, W. D. (2015). Programming Robots with ROS: a practical introduction to the Robot Operating System. " O'Reilly Media, Inc.".
 * Corke, P. (2017). Robotics, vision and control: fundamental algorithms in MATLAB® second, completely revised (Vol. 118). Springer.
 
@@ -38,12 +41,12 @@ You need to apply for an account at Odin: IS&T Core Linux Server to download our
 [https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php](https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php). Please email to UNO IST support (Email: uno-ist-support at unomaha dot edu) if you have any questions about Odin. <span style="color:red"> **Please get one asap. Don't wait until the last-minute, always finish ahead of deadlines. ** </span>
 
 ## Grading
-There will be 3-4 programming assignments, one group project. 
+There will be 3 programming assignments, one group project. 
 The final course grade will be computed as follows:
-* Programming Assignments (individual): 50%
+* Programming Assignments: 50%
 * Group Project: 20%
 * Group Report and Presentation: 30%
-* Canvas Discussion/Class Participation: TBD
+* Canvas Discussion/Class Participation: ~5%
 
 If you have questions regarding the grading of programming assignments, group project and report and presentation, you MUST email or come to see the instructor WITHIN ONE WEEK after the date your assignments have been returned to you.
 
@@ -80,12 +83,41 @@ Reasonable accommodations are provided for students who are registered with Acce
 
 ---------------------------------------------------------------------------------------------------------------
 # Schedule
-This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
-Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.
+This schedule, and the links contained in it, are subject to change during the semester. <!---Exam dates, however, are final.-->
+<!--- Readings from additional sources are linked from the schedule. All reading assignments are required and are expected to be completed before class on the schedule day.--> 
 
-|          |  Date          |               Topic                 | Assignment <br>(to be completed before class) |
+|            |    Date   |               Topic                      | Assignment <!--- <br>(to be completed before class) --> |
 |:--------:|:------------|:-------------------------------------|:----------------------------------------------|
-|  Mon   |   Jan. 11  |   [Introduction & Themes]                       |                       |
-|  Wed   |  Jan. 13  |   [Robot Mechanisms]                             |         |
+|  Mon   |   Jan. 11  |   [Introduction & Themes]                           |                        |
+|  Wed   |  Jan. 13  |   [Robot Mechanisms]                                  |                       |
 |  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
-|  Wed   |  Jan. 20  |   [Applications of Simulation]                    |   |
+|  Wed   |  Jan. 20  |   [Robot Mechanisms]                           |             |
+|  Mon   |  Jan. 25  |   [Robot Simulation]                        |     <a href="" style="color: blue">Program 1 Available</a>                   |
+| Wed    | Jan. 27   |  [Introduction to ROS I ]     |           | 
+|  Mon   |   Feb. 1   |   [Introduction to ROS I ]               |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page section submission each team)         |
+|  Wed   |   Feb. 3   |     [Introduction to ROS II ]            |             |
+|  Mon   |   Feb. 8   |    [Introduction to ROS II ]             |              |
+|  Wed   |   Feb. 10 |   [Sensing and Perception I ]           |            |
+|  Mon   |  Feb. 15 |   [Sensing and Perception I]             |            |
+|  Wed   | Feb. 17  |   [Sensing and Perception I]          |               |
+|  Mon   | Feb. 22  |    [Sensing and Perception II]          |                         |
+|  Wed   | Feb. 24 |    [Sensing and Perception II]           |     <span style="color:red"> **Program 1 Due, 11:59pm**</span>    |
+|  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Project Milestone** <span style="color:black"> (1 page section submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
+|  Wed   |  March 3    |  [Planning as Search]         |              |
+|  Mon   |  March 8    |  [Sample-based Path Planning]      |            |
+|  Wed   |  March 10  |    [Robot Manipulators and Kinematics] |          |
+|  Mon   |  March 15    |      Spring Vacation (Student Holiday) - No class   |             |
+| Wed    |  March 17    |     Spring Vacation (Student Holiday) - No class   |             |
+|  Mon   |   March 22   |     [Robot Grasping]           |    |
+|  Wed   |  March 24    |   [Simultaneous Localization and Mapping]            |                  |
+|  Mon   |  March 29    |    [Learning-Based Robotics]     |      **Program 2 Due at 11:59pm** </span>     |
+| Wed    |  March 31   |     [Imitation Learning]      |     <a href="">Program 3 Available</a>        |
+|  Mon   |   Apr. 5     |      [Self-supervised Learning]        |       <span style="color:red"> **Project Checkpoint** <span style="color:black"> (1 page section submission each team)        |
+| Wed    |   Apr. 7     |     [Reinforcement learning I]        |                 |
+| Mon    |  Apr. 12     |     [Reinforcement learning II]      |                        |
+|  Wed   |  Apr. 14     |      [Follow the Gap & Robotics Application]         |                 |
+|  Mon   |  Apr. 19     |      Presentation         |                 |
+|  Wed   |  Apr. 21     |     Presentation         |                  |
+|  Mon   |  Apr. 26     |    Prep week - No class      |                 |
+| Wed   |  Apr. 28      |    Prep week - No class   |    <span style="color:red"> **Program 3 Due at 11:59pm** </span>  |
+| Sun | May 2 | Report and Demo Due (TBD) | Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. | 
