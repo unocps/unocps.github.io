@@ -93,16 +93,16 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
 |  Wed   |  Jan. 20  |   [Robot Mechanisms]                           |             |
 |  Mon   |  Jan. 25  |   [Robot Simulation]                        |     <a href="" style="color: blue">Program 1 Available</a>                   |
-| Wed    | Jan. 27   |  [Introduction to ROS I ]     |           | 
-|  Mon   |   Feb. 1   |   [Introduction to ROS I ]               |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page section submission each team)         |
-|  Wed   |   Feb. 3   |     [Introduction to ROS II ]            |             |
-|  Mon   |   Feb. 8   |    [Introduction to ROS II ]             |              |
-|  Wed   |   Feb. 10 |   [Sensing and Perception I ]           |            |
+| Wed    | Jan. 27   |  [Introduction to ROS I]     |           | 
+|  Mon   |   Feb. 1   |   [Introduction to ROS I]               |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page submission each team)         |
+|  Wed   |   Feb. 3   |     [Introduction to ROS II]            |             |
+|  Mon   |   Feb. 8   |    [Introduction to ROS II]             |              |
+|  Wed   |   Feb. 10 |   [Sensing and Perception I]           |            |
 |  Mon   |  Feb. 15 |   [Sensing and Perception I]             |            |
 |  Wed   | Feb. 17  |   [Sensing and Perception I]          |               |
 |  Mon   | Feb. 22  |    [Sensing and Perception II]          |                         |
 |  Wed   | Feb. 24 |    [Sensing and Perception II]           |     <span style="color:red"> **Program 1 Due, 11:59pm**</span>    |
-|  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Project Milestone** <span style="color:black"> (1 page section submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
+|  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Project Milestone** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
 |  Wed   |  March 3    |  [Planning as Search]         |              |
 |  Mon   |  March 8    |  [Sample-based Path Planning]      |            |
 |  Wed   |  March 10  |    [Robot Manipulators and Kinematics] |          |
@@ -112,7 +112,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   |  March 24    |   [Simultaneous Localization and Mapping]            |                  |
 |  Mon   |  March 29    |    [Learning-Based Robotics]     |      **Program 2 Due at 11:59pm** </span>     |
 | Wed    |  March 31   |     [Imitation Learning]      |     <a href="">Program 3 Available</a>        |
-|  Mon   |   Apr. 5     |      [Self-supervised Learning]        |       <span style="color:red"> **Project Checkpoint** <span style="color:black"> (1 page section submission each team)        |
+|  Mon   |   Apr. 5     |      [Self-supervised Learning]        |       <span style="color:red"> **Project Checkpoint** <span style="color:black"> (1 page submission each team)        |
 | Wed    |   Apr. 7     |     [Reinforcement learning I]        |                 |
 | Mon    |  Apr. 12     |     [Reinforcement learning II]      |                        |
 |  Wed   |  Apr. 14     |      [Follow the Gap & Robotics Application]         |                 |
