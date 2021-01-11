@@ -88,7 +88,7 @@ This schedule, and the links contained in it, are subject to change during the s
 
 |            |    Date   |               Topic                      | Assignment <!--- <br>(to be completed before class) --> |
 |:--------:|:------------|:-------------------------------------|:----------------------------------------------|
-|  Mon   |   Jan. 11  |   [Introduction & Themes]                           |                        |
+|  Mon   |   Jan. 11  |   [Introduction & Themes](https://drive.google.com/file/d/1snON2Oa-ot1OZ1gC4fIC4SlYJ-rfHjnS/view?usp=sharing)                          |  Reading: Building Machines That Learn and Think Like People. Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman (2016) |
 |  Wed   |  Jan. 13  |   [Robot Mechanisms]                                  |                       |
 |  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
 |  Wed   |  Jan. 20  |   [Robot Mechanisms]                           |             |
