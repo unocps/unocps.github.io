@@ -91,7 +91,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |   Jan. 11  |  [Introduction & Themes](https://drive.google.com/file/d/1snON2Oa-ot1OZ1gC4fIC4SlYJ-rfHjnS/view?usp=sharing) |  Reading: [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman (2016) |
 |  Wed   |  Jan. 13  |  [Robot Mechanisms](https://drive.google.com/file/d/1sPcTMkh3qkG2WFDI6vqkKXxhOV5dSSI4/view?usp=sharing)  |   Reading: [Robot Mechanisms](https://drive.google.com/file/d/1hfWn2KoNzNCJ-E4q5h9gMweEAZy4yfel/view?usp=sharing)  |
 |  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
-|  Wed   |  Jan. 20  |   [Robot Mechanisms]                           |             |
+|  Wed   |  Jan. 20  |   [Robot Mechanisms](https://drive.google.com/file/d/1sPcTMkh3qkG2WFDI6vqkKXxhOV5dSSI4/view?usp=sharing)  <br>   [Getting_Started_with_ROS](https://drive.google.com/file/d/1ed5cbMwK0K1TpxkSbihG2N1PaUla-bgR/view?usp=sharing)             |   Reading: Ch1          |
 |  Mon   |  Jan. 25  |   [Robot Simulation]                        |     <a href="" style="color: blue">Program 1 Available</a>                   |
 | Wed    | Jan. 27   |  [Introduction to ROS I]     |           | 
 |  Mon   |   Feb. 1   |   [Introduction to ROS I]               |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page submission each team)         |
