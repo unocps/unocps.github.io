@@ -93,7 +93,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
 |  Wed   |  Jan. 20  |   [Robot Mechanisms](https://drive.google.com/file/d/1sPcTMkh3qkG2WFDI6vqkKXxhOV5dSSI4/view?usp=sharing)  <br>   [Getting_Started_with_ROS](https://drive.google.com/file/d/1ed5cbMwK0K1TpxkSbihG2N1PaUla-bgR/view?usp=sharing)             |   Reading: Ch1          |
 |  Mon   |  Jan. 25  |   SEVERE WEATHER (No Class)         |                       |
-| Wed    | Jan. 27   |   [Robot Simulation]      |           |       <a href="" style="color: blue">Program 1 Available</a>   
+| Wed    | Jan. 27   |   [Robot Simulation]      |           |       <a href="" style="color: blue">Program 1 Available</a>   |
 |  Mon   |   Feb. 1   |   [Introduction to ROS I]               |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page submission each team)         |
 |  Wed   |   Feb. 3   |     [Introduction to ROS II]            |             |
 |  Mon   |   Feb. 8   |    [Introduction to ROS II]             |              |
