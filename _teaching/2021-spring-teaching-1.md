@@ -86,7 +86,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur  |  Jan. 14 |   [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)   | Reading: ch.1.1 - 1.2 |
 | Tue   |  Jan. 19  |   [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)  | Reading: ch.1.3 - 1.4 |
 | Thur  |  Jan. 21  |   [Basic Operating Systems Concepts](https://drive.google.com/file/d/12avSu5nSzZnw0URonpE5EAiLlJhGwyRn/view?usp=sharing)  | Reading: ch.1.4 - 1.5 |
-| Tue   |  Jan. 26  |    [Processes and File Systems](https://drive.google.com/file/d/1NZoLj-Ys9ZnxKTNKtfmS_ybAx8nHI5Kf/view?usp=sharing)     | Reading: ch.2.1  <br> <a href=""> Homework 1 Available</a>  |
+| Tue   |  Jan. 26  |    [Processes and File Systems](https://drive.google.com/file/d/1NZoLj-Ys9ZnxKTNKtfmS_ybAx8nHI5Kf/view?usp=sharing)     | Reading: ch.2.1  <br> <a href="https://drive.google.com/file/d/1cWHHJHVFfP-7OcS_atZsm5Py1i1OnVFb/view?usp=sharing"> Homework 1 Available</a>  |
 | Thur |  Jan. 28  |   [Processes and File Systems](https://drive.google.com/file/d/1NZoLj-Ys9ZnxKTNKtfmS_ybAx8nHI5Kf/view?usp=sharing)    | Reading:  ch.2.2 <br> <a href="">Program 1 Available</a>  |
 | Tue  | Feb. 2 |   [Redirection]  <br> [Concurrency]       | <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 4 |   [Concurrency]    | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <a href="" style="color: blue">Homework 2 Available</a> |
