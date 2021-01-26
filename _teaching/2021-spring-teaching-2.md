@@ -95,7 +95,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Jan. 25  |   SEVERE WEATHER (No Class)         |                       |
 | Wed    | Jan. 27   |   [Robot Simulation]                | [Project Announcement]   |
 |  Mon   |   Feb. 1   |   [Introduction to ROS I]          |    <a href="" style="color: blue">Program 1 Available</a>            |
-|  Wed   |   Feb. 3   |     [Introduction to ROS II]       |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page submission each team)       |
+|  Wed   |   Feb. 3   |     [Introduction to ROS II]       |       <span style="color:red"> **Project Proposal** <span style="color:black"> (1 page submission (title, project description, motivation, the references) each team)       |
 |  Mon   |   Feb. 8   |    [Introduction to ROS II]             |              |
 |  Wed   |   Feb. 10 |   [Sensing and Perception I]           |            |
 |  Mon   |  Feb. 15 |   [Sensing and Perception I]             |            |
