@@ -93,7 +93,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Jan. 18  |   Martin Luther King Day (Student Holiday) - No class     |         |
 |  Wed   |  Jan. 20  |   [Robot Mechanisms](https://drive.google.com/file/d/1sPcTMkh3qkG2WFDI6vqkKXxhOV5dSSI4/view?usp=sharing)  <br>   [Getting_Started_with_ROS](https://drive.google.com/file/d/1ed5cbMwK0K1TpxkSbihG2N1PaUla-bgR/view?usp=sharing)             |   Reading: Ch1          |
 |  Mon   |  Jan. 25  |   SEVERE WEATHER (No Class)         |                       |
-| Wed    | Jan. 27   |   [Robot Simulation](https://drive.google.com/file/d/1DqGsv25RBdITaa2nshgDWD-Zg3ISUBXE/view?usp=sharing) <br> [Getting_Started_with_PyBullet]               | [Project Announcement](https://drive.google.com/file/d/16IO2cEmp2OVONGllc5UmnnVtgCYmK5Xm/view?usp=sharing)  |
+| Wed    | Jan. 27   |   [Robot Simulation](https://drive.google.com/file/d/1DqGsv25RBdITaa2nshgDWD-Zg3ISUBXE/view?usp=sharing) <br> [Getting_Started_with_PyBullet]               | [Project Announcement](https://drive.google.com/file/d/16IO2cEmp2OVONGllc5UmnnVtgCYmK5Xm/view?usp=sharing)  <br> Reading:[Simulation and Numerical Methods](https://drive.google.com/file/d/1_u4ZM13VYv_FxCy0Rm_l4GPcAIxT9wQ7/view?usp=sharing)|
 |  Mon   |   Feb. 1   |   [Introduction to ROS I]          |    <a href="" style="color: blue">Program 1 Available</a>            |
 |  Wed   |   Feb. 3   |     [Introduction to ROS II]       |       <span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team)       |
 |  Mon   |   Feb. 8   |    [Introduction to ROS II]             |              |
