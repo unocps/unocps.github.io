@@ -97,7 +97,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |   Feb. 1   |   [Robot Simulation](https://drive.google.com/file/d/1DqGsv25RBdITaa2nshgDWD-Zg3ISUBXE/view?usp=sharing) <br> [Getting_Started_with_PyBullet](https://drive.google.com/file/d/1wlQ5lYMpcjE2yS3hrFkxKGywmI8MZ27w/view?usp=sharing)   |  Reading: ch2 <br> <a href="https://drive.google.com/file/d/1T0h-2EXGT1b7jzEjRtS_n_F7DGLFPqLl/view?usp=sharing" style="color: blue">Program 1 Available</a>            |
 |  Wed   |   Feb. 3   |   [Introduction to ROS I](https://drive.google.com/file/d/1hEeeyaZdZ49EMX99MYnHOR-8MwRsvdm9/view?usp=sharing)       |   Reading: ch3 <br>    <span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team)       |
 |  Mon   |   Feb. 8   |    [Introduction to ROS I](https://drive.google.com/file/d/1hEeeyaZdZ49EMX99MYnHOR-8MwRsvdm9/view?usp=sharing)             |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level       |
-|  Wed   |   Feb. 10 |   [Introduction to ROS II]           |    [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level      |
+|  Wed   |   Feb. 10 |   [Introduction to ROS II](https://drive.google.com/file/d/1cYecmkHJyqstb5G3yzT4s0m0Ymx1yonl/view?usp=sharing)          |    [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level      |
 |  Mon   |  Feb. 15 |   [Sensing and Perception I]             |            |
 |  Wed   | Feb. 17  |   [Sensing and Perception I]          |               |
 |  Mon   | Feb. 22  |    [Sensing and Perception II]          |                         |
