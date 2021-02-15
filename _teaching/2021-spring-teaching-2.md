@@ -98,8 +98,8 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   |   Feb. 3   |   [Robot Simulation](https://drive.google.com/file/d/1DqGsv25RBdITaa2nshgDWD-Zg3ISUBXE/view?usp=sharing)   |   Reading: ch3 <br>    <span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team)       |
 |  Mon   |   Feb. 8   |    [Introduction to ROS I](https://drive.google.com/file/d/1hEeeyaZdZ49EMX99MYnHOR-8MwRsvdm9/view?usp=sharing)             |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level       |
 |  Wed   |   Feb. 10 |   [Introduction to ROS II](https://drive.google.com/file/d/1cYecmkHJyqstb5G3yzT4s0m0Ymx1yonl/view?usp=sharing)          |    [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level      |
-|  Mon   |  Feb. 15 |   [Introduction to ROS II](https://drive.google.com/file/d/1cYecmkHJyqstb5G3yzT4s0m0Ymx1yonl/view?usp=sharing)           |         |
-|  Wed   | Feb. 17  |   [Introduction to ROS III](https://drive.google.com/file/d/1tlShnBuBMKCFDAdVCdz64dKDm7Y6ZvbA/view?usp=sharing)          |         |
+|  Mon   |  Feb. 15 |   [Introduction to ROS II](https://drive.google.com/file/d/1cYecmkHJyqstb5G3yzT4s0m0Ymx1yonl/view?usp=sharing)           |    [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level       |
+|  Wed   | Feb. 17  |   [Introduction to ROS III](https://drive.google.com/file/d/1tlShnBuBMKCFDAdVCdz64dKDm7Y6ZvbA/view?usp=sharing)          |     [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level     |
 |  Mon   | Feb. 22  |    [Sensing and Perception I]          |                         |
 |  Wed   | Feb. 24 |    [Sensing and Perception II]           |     <span style="color:red"> **Program 1 Due, 11:59pm**</span>    |
 |  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Project Milestone** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
