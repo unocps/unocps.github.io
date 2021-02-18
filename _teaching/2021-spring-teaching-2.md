@@ -95,14 +95,14 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Jan. 25  |   SEVERE WEATHER (No Class)         |                       |
 | Wed    | Jan. 27   |  [Getting_Started_with_ROS](https://drive.google.com/file/d/1ed5cbMwK0K1TpxkSbihG2N1PaUla-bgR/view?usp=sharing)               | [Project Announcement](https://drive.google.com/file/d/16IO2cEmp2OVONGllc5UmnnVtgCYmK5Xm/view?usp=sharing)  <br> Reading: [Simulation and Numerical Methods](https://drive.google.com/file/d/1_u4ZM13VYv_FxCy0Rm_l4GPcAIxT9wQ7/view?usp=sharing)|
 |  Mon   |   Feb. 1   |   [Getting_Started_with_PyBullet](https://drive.google.com/file/d/1wlQ5lYMpcjE2yS3hrFkxKGywmI8MZ27w/view?usp=sharing)   |  Reading: ch2 <br> <a href="https://drive.google.com/file/d/1T0h-2EXGT1b7jzEjRtS_n_F7DGLFPqLl/view?usp=sharing" style="color: blue">Program 1 Available</a>            |
-|  Wed   |   Feb. 3   |   [Robot Simulation](https://drive.google.com/file/d/1DqGsv25RBdITaa2nshgDWD-Zg3ISUBXE/view?usp=sharing)   |   Reading: ch3 <br>    <span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team)       |
+|  Wed   |   Feb. 3   |   [Robot Simulation](https://drive.google.com/file/d/1DqGsv25RBdITaa2nshgDWD-Zg3ISUBXE/view?usp=sharing)   |   Reading: ch3 <br>    <span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team) |
 |  Mon   |   Feb. 8   |    [Introduction to ROS I](https://drive.google.com/file/d/1hEeeyaZdZ49EMX99MYnHOR-8MwRsvdm9/view?usp=sharing)             |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level       |
 |  Wed   |   Feb. 10 |   [Introduction to ROS II](https://drive.google.com/file/d/1cYecmkHJyqstb5G3yzT4s0m0Ymx1yonl/view?usp=sharing)          |    [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level      |
 |  Mon   |  Feb. 15 |   [Introduction to ROS II](https://drive.google.com/file/d/1cYecmkHJyqstb5G3yzT4s0m0Ymx1yonl/view?usp=sharing)           |    [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level       |
 |  Wed   | Feb. 17  |   [Introduction to ROS III](https://drive.google.com/file/d/1tlShnBuBMKCFDAdVCdz64dKDm7Y6ZvbA/view?usp=sharing)          |     [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level     |
-|  Mon   | Feb. 22  |    [Sensing and Perception I]          |                         |
+|  Mon   | Feb. 22  |    [Sensing and Perception I]          |                  |
 |  Wed   | Feb. 24 |    [Sensing and Perception II]           |     <span style="color:red"> **Program 1 Due, 11:59pm**</span>    |
-|  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Project Milestone** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
+|  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **[Project Milestone](https://drive.google.com/file/d/13r2SG4_6qpSkrnEJOTxBTXHMMvtDTBp_/view?usp=sharing)** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
 |  Wed   |  March 3    |  [Planning as Search]         |              |
 |  Mon   |  March 8    |  [Sample-based Path Planning]      |            |
 |  Wed   |  March 10  |    [Robot Manipulators and Kinematics] |          |
