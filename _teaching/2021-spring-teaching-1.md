@@ -94,10 +94,10 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Feb. 11 |   [Communication & Synchronization - Part 1](https://drive.google.com/file/d/1uFz_GId5KN3mkCM3TaRl58dhSYg-9GFf/view?usp=sharing)  | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) |
 | Tue  | Feb. 16  |   SEVERE WEATHER (No Class)    | Reading: ch.2.4 <br> [The Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf) |
 | Thur | Feb. 18  | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing)     | Reading: ch.3.1  <br> <span style="color:red"> Homework 2 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> <br> <a href="https://drive.google.com/file/d/1LL7C7nBnkuDY0pEGYkomslRCm5qhIOTB/view?usp=sharing" style="color: blue">Homework 3 Available</a> |
-| Tue  | Feb. 23  | [Classic Task Communication - Part 1]  | Reading: ch.3.2 |
-| Thur | Feb. 25  | [Classic Task Communication - Part 1] | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
-| Tue  | Mar. 2 | [Classic Task Communication - Part 2]  | <a href="" style="color: blue">Program 2 Available</a>  |
-| Thur | Mar. 4| [Scheduling]   |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
+| Tue  | Feb. 23  | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing)  | Reading: ch.3.2 |
+| Thur | Feb. 25  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing) | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
+| Tue  | Mar. 2 | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)  | <a href="" style="color: blue">Program 2 Available</a>  |
+| Thur | Mar. 4| [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)   |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
 | Tue  | Mar. 9  | [Scheduling]   |  Reading: ch.4.1   |
 | Thur  | Mar. 11  | <span style="color:red"> **Midterm** </span> | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> Anytime, 75 mins </span> |
 | Tue   |  Mar. 16   |  Spring Vacation (Student Holiday) - No classes   |  |
