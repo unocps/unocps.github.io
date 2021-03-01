@@ -102,9 +102,9 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   | Feb. 17  |   [Introduction to ROS III](https://drive.google.com/file/d/1tlShnBuBMKCFDAdVCdz64dKDm7Y6ZvbA/view?usp=sharing)          |     [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level     |
 |  Mon   | Feb. 22  |    [Introduction to ROS III](https://drive.google.com/file/d/1tlShnBuBMKCFDAdVCdz64dKDm7Y6ZvbA/view?usp=sharing)    |  Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
 |  Wed   | Feb. 24 |    [Sensing and Perception in Simulation](https://drive.google.com/file/d/1-qAYTRl3WODE2k1haen19NWctzxEXqfS/view?usp=sharing)           |   Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span>    |
-|  Mon   |  March 1    |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **[Project Milestone](https://drive.google.com/file/d/13r2SG4_6qpSkrnEJOTxBTXHMMvtDTBp_/view?usp=sharing)** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
-|  Wed   |  March 3    |  [Planning as Search]         |              |
-|  Mon   |  March 8    |  [Sample-based Path Planning]      |            |
+|  Mon   |  March 1    |  [Sensing and Perception in Simulation](https://drive.google.com/file/d/1-qAYTRl3WODE2k1haen19NWctzxEXqfS/view?usp=sharing)   |  <span style="color:red"> **[Project Milestone](https://drive.google.com/file/d/13r2SG4_6qpSkrnEJOTxBTXHMMvtDTBp_/view?usp=sharing)** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
+|  Wed   |  March 3    |  [Sensing and Perception in Simulation II](https://drive.google.com/file/d/13aITydbwi3vpccliVqlKk8TmpslNywlp/view?usp=sharing)  |  Reading: ch, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)             |
+|  Mon   |  March 8    |   [Plan Planning: Representation and Fundamentals]      |            |
 |  Wed   |  March 10  |    [Robot Manipulators and Kinematics] |          |
 |  Mon   |  March 15    |      Spring Vacation (Student Holiday) - No class   |             |
 | Wed    |  March 17    |     Spring Vacation (Student Holiday) - No class   |             |
