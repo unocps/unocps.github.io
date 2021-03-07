@@ -97,13 +97,13 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Tue  | Feb. 23  | [Communication & Synchronization - Part 2](https://drive.google.com/file/d/1GO81i_ATQSG4KH08KXAYyO-UfwUw2-i5/view?usp=sharing)  | Reading: ch.3.2 |
 | Thur | Feb. 25  | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing) | Reading: ch.3.3 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
 | Tue  | Mar. 2 | [Classic Task Communication - Part 1](https://drive.google.com/file/d/1odokSp9BMBrRWKsZhr7PKS4scs-Dy-7o/view?usp=sharing)  | <a href="https://drive.google.com/file/d/17YTauXpvNMATYC5C5vDJt8mXd1X_7PDH/view?usp=sharing" style="color: blue">Program 2 Available</a>  |
-| Thur | Mar. 4| [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)   |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
-| Tue  | Mar. 9  | [Scheduling]   |  Reading: ch.4.1   |
+| Thur | Mar. 4| [Classic Task Communication - Part 2](https://drive.google.com/file/d/1CRhF9Gzu5KFIL3DKZbmVXWY7q7WCT4aL/view?usp=sharing)   |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="https://drive.google.com/file/d/1TtrtzHwAXsv-_SGJdJZ_s4dfmQLqP8B0/view?usp=sharing" style="color: green">Homework 3 Solution</a> |
+| Tue  | Mar. 9  | [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)  |  Reading: ch.4.1   |
 | Thur  | Mar. 11  | <span style="color:red"> **Midterm** </span> | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> Anytime, 75 mins </span> |
 | Tue   |  Mar. 16   |  Spring Vacation (Student Holiday) - No classes   |  |
 | Thur  |  Mar. 18   |  Spring Vacation (Student Holiday) - No classes   |  |
-| Tue  |  Mar. 23   |  [Deadlock]   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
-| Thur |  Mar. 25   |  [Deadlock]  | Reading: ch.4.2 <br> <a href="" style="color: blue">Homework 4 Available</a>  |
+| Tue  |  Mar. 23   |  [Deadlock](https://drive.google.com/file/d/12QKDruQugUNwVdaFbNBq894_EsdOg_Ra/view?usp=sharing)   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
+| Thur |  Mar. 25   |  [Scheduling]  | Reading: ch.4.2 <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Tue   |  Mar. 30   |   [Memory Overview - Part I: Memory Partition and Relocation]   | Reading: ch.4.3 |
 | Thur  |  Apr. 1   |  [Memory Overview - Part II: Techniques and Swapping]  | Reading: ch.4.4 <br>  <span style="color:red"> **Program 2 Due, 11:59pm**</span> <br> <a href=""> Program 3 Available</a>|
 | Tue   |  Apr. 6  | [Memory Overview - Part II: Techniques and Swapping]    | Reading: ch.4.5  <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
