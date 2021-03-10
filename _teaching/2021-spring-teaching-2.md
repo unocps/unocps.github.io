@@ -105,11 +105,11 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  March 1    |  [Sensing and Perception in Simulation](https://drive.google.com/file/d/1EOSXOxFDesSGMrH3gpsjHOBG460B_kdE/view?usp=sharing)   |  <span style="color:red"> **[Project Milestone](https://drive.google.com/file/d/13r2SG4_6qpSkrnEJOTxBTXHMMvtDTBp_/view?usp=sharing)** <span style="color:black"> (1 page submission each team) <br> <a href="https://drive.google.com/file/d/1toFB_5OXdmlVzbpyNbRU5iOe1yy5hK6A/view?usp=sharing" style="color: blue">Program 2 Available</a>   |
 |  Wed   |  March 3    |  [Sensing and Perception in Simulation II](https://drive.google.com/file/d/13aITydbwi3vpccliVqlKk8TmpslNywlp/view?usp=sharing)  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)    |
 |  Mon   |  March 8    |   [Sensing and Perception in Simulation II](https://drive.google.com/file/d/13aITydbwi3vpccliVqlKk8TmpslNywlp/view?usp=sharing)    |   Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1) |
-|  Wed   |  March 10  |    [Plan Planning: Representation and Fundamentals] |          |
+|  Wed   |  March 10  |    [Sensing and Perception in Simulation II](https://drive.google.com/file/d/13aITydbwi3vpccliVqlKk8TmpslNywlp/view?usp=sharing) | [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1) <br> [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials)   |
 |  Mon   |  March 15    |      Spring Vacation (Student Holiday) - No class   |             |
 | Wed    |  March 17    |     Spring Vacation (Student Holiday) - No class   |             |
 |  Mon   |   March 22   |     [Robot Grasping]           |    |
-|  Wed   |  March 24    |   [Simultaneous Localization and Mapping]            |                  |
+|  Wed   |  March 24    |   [Plan Planning: Representation and Fundamentals] <br> [Simultaneous Localization and Mapping]            |                  |
 |  Mon   |  March 29    |    [Learning-Based Robotics]     |      **Program 2 Due at 11:59pm** </span>     |
 | Wed    |  March 31   |     [Imitation Learning]      |     <a href="">Program 3 Available</a>        |
 |  Mon   |   Apr. 5     |      [Self-supervised Learning]        |       <span style="color:red"> **Project Checkpoint** <span style="color:black"> (1 page submission each team)        |
