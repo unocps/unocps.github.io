@@ -108,11 +108,11 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   |  March 10  |    [Sensing and Perception in Simulation II](https://drive.google.com/file/d/13aITydbwi3vpccliVqlKk8TmpslNywlp/view?usp=sharing) | Reading: [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1), [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials)   |
 |  Mon   |  March 15    |      Spring Vacation (Student Holiday) - No class   |             |
 | Wed    |  March 17    |     Spring Vacation (Student Holiday) - No class   |             |
-|  Mon   |   March 22   |     [Robot Grasping]           |    |
-|  Wed   |  March 24    |   [Plan Planning: Representation and Fundamentals] <br> [Simultaneous Localization and Mapping]            |                  |
-|  Mon   |  March 29    |    [Learning-Based Robotics]     |      **Program 2 Due at 11:59pm** </span>     |
+|  Mon   |   March 22   |     [Plan Planning: Representation and Fundamentals]           |    |
+|  Wed   |  March 24    |   [Simultaneous Localization and Mapping] <br> [Robot Grasping]    |                  |
+|  Mon   |  March 29    |    [Learning-Based Robotics]     |  <span style="color:red"> **Program 2 Due at 11:59pm** </span>     |
 | Wed    |  March 31   |     [Imitation Learning]      |     <a href="">Program 3 Available</a>        |
-|  Mon   |   Apr. 5     |      [Self-supervised Learning]        |       <span style="color:red"> **Project Checkpoint** <span style="color:black"> (1 page submission each team)        |
+|  Mon   |   Apr. 5     |      [Self-supervised Learning]        |       <span style="color:red"> **[Project Checkpoint](https://drive.google.com/file/d/1MzmIYyWodUkyUb6RagkxnI3II5XTfc28/view?usp=sharing)** <span style="color:black"> (1 page submission each team)        |
 | Wed    |   Apr. 7     |     [Reinforcement learning I]        |                 |
 | Mon    |  Apr. 12     |     [Reinforcement learning II]      |                        |
 |  Wed   |  Apr. 14     |      [Follow the Gap & Robotics Application]         |                 |
