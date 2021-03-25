@@ -116,8 +116,8 @@ This schedule, and the links contained in it, are subject to change during the s
 | Wed    |   Apr. 7     |     [Reinforcement learning I]        |                 |
 | Mon    |  Apr. 12     |     [Reinforcement learning II]      |                        |
 |  Wed   |  Apr. 14     |      [Follow the Gap & Robotics Application]         |                 |
-|  Mon   |  Apr. 19     |   Presentation([Team 1-4](https://drive.google.com/file/d/1QnsDlb7e_1K--es27pAo0eFG9AkR0UDT/view?usp=sharing)) |    |
-|  Wed   |  Apr. 21     |   Presentation([Team 5-8](https://drive.google.com/file/d/1QnsDlb7e_1K--es27pAo0eFG9AkR0UDT/view?usp=sharing)) |    |
+|  Mon   |  Apr. 19     |   Presentation ([Team 1-4](https://drive.google.com/file/d/1QnsDlb7e_1K--es27pAo0eFG9AkR0UDT/view?usp=sharing)) |    |
+|  Wed   |  Apr. 21     |   Presentation ([Team 5-8](https://drive.google.com/file/d/1QnsDlb7e_1K--es27pAo0eFG9AkR0UDT/view?usp=sharing)) |    |
 |  Mon   |  Apr. 26     |    Prep week - No class      |                 |
 | Wed   |  Apr. 28      |    Prep week - No class   |    <span style="color:red"> **Program 3 Due at 11:59pm** </span>  |
 | Sun | May 2 | Report and Demo Due (TBD) | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, and 3) Demo video. | 
