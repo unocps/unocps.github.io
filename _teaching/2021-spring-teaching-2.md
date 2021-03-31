@@ -111,8 +111,8 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |   March 22   |     [Sensing and Perception in Simulation II](https://drive.google.com/file/d/13aITydbwi3vpccliVqlKk8TmpslNywlp/view?usp=sharing)  |  Reading: [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials), [Using a URDF in Gazebo](http://wiki.ros.org/urdf/Tutorials/Using%20a%20URDF%20in%20Gazebo)   |
 |  Wed   |  March 24    |   [Plan Planning: Representation and Fundamentals](https://drive.google.com/file/d/11UiqRlrHWqI0btc2IloH09MtgAqOd8DX/view?usp=sharing)| Reading: ch8
 |  Mon   |  March 29    |  [Plan Planning: Representation and Fundamentals](https://drive.google.com/file/d/11UiqRlrHWqI0btc2IloH09MtgAqOd8DX/view?usp=sharing)   |  <span style="color:red"> **Program 2 Due at 11:59pm** </span>     |
-| Wed    |  March 31   |     [Auto-Navigation Planner]      |  Reading: [ROS Navigation Tutorials](http://wiki.ros.org/navigation)   <a href="">Program 3 Available</a>        |
-|  Mon   |   Apr. 5     |    [Learning-Based Robotics]  <br>  [Self-supervised Learning]        |       <span style="color:red"> **[Project Checkpoint](https://drive.google.com/file/d/1MzmIYyWodUkyUb6RagkxnI3II5XTfc28/view?usp=sharing)** <span style="color:black"> (1 page submission each team)        |
+| Wed    |  March 31   |     [Auto-Navigation Planner]      |  Reading: Ch.8, [ROS Navigation Tutorials](http://wiki.ros.org/navigation)   <a href="">Program 3 Available</a>        |
+|  Mon   |   Apr. 5     |    [Learning-Based Robotics]  <br>  [Self-supervised Learning]        | Reading: Ch.7      <span style="color:red"> **[Project Checkpoint](https://drive.google.com/file/d/1MzmIYyWodUkyUb6RagkxnI3II5XTfc28/view?usp=sharing)** <span style="color:black"> (1 page submission each team)        |
 | Wed    |   Apr. 7     |     [Imitation Learning]        |                 |
 | Mon    |  Apr. 12     |     [Reinforcement learning]      |                        |
 |  Wed   |  Apr. 14     |      [Follow the Gap & Robotics Application]         |                 |
