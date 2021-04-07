@@ -113,9 +113,9 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  March 29    |  [Plan Planning: Representation and Fundamentals](https://drive.google.com/file/d/11UiqRlrHWqI0btc2IloH09MtgAqOd8DX/view?usp=sharing)   |  <span style="color:red"> **Program 2 Due at 11:59pm** </span>     |
 | Wed    |  March 31   |     [Auto-Navigation Planner](https://drive.google.com/file/d/1QUIrTuPdV640eZjqmq7CqDZKnA8xzSex/view?usp=sharing)      |  Reading: Ch.8, [ROS Navigation Tutorials](http://wiki.ros.org/navigation) <br>  <a href="https://drive.google.com/file/d/1heqzlvft7jRzt4gYGKsjm4dIuUENf094/view?usp=sharing">Program 3 Available</a>        |
 |  Mon   |   Apr. 5     |    [Auto-Navigation Planner](https://drive.google.com/file/d/1QUIrTuPdV640eZjqmq7CqDZKnA8xzSex/view?usp=sharing)       | Reading: Ch.7  <br>    <span style="color:red"> **[Project Checkpoint](https://drive.google.com/file/d/1MzmIYyWodUkyUb6RagkxnI3II5XTfc28/view?usp=sharing)** <span style="color:black"> (1 page submission each team)        |
-| Wed    |   Apr. 7     |     [Learning-Based Robotics]  <br> [Imitation Learning]        |                 |
-| Mon    |  Apr. 12     |     [Reinforcement learning]      |                        |
-|  Wed   |  Apr. 14     |      [Follow the Gap & Robotics Application]         |                 |
+| Wed    |   Apr. 7     |     [OpenCV + ROS]        | Reading: [OpenCV tutorials](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)               |
+| Mon    |  Apr. 12     |     [Learning-Based Robotics] <br> [Reinforcement learning]      |                        |
+|  Wed   |  Apr. 14     |      [Imitation Learning] <br>[Robotics Application]         |                 |
 |  Mon   |  Apr. 19     |   Presentation ([Team 1-4](https://drive.google.com/file/d/1QnsDlb7e_1K--es27pAo0eFG9AkR0UDT/view?usp=sharing)) |    |
 |  Wed   |  Apr. 21     |   Presentation ([Team 5-8](https://drive.google.com/file/d/1QnsDlb7e_1K--es27pAo0eFG9AkR0UDT/view?usp=sharing)) |    |
 |  Mon   |  Apr. 26     |    Prep week - No class      |                 |
