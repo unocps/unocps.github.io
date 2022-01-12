@@ -7,6 +7,9 @@ author_profile: true
 
 # Selected journal papers
 
+1. Sungjin Kim, Matthew Peavy, Pei-Chi Huang, and Kyungki Kim. "[Development of bim-integratedconstruction robot task planning and simulation system. Automation in Construction](https://doi.org/10.1016/j.autcon.2021.103720)", 127:103720,2021.
+1. Wei-Ju Chen, Peng Wu, Pei-Chi Huang, Aloysius K. Mok and Song Han, "[Online Reconfigurationof  Regularity-based  Resource  Partitions  in  Cyber-Physical  Systems](https://ieeexplore.ieee.org/document/9052168),”Real-Time  Systems  Journal(RTSJ), pages 1-44, 2021
+1. Xin  Zhong, Pei-Chi Huang, Spyridon Mastorakis, and Frank Y. Shih. "[An  automated  and  robustimage watermarking scheme based on deep neural networks](https://ieeexplore.ieee.org/document/9133124)". IEEE Transactions on Multimedia,23:1951–1961, 2021
 1. Quan Leng, Wei-Ju Chen, Pei-Chi Huang, Yi-Hung Wei, Aloysius K. Mok, and Song Han, "[Network management of multicluster RT-WiFi networks](https://dl.acm.org/citation.cfm?id=3283451)", ACM Transactions on Sensor Networks (TOSN), 15(1): Article 12, 2019.
 1. Pei-Chi Huang, Luis Sentis, Joel Lehman, Chien-Liang Fok, Aloysius K. Mok and Risto Miikkulainen, "[Tradeoffs in Neuroevolutionary Learning-Based Real-Time Robotic Task Design in the Imprecise Computation Framework](https://dl.acm.org/citation.cfm?doid=3284746.3178903)", ACM Transactions on Cyber-Physical Systems (TCPS), 3(2): Article 14, March 2019.
 1. Xiuming Zhu, Pei-Chi Huang, Jianyong Meng, Song Han, Aloysius K. Mok, Deji Chen and Mark Nixon, "[ColLoc: A Collaborative localization and tracking System on WirelessHART](https://dl.acm.org/citation.cfm?id=2584656&dl=ACM&coll=DL)", ACM Transactions on Embedded Computing Systems (TECS), 13(4s): Article 125, 2014.
