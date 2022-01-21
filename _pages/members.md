@@ -7,7 +7,7 @@ author_profile: true
 
 |         Name        |     Title           |       Topic         |   Email             | Semester             |
 |:--------------------|:--------------------|:--------------------|:--------------------| 
-|[Dilanga Lakshitha Galapita Mudiyanselage](https://dabeyrathna.github.io/)| PhD student | Computer Vision and Deep Learning | dabeyrathna@unomaha.edu | 2019 Spring - 2021 Spring |
+| Dilanga Lakshitha Galapita Mudiyanselage | PhD student | Computer Vision and Deep Learning | dabeyrathna@unomaha.edu | 2019 Spring - 2021 Spring |
 | Jaya Sindhura Pailla | Master student | Computer Vision and Deep Learning | dabeyrathna@unomaha.edu| 2020 Spring - 2020 Summer |
 | Haritha Prasad Rayakota | Master students | Machine Learning and Robotics Simluation | hrayakota@unomaha.edu | 2019 Spring - 2020 Summer |
 | Ryan Lankin | Master student | Robotics Platform | rlankin@unomaha.edu | 2019 Spring - 2020 Spring |
