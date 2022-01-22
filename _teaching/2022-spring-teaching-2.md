@@ -14,7 +14,7 @@ The course introduces the design and structure of computer operating systems, an
 # Administrative Information
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
-* Office Hour: Wednesday 2:30 - 3:30 PM, PKI 173 Building or by appointment
+* Office Hour: Wednesday 1:15 - 2:30 PM, PKI 173 Building or by appointment
 * Class Info: MW 12:00PM - 1:15PM, Remote Learning
 * [Course Schedule](#schedule)      
 
