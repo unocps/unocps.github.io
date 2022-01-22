@@ -94,22 +94,22 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Wed | Mar. 9 | [Low-level Memory Management](https://drive.google.com/file/d/1jBAI_89Kzx6UcGkxZZbnQQu9pdWRbKuF/view?usp=sharing)  | Reading: ch.9,10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
 | Mon  | March 14  |  Spring Break  |
 | Wed | March 16  |   Spring Break  | 
-| Mon  | March 21 |                           |
-| Wed | March 23 |        | Reading: ch.12 |
-| Mon  |  March 28  |  | [Low-level Memory Management](https://drive.google.com/file/d/1jBAI_89Kzx6UcGkxZZbnQQu9pdWRbKuF/view?usp=sharing)  | Reading: ch.10 <br> <a href="https://drive.google.com/file/d/1xt8LBGXHzFXIkeACVxMtPD7SVhjmgJSF/view?usp=sharing" style="color: blue">Program 2 Available</a>  |
-| Wed |  March 30  |   [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  |  Reading: ch.10, 11 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/19Rm4NEuBACDmJ6pr6RLDyNOC_KMJen8E/view?usp=sharing" style="color: green">Homework 3 Solution</a> |
-| Mon  |  Apr. 4  |  <span style="color:red"> **Midterm** </span> | <span style="color:red"> **12:00pm-1:15pm** </span> |
-| Wed |  Apr. 6  | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing) <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team)  |   Reading: ch.13   |
-| Mon  |  Apr. 11  | [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  | Reading: ch.13  |
+| Mon  | March 21 | [Low-level Memory Management](https://drive.google.com/file/d/1jBAI_89Kzx6UcGkxZZbnQQu9pdWRbKuF/view?usp=sharing)  | Reading: ch.10 <br> <a href="https://drive.google.com/file/d/1xt8LBGXHzFXIkeACVxMtPD7SVhjmgJSF/view?usp=sharing" style="color: blue">Program 2 Available</a>  |
+| Wed | March 23 |  [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  |  Reading: ch.10, 11 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/19Rm4NEuBACDmJ6pr6RLDyNOC_KMJen8E/view?usp=sharing" style="color: green">Homework 3 Solution</a> |
+| Mon  |  March 28  |  <span style="color:red"> **Midterm** </span> | <span style="color:red"> **12:00pm-1:15pm** </span> |
+| Wed |  March 30  |  [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing) <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team)  |   Reading: ch.13   | 
+| Mon  |  Apr. 4  |  [High-level Memory Management](https://drive.google.com/file/d/1bwdLDdLMh5ZkELCFyDWz_r4PQoSt_CJh/view?usp=sharing)  | Reading: ch.13  |
 | Wed | Apr. 13 | [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing) | Reading: ch.13 <br>  <a href="https://drive.google.com/file/d/1-2DSEqArvyxMl70aHCbDrJEwzmUdFCKy/view?usp=sharing">Program 3 Available</a> |
-| Mon  | Apr. 18 |  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="https://drive.google.com/file/d/1_f8t1p51H8jdOjkBSUR6bmcECSl9LL3p/view?usp=sharing" style="color: blue">Homework 4 Available</a>  |
-| Wed | Apr. 20 | [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing) | Reading: ch.14   |
-| Mon  | Apr. 25 | [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing)<br> [Clock and Timer Management](https://drive.google.com/file/d/1dm7BrXpxm6SeGnltV_uB2--fHb0Cuyv3/view?usp=sharing) | Reading: ch.14 |
-| Wed | Apr. 27 | [Clock and Timer Management](https://drive.google.com/file/d/1dm7BrXpxm6SeGnltV_uB2--fHb0Cuyv3/view?usp=sharing) <br> [High-level Synchronous Message Passing](https://drive.google.com/file/d/1ZX1C1HQMYXlyzI5ACn_haqHFRKez9IUW/view?usp=sharing) |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1baAT9UFiGqAppRZooOLhpg5pADLvzMOV/view?usp=sharing" style="color: green">Homework 4 Solution</a> <br> <a href="https://drive.google.com/file/d/1t2ClHd225jqrrYuv3q9s9NM__3V5ATtY/view?usp=sharing" style="color: blue">Homework 5 Available</a>  |
-| Mon  | May 2 | No Class (Conference) |         |
+| Wed  |  Apr. 6  |   <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 mins presentation and 1 page section submission each team) | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="https://drive.google.com/file/d/1_f8t1p51H8jdOjkBSUR6bmcECSl9LL3p/view?usp=sharing" style="color: blue">Homework 4 Available</a>  |
+| Mon  |  Apr. 11 |  [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing) | Reading: ch.14   |
+| Mon  | Apr. 18 |  [Device Management](https://drive.google.com/file/d/1A-UoUnZ7DxYigc5Hg4RrpAcFDF6ddNFO/view?usp=sharing)<br> [Clock and Timer Management](https://drive.google.com/file/d/1dm7BrXpxm6SeGnltV_uB2--fHb0Cuyv3/view?usp=sharing) | Reading: ch.14 |
+| Wed | Apr. 20 |   [Clock and Timer Management](https://drive.google.com/file/d/1dm7BrXpxm6SeGnltV_uB2--fHb0Cuyv3/view?usp=sharing) <br> [High-level Synchronous Message Passing](https://drive.google.com/file/d/1ZX1C1HQMYXlyzI5ACn_haqHFRKez9IUW/view?usp=sharing) |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/1baAT9UFiGqAppRZooOLhpg5pADLvzMOV/view?usp=sharing" style="color: green">Homework 4 Solution</a> <br> <a href="https://drive.google.com/file/d/1t2ClHd225jqrrYuv3q9s9NM__3V5ATtY/view?usp=sharing" style="color: blue">Homework 5 Available</a>  |
+| Mon  | Apr. 25 | [High-level Synchronous Message Passing](https://drive.google.com/file/d/1ZX1C1HQMYXlyzI5ACn_haqHFRKez9IUW/view?usp=sharing) | Reading: ch.15 |
+| Wed | Apr. 27 | [Networking and Protocol Implementation]() | Reading: ch. 16|
+| Mon  | May 2 | [Networking and Protocol Implementation]() | Reading: ch. 17|
 | Wed | May 4 | No Class (Conference) | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href="https://drive.google.com/file/d/14_6GotGFlwsJ1w7x5sqTo6N3xGRwzE3T/view?usp=sharing" style="color: green">Homework 5 Solution</a>  |
-| Mon  | May 9 | Prep week             |         |
-| Wed | May 11 | Prep week             | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
+| Mon  | May 9 | Presentation           |         |
+| Wed | May 11 | Presentation              | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
 | Sunday | May 15  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
 
 
