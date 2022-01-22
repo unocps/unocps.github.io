@@ -86,7 +86,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Mon  | Feb. 14  | [Hardware Architecture and Runtime Systems]) | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
 | Wed | Feb. 16  | [Process Management]   | Reading: ch.6 <br> <a href="" style="color: blue">Homework 2 Available</a> |
 | Mon  | Feb. 21 | [Process Management]   | Reading: ch.6 |
-| Wed | Feb. 23 | [Process Management] <br> <a href=" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team, [word], [pdf] ) | Reading: ch.7 |
+| Wed | Feb. 23 | [Process Management] <br> <a href="" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team, [word], [pdf] ) | Reading: ch.7 |
 | Mon  | Feb. 28  | [Process Coordination and Synchronization]    | Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Wed | Mar. 2  | [Process Coordination and Synchronization]    | Reading: ch.8 |
 | Mon  | Mar. 7  | [Inter-Process Communication]    | Reading: ch.9  <br> <a href="" style="color: blue">Homework 3 Available</a> |
