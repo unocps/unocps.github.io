@@ -1,4 +1,3 @@
-
 ---
 title: "CSCI8530 Advanced Operating Systems (Spring 2022)"
 collection: teaching
