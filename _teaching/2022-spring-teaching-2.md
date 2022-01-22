@@ -77,13 +77,13 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Mon  | Jan. 24  | [Introduction & Themes]|    |
+| Mon  | Jan. 24  |  [Introduction & Themes](https://drive.google.com/file/d/1WcWtcpMVgTr0JCag4ExpLgFth8c_lZ6h/view?usp=sharing)  |    |
 | Wed | Jan. 26  | [Hardware and Xinu]| Reading: ch.1 <br> [Announcement of Final Project] |
 | Mon  | Jan. 31  | [Xinu on Intel Galileo User Manual <br> [Xinu Setup Procedure] | [Galileo System Receipt] <br> Reading: ch.2  |
 | Wed | Feb. 2  | [Organization of an Operating System] | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
 | Mon  | Feb. 7  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href="" style="color: blue"> Homework 1 Available</a>  |
 | Wed | Feb. 9  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> <br> [stack_frame] |
-| Mon  | Feb. 14  | [Hardware Architecture and Runtime Systems]) | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
+| Mon  | Feb. 14  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
 | Wed | Feb. 16  | [Process Management]   | Reading: ch.6 <br> <a href="" style="color: blue">Homework 2 Available</a> |
 | Mon  | Feb. 21 | [Process Management]   | Reading: ch.6 |
 | Wed | Feb. 23 | [Process Management] <br> <a href="" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team, [word], [pdf] ) | Reading: ch.7 |
