@@ -109,4 +109,4 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Wed | May 4 | No Class (Conference) | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a>  |
 | Mon  | May 9 | Presentation           |         |
 | Wed | May 11 | Presentation              | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
-| Sunday | May 15  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
+| Friday | May 13  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
