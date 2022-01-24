@@ -77,7 +77,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Mon  | Jan. 24  |  [Introduction & Themes](https://drive.google.com/file/d/1WcWtcpMVgTr0JCag4ExpLgFth8c_lZ6h/view?usp=sharing)  |    |
+| Mon  | Jan. 24  |  [Introduction & Themes] |    |
 | Wed | Jan. 26  | [Hardware and Xinu]| Reading: ch.1 <br> [Announcement of Final Project] |
 | Mon  | Jan. 31  | [Xinu on Intel Galileo User Manual <br> [Xinu Setup Procedure] | [Galileo System Receipt] <br> Reading: ch.2  |
 | Wed | Feb. 2  | [Organization of an Operating System] | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
