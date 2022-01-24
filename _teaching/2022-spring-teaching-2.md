@@ -26,7 +26,7 @@ The primary textbook: Operating System Design: The Xinu Approach (second edition
 
 ### Supplemental materials
 * [Raspberry Pi](https://www.raspberrypi.org/)
-* [Upgrading Embedded Xinu for the Raspberry Pi 3](http://reu.mscs.mu.edu/index.php/Upgrading_Embedded_Xinu_for_the_Multi-Core_Raspberry_Pi_3)
+* [Upgrading Embedded Xinu for the Raspberry Pi 3](https://reu.cs.mu.edu/index.php/Upgrading_Embedded_Xinu_for_the_Multi-Core_Raspberry_Pi_3)
 * The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 * Tanenbaum, A.S., 2009. Modern operating system. Pearson Education, Inc.
 * Daniel, P. and Marco, C., 2007. Understanding the Linux kernel.
