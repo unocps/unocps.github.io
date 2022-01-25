@@ -81,9 +81,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Date |           |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| Tue   |  Jan. 25 |   [Introduction & Themes](https://drive.google.com/file/d/1uud-mj63HNquaauuSsv_EyvlMzDgQYsL/view?usp=sharing)    |                       |
-| Thur  |  Jan. 27 |   [Introduction to Operating Systems & History](https://drive.google.com/file/d/1r7WNxaYdfaUjNryxELsYN7UnlUIIXWUN/view?usp=sharing)   | Reading: ch.1.1 - 1.2 |
-| Tue   |  Feb. 1  |   [Introduction to Operating Systems & History]   | Reading: ch.1.3 - 1.4 |
+| Tue   |  Jan. 25 |   [Introduction & Themes]   |                       |
+| Thur  |  Jan. 27 |   [Introduction to Operating Systems & History]     | Reading: ch.1.1 - 1.2 |
+| Tue   |  Feb. 1  |   [Introduction to Operating Systems & History]     | Reading: ch.1.3 - 1.4 |
 | Thur  |  Feb. 3  |   [Basic Operating Systems Concepts]  | Reading: ch.1.4 - 1.5 |
 | Tue   |  Feb. 8  |    [Processes and File Systems]     | Reading: ch.2.1  <br> <a href=""> Homework 1 Available</a>  |
 | Thur |  Feb. 10  |   [Processes and File Systems]    | Reading:  ch.2.2 <br> <a href="">Program 1 Available</a>  |
