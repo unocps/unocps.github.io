@@ -85,8 +85,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur  |  Jan. 27 |   [Introduction to Operating Systems & History]     | Reading: ch.1.1 - 1.2 |
 | Tue   |  Feb. 1  |   [Introduction to Operating Systems & History]     | Reading: ch.1.3 - 1.4 |
 | Thur  |  Feb. 3  |   [Basic Operating Systems Concepts]  | Reading: ch.1.4 - 1.5 |
-| Tue   |  Feb. 8  |    [Processes and File Systems]     | Reading: ch.2.1  <br> <a href=""> Homework 1 Available</a>  |
-| Thur |  Feb. 10  |   [Processes and File Systems]    | Reading:  ch.2.2 <br> <a href="">Program 1 Available</a>  |
+| Tue   |  Feb. 8  |    [Processes and File Systems]     | Reading: ch.2.1  <br> <a href="" style="color:blue"> Homework 1 Available</a>  |
+| Thur |  Feb. 10  |   [Processes and File Systems]    | Reading:  ch.2.2 <br> <a href="" style="color:blue">Program 1 Available</a>  |
 | Tue  | Feb. 15 |   [Redirection]  <br> [Concurrency]       | <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 17 |   [Concurrency]    | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <a href="" style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 22 |   [Communication & Synchronization - Part 1]  |   Reading: ch.2.3 <br> OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) |
@@ -103,7 +103,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur  |  Mar. 31   |   [Deadlock]   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  |  Apr. 5   |   [Deadlock]  | Reading: ch.4.2 <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Thur |  Apr. 7    |  [Memory Overview - Part I: Memory Partition and Relocation]   | Reading: ch.4.3 |
-| Tue   |  Apr. 12   |    [Memory Overview - Part II: Techniques and Swapping]  | Reading: ch.4.4 <br>  <span style="color:red"> **Program 2 Due, 11:59pm**</span> <br> <a href=""> Program 3 Available</a>|
+| Tue   |  Apr. 12   |    [Memory Overview - Part II: Techniques and Swapping]  | Reading: ch.4.4 <br>  <span style="color:red"> **Program 2 Due, 11:59pm**</span> <br> <a href="" style="color:blue"> Program 3 Available</a>|
 | Thur  |  Apr. 14   |  [Memory Overview - Part II: Techniques and Swapping]    | Reading: ch.4.5  <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
 | Tue   |  Apr. 19  |  [Virtual Memory - Part I: Mechanisms (Address Translation and Page Tables)] |  Reading: ch.5.1 <br> <a href="" style="color: blue">Homework 5 Available</a>  |
 | Thur  |  Apr. 21  |  [Virtual Memory - Part II: Policies (Page Replacement Algorithms)]     | Reading: ch.5.2-5-3  |
