@@ -87,7 +87,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur  |  Feb. 3  |   [Basic Operating Systems Concepts]  | Reading: ch.1.4 - 1.5 |
 | Tue   |  Feb. 8  |    [Processes and File Systems]     | Reading: ch.2.1  <br> <a href="" style="color:blue"> Homework 1 Available</a>  |
 | Thur |  Feb. 10  |   [Processes and File Systems]    | Reading:  ch.2.2 <br> <a href="" style="color:blue">Program 1 Available</a>  |
-| Tue  | Feb. 15 |   [Redirection]  <br> [Concurrency]       | <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
+| Tue  | Feb. 15 |   [Concurrency]       | <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
 | Thur | Feb. 17 |   [Concurrency]    | Reading: OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") <br> <a href="" style="color: blue">Homework 2 Available</a> |
 | Tue  | Feb. 22 |   [Communication & Synchronization - Part 1]  |   Reading: ch.2.3 <br> OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf) (skip 28.8-28.11) |
 | Thur | Feb. 24 |   [Communication & Synchronization - Part 1]  | Reading: OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf) <br> <span style="color:red"> Homework 2 Due (Upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
