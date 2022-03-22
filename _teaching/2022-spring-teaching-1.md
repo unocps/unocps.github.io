@@ -99,7 +99,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Thur | Mar. 17 |[Classic Task Communication - Part 2]  | <a href="" style="color: blue">Program 2 Available</a>  |
 | Tue  | Mar. 22  | [Scheduling]   |  Reading: [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
 | Thur  | Mar. 24 | [Scheduling]   |  Reading: ch.4.1   |
-| Tue   |  Mar. 29   | [Deadlock] | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> Anytime, 75 mins </span> |
+| Tue   |  Mar. 29   | [Deadlock] | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  <span style="color:red"> Anytime, 75 mins </span> --> |
 | Thur  |  Mar. 31   |   [Deadlock]   | Reading: OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)|
 | Tue  |  Apr. 5   |   <span style="color:red"> **Midterm** </span> | <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> Anytime, 75 mins </span> <br> Reading: ch.4.2 <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Thur |  Apr. 7    |  [Memory Overview - Part I: Memory Partition and Relocation]   | Reading: ch.4.3 |
