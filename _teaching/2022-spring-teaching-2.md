@@ -105,8 +105,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Wed | Apr. 20 |  [High-level Synchronous Message Passing]   |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
 | Mon  | Apr. 25 | [High-level Synchronous Message Passing] | <a href="" style="color: blue">Homework 5 Available</a> <br> Reading: ch.15 |
 | Wed | Apr. 27 | [Networking and Protocol Implementation]   | Reading: ch. 16|
-| Mon  | May 2 | [Networking and Protocol Implementation] | Reading: ch. 17|
-| Wed | May 4 | Presentation | <span style="color:red"> **Program 3 Due, 11:59pm** </span>  |
-| Mon  | May 9 | Presentation           |     <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a>    |
-| Wed | May 11 | Presentation              |  |
-| Friday | May 13  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
+| Mon  | May 2 | Presentation | <span style="color:red"> **Program 3 Due, 11:59pm** </span> <br> Reading: ch. 17|
+| Wed | May 4 | Presentation | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a>  |
+| Mon  | May 9 | Presentation           |       |
+| Thesday | May 10  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
