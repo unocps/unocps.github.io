@@ -100,11 +100,11 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Mon  |  Apr. 4  |  <span style="color:red"> **Midterm** </span>  |   <span style="color:red"> **Anytime** </span>  |
 | Wed | Apr. 6 | [Device Management]  |   Reading: ch.13 <br>  <a href="">Program 3 Available</a> |
 | Mon  |  Apr. 11  |   [Device Management] | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
-| Wed  |  Apr. 13 | [Clock and Timer Management] | Reading: ch.14   |
+| Wed  |  Apr. 13 | [Device Management] | Reading: ch.14   |
 | Mon  | Apr. 18 |   [Clock and Timer Management] <br>  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 min presentation and 1 page section submission each team)  | Reading: ch.14 |
-| Wed | Apr. 20 |  [High-level Synchronous Message Passing]   |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
+| Wed | Apr. 20 |  [Clock and Timer Management]   |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
 | Mon  | Apr. 25 | [High-level Synchronous Message Passing] | Reading: ch.15 <br>  <a href="" style="color: blue">Homework 5 Available</a> |
-| Wed | Apr. 27 | [Networking and Protocol Implementation]   | Reading: ch.16, 17 |
+| Wed | Apr. 27 | [High-level Synchronous Message Passing]   | Reading: ch.16, 17 |
 | Mon  | May 2 | Presentation | <span style="color:red"> **Program 3 Due, 11:59pm** </span> |
 | Wed | May 4 | Presentation | <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a>  |
 | Mon  | May 9 | Presentation           |       |
