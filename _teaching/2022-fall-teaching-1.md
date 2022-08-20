@@ -26,7 +26,7 @@ Silberschatz, Abraham, Peter B. Galvin, and Greg Gagne. Operating System Concept
 
 ### Supplemental materials
 * The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (indicated by OSTEP; this book is available for purchase at the site above if you prefer a print copy)
-* Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd edition), Prentice-Hall (2006)
+* Tanenbaum and Woodhull, Operating Systems: Design and Implementation (3rd edition), Prentice-Hall (2006) (indicated by OSDI)
 
 ## Get Odin account
 You need to apply for an account at Odin: IS&T Core Linux Server to finish your programs. More details are shown below:
