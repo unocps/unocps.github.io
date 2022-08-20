@@ -14,8 +14,8 @@ An operating system is an abstraction of computer system hardware; it manages th
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
 * Office Hour: Monday/Friday 1:15PM - 2:15PM via Zoom or by appointment
-* Note: Students will attend once a week in-person and the other day(s) will participate remotely synchronously.
-* Location: Peter Kiewit Institute 263 and Remote Learning
+* CSCI4500-850: Students will learn from the recorded videos. (Location:	Totally Online)
+* CSCI4500-001: Students will attend once a week in-person and the other day(s) will participate remotely synchronously (Location: Peter Kiewit Institute 263 and Remote Learning)
 * [Course Schedule](#schedule)    
 
 ## Prerequisites:    
