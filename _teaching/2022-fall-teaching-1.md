@@ -14,7 +14,9 @@ An operating system is an abstraction of computer system hardware; it manages th
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
 * Office Hour: Monday/Friday 1:15PM - 2:15PM via Zoom or by appointment
-* [Course Schedule](#schedule)     
+* Note: Students will attend once a week in-person and the other day(s) will participate remotely synchronously.
+* Location: Peter Kiewit Institute 263 and Remote Learning
+* [Course Schedule](#schedule)    
 
 ## Prerequisites:    
 CSCI 3710 (Introduction to Digital Design and Computer Organization), CSCI 3320 (Data Structures), and MATH 1950 (Calculus I). CSCI 4350 (Computer Architecture) is recommended; open only to students in the School of Engineering and declared Computer Science minors.
