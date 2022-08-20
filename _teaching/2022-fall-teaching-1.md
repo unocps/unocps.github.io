@@ -22,7 +22,7 @@ An operating system is an abstraction of computer system hardware; it manages th
 CSCI 3710 (Introduction to Digital Design and Computer Organization), CSCI 3320 (Data Structures), and MATH 1950 (Calculus I). CSCI 4350 (Computer Architecture) is recommended; open only to students in the School of Engineering and declared Computer Science minors.
 
 ## Recommended Textbook
-Silberschatz, Abraham, Peter B. Galvin, and Greg Gagne. Operating System Concepts, 10e Abridged Print Companion. John Wiley & Sons, 2018.
+Silberschatz, Abraham, Peter B. Galvin, and Greg Gagne. Operating System Concepts, 10e Abridged Print Companion. John Wiley & Sons, 2019.
 
 ### Supplemental materials
 * The online book [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (indicated by OSTEP; this book is available for purchase at the site above if you prefer a print copy)
