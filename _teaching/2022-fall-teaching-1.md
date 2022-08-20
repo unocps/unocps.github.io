@@ -33,14 +33,6 @@ You need to apply for an account at Odin: IS&T Core Linux Server to finish your 
 [https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php](https://www.unomaha.edu/college-of-information-science-and-technology/about/odin.php). Please email to UNO IST support (Email: uno-ist-support at unomaha dot edu) if you have any questions about Odin. <span style="color:red"> **Please get one asap. Don't wait until the last-minute, always finish ahead of deadlines. ** </span>
 
 ## Grading
-There will be six homeworks, three programming assignments, one midterm and one final.
-The final course grade will be computed as follows:
-
-* Homework: 20%
-* Programming Assignments: 25%
-* Midterm: 25%
-* Final 30%
-
 If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
 
 ### Grading Type
