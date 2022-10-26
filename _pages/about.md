@@ -12,7 +12,7 @@ Dr. Pei-Chi Huang received her PhD in [the Department of Computer Science](https
 
 News
 =====
-I am a guest editor for Journal of a special issue of Electronics (ISSN 2079-9292). This special issue belongs to the section "Systems & Control Engineering". Please consider submitting your work to our [Special Issue on Recent Advances in Industrial Robots](https://www.mdpi.com/journal/electronics/special_issues/robot_industrial). Submission Deadline: October 31, 2022.
+I am a guest editor for Journal of a special issue of Electronics (ISSN 2079-9292). This special issue belongs to the section "Systems & Control Engineering". Please consider submitting your work to our [Special Issue on Recent Advances in Industrial Robots](https://www.mdpi.com/journal/electronics/special_issues/robot_industrial). Submission Deadline: April 30, 2023.
 
 I am a guest editor for Journal of Computer and Communications (JCC) Submssion: Please consider submitting your work to our [Special Issue on Artificial Intelligence and Cyber-Physical Systems](https://www.scirp.org/journal/htmlofspecialissue.aspx?id=7314&journalid=2431). Submission Deadline: March 15, 2021.
 
