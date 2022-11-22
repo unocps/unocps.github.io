@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Selected journal papers
-
+1. Abeyrathna, Dilanga, Shailabh Rauniyar, Rajesh K. Sani, and Pei-Chi Huang. "[A Morphological Post-Processing Approach for Overlapped Segmentation of Bacterial Cell Images.](https://www.mdpi.com/2504-4990/4/4/52)", Machine Learning and Knowledge Extraction 4, no. 4 (2022): 1024-1041.
 1. Sungjin Kim, Matthew Peavy, Pei-Chi Huang, and Kyungki Kim. "[Development of bim-integratedconstruction robot task planning and simulation system](https://doi.org/10.1016/j.autcon.2021.103720)", Automation in Construction, 127:103720,2021.
 1. Wei-Ju Chen, Peng Wu, Pei-Chi Huang, Aloysius K. Mok and Song Han, "[Online Reconfigurationof  Regularity-based  Resource  Partitions  in  Cyber-Physical  Systems](https://dl.acm.org/doi/abs/10.1007/s11241-021-09364-5)", Real-Time  Systems Journal(RTSJ), pages 1-44, 2021
 1. Xin  Zhong, Pei-Chi Huang, Spyridon Mastorakis, and Frank Y. Shih. "[An  automated  and  robustimage watermarking scheme based on deep neural networks](https://ieeexplore.ieee.org/document/9133124)". IEEE Transactions on Multimedia, 23:1951–1961, 2020
