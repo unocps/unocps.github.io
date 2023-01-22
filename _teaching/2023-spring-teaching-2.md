@@ -1,5 +1,5 @@
 ---
-title: "CSCI8920_Fundamentals_of_Robotics (Spring 2023)"
+title: "CSCI8920 Fundamentals of Robotics (Spring 2023)"
 collection: teaching
 type: Graduate course
 permalink: /teaching/2023-spring-teaching-2
