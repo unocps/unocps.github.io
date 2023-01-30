@@ -88,35 +88,38 @@ This schedule, and the links contained in it, are subject to change during the s
 
 |        	|	Date   |           	Topic                  	| Assignment <!--- <br>(to be completed before class) --> |
 |:--------:|:------------|:-------------------------------------|:----------------------------------------------|
-|  Mon   |   Jan. 23  |   [Introduction & Themes]   |  Reading: [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman (2016) |
-|  Wed   |  Jan. 25  |   [Robot Mechanisms]   |   Reading: [Robot Mechanisms](https://drive.google.com/file/d/1hfWn2KoNzNCJ-E4q5h9gMweEAZy4yfel/view?usp=sharing)  |
-|  Mon   |  Jan. 30  |   [Getting_Started_with_ROS]    	|       Reading: Ch1             	|
-| Wed	|  Feb. 1   |   [Robot Simulation] <br> [Getting_Started_with_PyBullet]           	| [Project Announcement]  |
-|  Mon   |   Feb. 6   |   [Introduction to ROS I]      	|	<a href="" style="color: blue">Program 1 Available</a>        	|
-|  Wed   |   Feb. 8   | 	[Introduction to ROS II]   	|   	<span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team)   	|
-|  Mon   |   Feb. 13   |	[Introduction to ROS II]         	|          	|
-|  Wed   |   Feb. 15 |   [Sensing and Perception I]       	|        	|
-|  Mon   |  Feb. 20 |   [Sensing and Perception I]         	|        	|
-|  Wed   | Feb. 22  |   [Sensing and Perception I]      	|           	|
-|  Mon   | Feb. 27  |	[Sensing and Perception II]      	|                     	|
-|  Wed   | Mar. 1 |	[Sensing and Perception II]       	| 	<span style="color:red"> **Program 1 Due, 11:59pm**</span>	|
-|  Mon   |  Mar. 6 |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Project Milestone** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a>   |
-|  Wed   |  March 8	|  [Planning as Search]     	|          	|
-|  Mon   |  March 13	|  Spring Vacation (Student Holiday) - No class 	|        	|
-|  Wed   |  March 15     |  Spring Vacation (Student Holiday) - No class            |      	|
-|  Mon   |  March 20	|     [Sample-based Path Planning]  |         	|
-| Wed	|  March 22	|     [Robot Manipulators and Kinematics]    |         	|
-|  Mon   |   March 27   | 	[Robot Grasping]       	|	|
-|  Wed   |  March 29	|   [Simultaneous Localization and Mapping]        	|              	|
-|  Mon   |  Apr. 3	|	[Learning-Based Robotics] 	|  	**Program 2 Due at 11:59pm** </span> 	|
-| Wed	|  Apr. 5   | 	[Imitation Learning]  	| 	<a href="">Program 3 Available</a>    	
-|  Mon   |   Apr. 10 	|  	[Self-supervised Learning]    	|   	<span style="color:red"> **Project Checkpoint** <span style="color:black"> (1 page submission each team)    	|
-| Wed	|   Apr. 12 	| 	[Reinforcement learning I]    	|             	|
-| Mon	|  Apr. 17 	| 	[Reinforcement learning I]  	|                    	|
-|  Wed   |  Apr. 19 	|  	[Reinforcement learning II]       	|             	|
-|  Mon   |  Apr. 24 	|  	[Reinforcement learning II]      	|             	|
-|  Wed   |  Apr. 26 	| 	[Follow the Gap & Robotics Application]     	|              	|
-|  Mon   |  May 1  	|	Presentation 	|             	|
-| Wed   |  May 3  	|	Presentation          |	<span style="color:red"> **Program 3 Due at 11:59pm** </span>  |
-| Mon  | May 8 | Presentation  		 |  	 |
-| Tuesday | May 9  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
+|  Mon   |   Jan. 23  |  [Introduction & Themes]  |  Reading: [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman (2016) |
+|  Wed   |  Jan. 25  |  [Robot Mechanisms]  |   Reading: [Robot Mechanisms_notes]  |	|
+|  Mon   |  Jan. 30  |   [Robot Mechanisms]  |   Reading: Ch1      	|
+| Wed	| Feb. 1   |  [Getting_Started_with_ROS] | [Project Announcement] <br> Reading: [Simulation and Numerical Methods Notes]|
+|  Mon   |   Feb. 6   |   [Getting_Started_with_PyBullet]  |  Reading: ch2 <br> <a href="" style="color: blue">Program 1 Available</a>        	|
+|  Wed   |   Feb. 8   |   [Robot Simulation]   |   Reading: ch3 <br>	<span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team) |
+|  Mon   |   Feb. 13   |	[Introduction to ROS I]     |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
+|  Wed   |   Feb. 15 |   [Introduction to ROS II]    | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   |
+|  Mon   |  Feb. 20 |   [Introduction to ROS II]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   	|
+|  Wed   | Feb. 22  |   [Introduction to ROS III]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level 	|
+|  Mon   | Feb. 27  |	[Introduction to ROS III]  |  Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
+|  Wed   | Mar. 1 |	[Sensing and Perception in Simulation]	|   Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
+|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |  <span style="color:red"> **[Project Milestone]** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a> |
+|  Wed   |  Mar. 8  |  [Sensing and Perception in Simulation]  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)	|
+|  Mon   |  Mar. 13  |  	Spring Vacation (Student Holiday) - No class   |         	|
+| Wed	|  Mar. 15  | 	Spring Vacation (Student Holiday) - No class   |         	|
+|  Mon   |  Mar. 20  |   [Sensing and Perception in Simulation II] |   Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1) |
+|  Wed   |  Mar. 22  |	[Sensing and Perception in Simulation II]   | Reading: [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1), [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials)   | 
+|  Mon   |   Mar. 27    |  [Sensing and Perception in Simulation II]  |  Reading: [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials), [Using a URDF in Gazebo](http://wiki.ros.org/urdf/Tutorials/Using%20a%20URDF%20in%20Gazebo)   |
+|  Wed   |  Mar. 29     |   [Plan Planning: Representation and Fundamentals]    |   Reading: ch8 | 
+|  Mon   |  Apr. 3        |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Program 2 Due at 11:59pm** </span> 	|
+| Wed	|  Apr. 5         |  	[Auto-Navigation Planner]	|  Reading: Ch.8, [ROS Navigation Tutorials](http://wiki.ros.org/navigation) <br>  <a href="">Program 3 Available</a>    	|
+|  Mon   |   Apr. 10 	|	[Auto-Navigation Planner]  	| Reading: Ch.7  <br>	<span style="color:red"> **[Project Checkpoint]** <span style="color:black"> (1 page submission each team)    	|
+| Wed	|   Apr. 12	| 	[OpenCV + ROS]  | Reading: [OpenCV tutorials](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)           	|
+| Mon	|  Apr. 17 	| 	[Learning-Based Robotics & Reinforcement learning]	|  Reading: [Reinforcement Learning in Robotics: A Survey](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf). Jens Kober, J. Andrew Bagnell, Jan Peters (2013), [Recent Advances in Robot Learning from Demonstration](https://www.annualreviews.org/doi/full/10.1146/annurev-control-100819-063206). Harish Ravichandar, Athanasios S. Polydoros, Sonia Chernova, Aude Billard (2020)|
+|  Wed   |  Apr. 19 	|	[Learning-Based Robotics & Reinforcement learning] 	|  Reading: [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905). Tuomas Haarnoja, Aurick Zhou, Kristian Hartikainen, George Tucker, Sehoon Ha, Jie Tan, Vikash Kumar, Henry Zhu, Abhishek Gupta, Pieter Abbeel, Sergey Levine (2018), [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/abs/1509.02971). Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra (2015)  |
+|  Mon   |  Apr. 24 	|   Presentation ([Teams])  |              	|
+|  Wed   |  Apr. 26 	|   Presentation ([Teams])  |	            |
+|  Mon   |  May 1 	|	Prep week - No class  	|             	|
+| Wed   |  May 3  	|	Prep week - No class   |	<span style="color:red"> **Program 3 Due at 11:59pm** </span>  |
+| Mon  | May 8 | Presentation         	        	 |      	 |
+| Tues. | May 9  | Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html)
+<br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2)
+Presentation slides, 3) Presentation video, and 4) Demo video. |
+
