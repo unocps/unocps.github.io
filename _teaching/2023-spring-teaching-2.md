@@ -119,7 +119,6 @@ This schedule, and the links contained in it, are subject to change during the s
 | Mon  |  May 1 	|	Presentation  	|             	|
 | Wed  |  May 3  |	Presentation   |  <span style="color:red"> **Program 3 Due at 11:59pm** </span>  |
 | Mon  | May 8   | Presentation   |      	       |
-| Tues. | May 9  |   Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html)
-<br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
+| Tues. | May 9  |   Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
 
 
