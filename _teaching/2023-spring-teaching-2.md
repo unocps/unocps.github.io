@@ -89,7 +89,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |        	|	Date   |           	Topic                  	| Assignment <!--- <br>(to be completed before class) --> |
 |:--------:|:------------|:-------------------------------------|:----------------------------------------------|
 |  Mon   |   Jan. 23  |  [Introduction & Themes]  |  Reading: [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman (2016) |
-|  Wed   |  Jan. 25  |  [Robot Mechanisms]  |   Reading: [Robot Mechanisms_notes]	|
+|  Wed   |  Jan. 25  |  [Robot Mechanisms]  |   Reading: [Robot Mechanisms notes]	|
 |  Mon   |  Jan. 30  |   [Robot Mechanisms]  |   Reading: Ch1      	|
 | Wed	| Feb. 1   |  [Getting_Started_with_ROS] | [Project Announcement] <br> Reading: [Simulation and Numerical Methods notes]     |
 |  Mon   |   Feb. 6   |   [Getting_Started_with_PyBullet]  |  Reading: ch2 <br> <a href="" style="color: blue">Program 1 Available</a>  	|
