@@ -91,7 +91,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |   Jan. 23  |  [Introduction & Themes]  |  Reading: [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289), Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman (2016) |
 |  Wed   |  Jan. 25  |  [Robot Mechanisms]  |   Reading: [Robot Mechanisms_notes]	|
 |  Mon   |  Jan. 30  |   [Robot Mechanisms]  |   Reading: Ch1      	|
-| Wed	| Feb. 1   |  [Getting_Started_with_ROS] | [Project Announcement] <br> Reading: [Simulation and Numerical Methods Notes]     |
+| Wed	| Feb. 1   |  [Getting_Started_with_ROS] | [Project Announcement] <br> Reading: [Simulation and Numerical Methods notes]     |
 |  Mon   |   Feb. 6   |   [Getting_Started_with_PyBullet]  |  Reading: ch2 <br> <a href="" style="color: blue">Program 1 Available</a>  	|
 |  Wed   |   Feb. 8   |   [Robot Simulation]   |   Reading: ch3 <br>	<span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team) |
 |  Mon   |   Feb. 13   |	[Introduction to ROS I]     |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
