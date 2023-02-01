@@ -81,9 +81,9 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Mon  | Jan. 23  |  [Introduction & Themes] |	|
 | Wed | Jan. 25  | [Hardware and Xinu]| Reading: ch.1 <br> [Announcement of Final Project] |
 | Mon  | Jan. 30  | [Xinu on Intel Galileo User Manual] <br> [Xinu Setup Procedure] | [Galileo System Receipt] <br> Reading: ch.2  |
-| Wed | Feb. 1  | [Organization of an Operating System] | Reading: ch.3 <br> <span style="color:red"> Submit Project Topics </span>  |
+| Wed | Feb. 1  | [Organization of an Operating System] | Reading: ch.3  |
 | Mon  | Feb. 6  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href="" style="color: blue"> Homework 1 Available</a>  |
-| Wed | Feb. 8  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 <br>  <a href="" style="color: blue">Program 1 Available</a> <br> [stack_frame] |
+| Wed | Feb. 8  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 <br> <span style="color:red"> Submit Project Topics </span> <br>  <a href="" style="color: blue">Program 1 Available</a> <br> [stack_frame] |
 | Mon  | Feb. 13  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 1 Solution</a> |
 | Wed | Feb. 15  | [Process Management]   | Reading: ch.6 <br> <a href="" style="color: blue">Homework 2 Available</a> |
 | Mon  | Feb. 20 | [Process Management]   | Reading: ch.6 |
