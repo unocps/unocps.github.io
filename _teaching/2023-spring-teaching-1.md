@@ -90,8 +90,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Wed | Feb. 22 | [Process Management]  | Reading: ch.7 |
 | Mon  | Feb. 27  | [Process Coordination and Synchronization] <br> <a href="" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team, [word], [pdf] )	| Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Wed | Mar. 1  | [Process Coordination and Synchronization]	| Reading: ch.8 |
-| Mon  | Mar. 6  | [Inter-Process Communication]	| Reading: ch.9  <br> <a href="" style="color: blue">Homework 3 Available</a> |
-| Wed | Mar. 8 | [Low-level Memory Management]  | Reading: ch.9,10 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> |
+| Mon  | Mar. 6  | [Inter-Process Communication]	| Reading: ch.9 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <a href="" style="color: blue">Homework 3 Available</a> |
+| Wed | Mar. 8 | [Low-level Memory Management]  | Reading: ch.9,10  |
 | Mon  | March 13  |  Spring Break  |
 | Wed | March 15  |   Spring Break  |
 | Mon  | March 20 | [Low-level Memory Management]  | Reading: ch.10 <br> <a href="" style="color: blue">Program 2 Available</a>  |
