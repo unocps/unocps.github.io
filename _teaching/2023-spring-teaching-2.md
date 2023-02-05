@@ -94,7 +94,7 @@ This schedule, and the links contained in it, are subject to change during the s
 | Wed	| Feb. 1   |  [Getting_Started_with_ROS] | [Project Announcement] <br> Reading: [Simulation and Numerical Methods notes]     |
 |  Mon   |   Feb. 6   |   [Getting_Started_with_PyBullet]  |  Reading: ch2 <br> <a href="" style="color: blue">Program 1 Available</a>  	|
 |  Wed   |   Feb. 8   |   [Robot Simulation]   |   Reading: ch3 <br>	<span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team) |
-|  Mon   |   Feb. 13   |	[Introduction to ROS I]     |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
+|  Mon   |   Feb. 13   |	[Introduction to ROS Basic Commands]     |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
 |  Wed   |   Feb. 15 |   [Introduction to ROS II]    | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   |
 |  Mon   |  Feb. 20 |   [Introduction to ROS II]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   	|
 |  Wed   | Feb. 22  |   [Introduction to ROS III]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level 	|
