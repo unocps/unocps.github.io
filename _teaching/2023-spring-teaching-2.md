@@ -100,7 +100,7 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   | Feb. 22  |   [Introduction to ROS III]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level 	|
 |  Mon   | Feb. 27  |	[Introduction to ROS III]  |  Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
  |  Wed   | Mar. 1 |	[Sensing and Perception in Simulation]	|   Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
-|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |  <span style="color:red"> **[Project Milestone]** <span style="color:black"> (1 page submission each team) <br> <a href="" style="color: blue">Program 2 Available</a> |
+|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |  <span style="color:red"> **[Project Milestone]** <span style="color:black"> (1 page submission each team) [comment]: # (Still another comment)  <br> <a href="" style="color: blue">Program 2 Available</a> |
 |  Wed   |  Mar. 8  |  [Sensing and Perception in Simulation]  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)	|
 |  Mon   |  Mar. 13  |  	Spring Vacation (Student Holiday) - No class   |         	|
 | Wed	|  Mar. 15  | 	Spring Vacation (Student Holiday) - No class   |         	|
