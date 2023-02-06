@@ -97,18 +97,18 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |   Feb. 13   |	[Introduction to ROS Basic Commands]     |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
 |  Wed   |   Feb. 15 |   [Introduction to ROS II]    | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   |
 |  Mon   |  Feb. 20 |   [Introduction to ROS II]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level  <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span> 	|
-|  Wed   | Feb. 22  |   [Introduction to ROS III]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level 	|
+|  Wed   | Feb. 22  |   [Introduction to ROS III]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br> <a href="" style="color: blue">Program 2 Available</a>	|
 |  Mon   | Feb. 27  |	[Introduction to ROS III]  |  Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
  |  Wed   | Mar. 1 |	[Sensing and Perception in Simulation]	|   Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
-|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |  <span style="color:red"> **[Project Milestone]** <span style="color:black"> (1 page submission each team) [comment]: # (Still another comment)  <br> <a href="" style="color: blue">Program 2 Available</a> |
+|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |  <span style="color:red"> **[Project Milestone]** <span style="color:black"> (1 page submission each team) [comment]: # (Still another comment)  |
 |  Wed   |  Mar. 8  |  [Sensing and Perception in Simulation]  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)	|
-|  Mon   |  Mar. 13  |  	Spring Vacation (Student Holiday) - No class   |         	|
+|  Mon   |  Mar. 13  |  	Spring Vacation (Student Holiday) - No class   |    <span style="color:red"> **Program 2 Due at 11:59pm** </span>     	|
 | Wed	|  Mar. 15  | 	Spring Vacation (Student Holiday) - No class   |         	|
 |  Mon   |  Mar. 20  |   [Sensing and Perception in Simulation II] |   Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1) |
 |  Wed   |  Mar. 22  |	[Sensing and Perception in Simulation II]   | Reading: [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1), [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials)   | 
 |  Mon   |   Mar. 27    |  [Sensing and Perception in Simulation II]  |  Reading: [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials), [Using a URDF in Gazebo](http://wiki.ros.org/urdf/Tutorials/Using%20a%20URDF%20in%20Gazebo)   |
 |  Wed   |  Mar. 29     |   [Plan Planning: Representation and Fundamentals]    |   Reading: ch8 | 
-|  Mon   |  Apr. 3        |  [Plan Planning: Representation and Fundamentals]   |  <span style="color:red"> **Program 2 Due at 11:59pm** </span> 	|
+|  Mon   |  Apr. 3        |  [Plan Planning: Representation and Fundamentals]   |   	|
 | Wed	|  Apr. 5         |  	[Auto-Navigation Planner]	|  Reading: Ch.8, [ROS Navigation Tutorials](http://wiki.ros.org/navigation) <br>  <a href="">Program 3 Available</a>    	|
 |  Mon   |   Apr. 10 	|	[Auto-Navigation Planner]  	| Reading: Ch.7  <br>	<span style="color:red"> **[Project Checkpoint]** <span style="color:black"> (1 page submission each team)    	|
 | Wed	|   Apr. 12	| 	[OpenCV + ROS]  | Reading: [OpenCV tutorials](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html)           	|
