@@ -88,21 +88,21 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Wed | Feb. 15  | [Process Management]   | Reading: ch.6 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span> <br> <a href="" style="color: blue">Homework 2 Available</a> <br>  <a href="" style="color: green">Homework 1 Solution</a>|
 | Mon  | Feb. 20 | [Process Management]   | Reading: ch.6 |
 | Wed | Feb. 22 | [Process Management]  | Reading: ch.7 |
-| Mon  | Feb. 27  | [Process Coordination and Synchronization] <br> <a href="" style="color: red">Project Progress Report</a> (3 mins presentation and 1 page section submission each team, [word], [pdf] )	| Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
+| Mon  | Feb. 27  | [Process Coordination and Synchronization] <br> <a href="" style="color: red">Project Progress Report</a> (3 mins presentation and at least 1 page section submission each team; Please follow the IEEE format.)	| Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
 | Wed | Mar. 1  | [Process Coordination and Synchronization]	| Reading: ch.8 |
 | Mon  | Mar. 6  | [Inter-Process Communication]	| Reading: ch.9 <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span> <br> <a href="" style="color: blue">Homework 3 Available</a> |
 | Wed | Mar. 8 | [Low-level Memory Management]  | Reading: ch.9,10  |
 | Mon  | March 13  |  Spring Break  |
 | Wed | March 15  |   Spring Break  |
 | Mon  | March 20 | [Low-level Memory Management]  | Reading: ch.10 <br> <a href="" style="color: blue">Program 2 Available</a>  |
-| Wed | March 22 |  [High-level Memory Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (1 page section submission each team)  |  Reading: ch.10, 11, 12 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
+| Wed | March 22 |  [High-level Memory Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (at least 1 page section submission each team)  |  Reading: ch.10, 11, 12 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
 | Mon  |  March 27  |  [High-level Memory Management] | Reading: ch.12, 13 |
 | Wed |  March 29  |  [High-level Memory Management] |   Reading: ch.13   |
 | Mon  |  Apr. 3  |  <span style="color:red"> **Midterm** </span>  |   <span style="color:red"> **Anytime** </span>  |
 | Wed | Apr. 5 | [Device Management]  |   Reading: ch.13 <br>  <a href="">Program 3 Available</a> |
 | Mon  |  Apr. 10  |   [Device Management] | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Wed  |  Apr. 12 | [Device Management] | Reading: ch.14   |
-| Mon  | Apr. 17 |   [Clock and Timer Management] <br>  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 min presentation and 1 page section submission each team)  | Reading: ch.14 |
+| Mon  | Apr. 17 |   [Clock and Timer Management] <br>  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 min presentation and at least 1 page section submission each team)  | Reading: ch.14 |
 | Wed | Apr.19  |  [Clock and Timer Management]   |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
 | Mon  | Apr. 24 | [High-level Synchronous Message Passing] | Reading: ch.15 <br>  <a href="" style="color: blue">Homework 5 Available</a> |
 | Wed | Apr. 26 | [High-level Synchronous Message Passing]   | Reading: ch.16, 17 |
