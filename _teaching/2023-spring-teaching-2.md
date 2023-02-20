@@ -95,10 +95,10 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |   Feb. 6   |   [Getting_Started_with_PyBullet]  |  Reading: ch2 <br> <a href="" style="color: blue">Program 1 Available</a>  	|
 |  Wed   |   Feb. 8   |   [Robot Simulation]   |   Reading: ch3 <br>	<span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team) |
 |  Mon   |   Feb. 13   |	[Introduction to ROS Basic Commands]     |   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
-|  Wed   |   Feb. 15 |   [Introduction to ROS II]    | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   |
-|  Mon   |  Feb. 20 |   [Introduction to ROS II]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level  <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span> 	|
-|  Wed   | Feb. 22  |   [Introduction to ROS III]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br> <a href="" style="color: blue">Program 2 Available</a>	|
-|  Mon   | Feb. 27  |	[Introduction to ROS III]  | <span style="color:red"> **[Project Checkpoint 1]** <span style="color:black"> (at least 2 pages submission each team; please follow IEEE format.) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
+|  Wed   |   Feb. 15 |   [Introduction to ROS Build System]    | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   |
+|  Mon   |  Feb. 20 |   [Introduction to ROS Build System]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level  <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span> 	|
+|  Wed   | Feb. 22  |   [Introduction to ROS Publishers and subscribers]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br> <a href="" style="color: blue">Program 2 Available</a>	|
+|  Mon   | Feb. 27  |	[Introduction to ROS Publishers and subscribers]  | <span style="color:red"> **[Project Checkpoint 1]** <span style="color:black"> (at least 2 pages submission each team; please follow IEEE format.) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
  |  Wed   | Mar. 1 |	[Sensing and Perception in Simulation]	|  Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
 |  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |    |
 |  Wed   |  Mar. 8  |  [Sensing and Perception in Simulation]  | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Program 3 Available</a> <br> Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)	|
