@@ -85,7 +85,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Mon  | Feb. 6  | [Organization of an Operating System]  | Reading: Ch.4  <br> <a href="" style="color: blue"> Homework 1 Available</a>  |
 | Wed | Feb. 8  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 <br> <span style="color:red"> Submit Project Topics </span> <br>  <a href="" style="color: blue">Program 1 Available</a> <br> [stack_frame] |
 | Mon  | Feb. 13  | [Hardware Architecture and Runtime Systems] | Reading: ch.5 |
-| Wed | Feb. 15  | [Process Management]   | Reading: ch.6 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span> <br> <a href="" style="color: blue">Homework 2 Available</a> <br>  <a href="" style="color: green">Homework 1 Solution</a>|
+| Wed | Feb. 15  | [Hardware Architecture and Runtime Systems]   | Reading: ch.6 <br> <span style="color:red"> Homework 1 Due (upload to Canvas) </span> <br> <a href="" style="color: blue">Homework 2 Available</a> <br>  <a href="" style="color: green">Homework 1 Solution</a>|
 | Mon  | Feb. 20 | [Process Management]   | Reading: ch.6 |
 | Wed | Feb. 22 | [Process Management]  | Reading: ch.7 |
 | Mon  | Feb. 27  | [Process Coordination and Synchronization] <br> <a href="" style="color: red">Project Progress Report</a> (at least 1 page section submission each team; Please follow the IEEE format.)	| Reading: ch.7 <br> <span style="color:red"> Homework 2 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 2 Solution</a> |
