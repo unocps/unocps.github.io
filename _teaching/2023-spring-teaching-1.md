@@ -102,7 +102,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Wed | Apr. 5 | [Device Management]  |   Reading: ch.13 <br>  <a href="">Program 3 Available</a> |
 | Mon  |  Apr. 10  |   [Device Management] | <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | Wed  |  Apr. 12 | [Device Management] | Reading: ch.14   |
-| Mon  | Apr. 17 |   [Clock and Timer Management] <br>  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 min presentation and at least 1 page section submission each team)  | Reading: ch.14 |
+| Mon  | Apr. 17 |   [Clock and Timer Management] <br>  <span style="color:red"> **Project Progress Report** <span style="color:black"> (3 min presentation (will decided it later) and at least 1 page section submission each team)  | Reading: ch.14 |
 | Wed | Apr.19  |  [Clock and Timer Management]   |  Reading: ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
 | Mon  | Apr. 24 | [High-level Synchronous Message Passing] | Reading: ch.15 <br>  <a href="" style="color: blue">Homework 5 Available</a> |
 | Wed | Apr. 26 | [High-level Synchronous Message Passing]   | Reading: ch.16, 17 |
