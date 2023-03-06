@@ -95,8 +95,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | Mon  | March 13  |  Spring Break  |
 | Wed | March 15  |   Spring Break  |
 | Mon  | March 20 | [Low-level Memory Management]  | Reading: ch.10 <br> <a href="" style="color: blue">Program 2 Available</a>  |
-| Wed | March 22 |  [High-level Memory Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (at least 1 page section submission each team)  |  Reading: ch.10, 11, 12 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
-| Mon  |  March 27  |  [High-level Memory Management] | Reading: ch.12, 13 |
+| Wed | March 22 |  [High-level Memory Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (at least 1 page section submission each team)  |  Reading: ch.10, 11, 12 |
+| Mon  |  March 27  |  [High-level Memory Management] | Reading: ch.12, 13 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
 | Wed |  March 29  |  [High-level Memory Management] |   Reading: ch.13   |
 | Mon  |  Apr. 3  |  <span style="color:red"> **Midterm** </span>  |   <span style="color:red"> **Anytime** </span>  |
 | Wed | Apr. 5 | [Device Management]  |   Reading: ch.13 <br>  <a href="">Program 3 Available</a> |
