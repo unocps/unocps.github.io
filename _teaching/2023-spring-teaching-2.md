@@ -99,15 +99,15 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Feb. 20 |   [Introduction to ROS Build System]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level  <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span> 	|
 |  Wed   | Feb. 22  |   [Introduction to ROS Publishers and subscribers]	  | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br> <a href="" style="color: blue">Program 2 Available</a>	|
 |  Mon   | Feb. 27  |	[Introduction to ROS Publishers and subscribers]  | <span style="color:red"> **[Project Checkpoint 1]** <span style="color:black"> (at least 2 pages submission each team; please follow IEEE format.) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
- |  Wed   | Mar. 1 |	[Sensing and Perception in Simulation]	| **[Project Checkpoint 1]** <span style="color:black"> (3 mins presentation) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
-|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation]  |    |
-|  Wed   |  Mar. 8  |  [Sensing and Perception in Simulation]  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)	|
+ |  Wed   | Mar. 1 |	[Sensing and Perception in Simulation (Basic)]	| **[Project Checkpoint 1]** <span style="color:black"> (3 mins presentation) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
+|  Mon   |  Mar. 6   |  [Sensing and Perception in Simulation (Basic)]  |    |
+|  Wed   |  Mar. 8  |  [Sensing and Perception in Simulation (Basic)]  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)	|
 |  Mon   |  Mar. 13  |  	Spring Vacation (Student Holiday) - No class   |        	|
 | Wed	|  Mar. 15  | 	Spring Vacation (Student Holiday) - No class   |         	|
-|  Mon   |  Mar. 20  |   [Sensing and Perception in Simulation II] |  <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Program 3 Available</a> <br> Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1) <br> [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials) |
-|  Wed   |  Mar. 22  |	[Sensing and Perception in Simulation II]   | <span style="color:red"> **[Project Checkpoint 2]** <span style="color:black"> (at least 2 pages submission each team) <br> Reading: [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1), [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials)   | 
+|  Mon   |  Mar. 20  |   [Sensing and Perception in Simulation (Advanced)] |  <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Program 3 Available</a> <br> Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1) <br> [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials) |
+|  Wed   |  Mar. 22  |	[Sensing and Perception in Simulation (Advanced)]   | <span style="color:red"> **[Project Checkpoint 2]** <span style="color:black"> (at least 2 pages submission each team) <br> Reading: [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1), [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials)   | 
 |  Mon   |   Mar. 27    |  [Plan Planning: Representation and Fundamentals]  |  Reading: [URDF Tutorials](http://wiki.ros.org/urdf/Tutorials), [Using a URDF in Gazebo](http://wiki.ros.org/urdf/Tutorials/Using%20a%20URDF%20in%20Gazebo)   |
-|  Wed   |  Mar. 29     |   [Plan Planning: Representation and Fundamentals]    |   <br> Reading: ch8 | 
+|  Wed   |  Mar. 29     |   [Plan Planning: Representation and Fundamentals]    |   Reading: ch8 | 
 |  Mon   |  Apr. 3        |  No Class (attend a meeting)   | <span style="color:red"> **Program 3 Due at 11:59pm**  	|
 | Wed	|  Apr. 5         |  	[Auto-Navigation Planner]	| Reading: Ch.8, [ROS Navigation Tutorials](http://wiki.ros.org/navigation) <br> <a href="" style="color: blue">Program 4 Available</a>   	|
 |  Mon   |   Apr. 10 	|	[Auto-Navigation Planner]  	| <span style="color:red"> **[Project Checkpoint 3]** <span style="color:black"> (at least 2 pages submission each team) <br> Reading: Ch.7    	|
