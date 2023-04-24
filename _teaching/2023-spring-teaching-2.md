@@ -118,7 +118,6 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   |  Apr. 26 	|   [Reinforcement learning]    | Reading: [Reinforcement learning: A survey](https://www.jair.org/index.php/jair/article/view/10166). Kaelbling, Leslie Pack, Michael L. Littman, and Andrew W. Moore, Journal of artificial intelligence research 4 (1996): 237-285, [Reinforcement learning in robotics: A survey](https://journals.sagepub.com/doi/pdf/10.1177/0278364913495721?casa_token=hdd-aYNuAg4AAAAA:gaxwu9icywzk_4HMI9bLPEdD_ihrU_uu3sCQRdELuZ-OdeiZGN3vXbpNOrTrX9kYwicJ-5Qos2w), The International Journal of Robotics Research 32, no. 11 (2013): 1238-1274	 <br>	<span style="color:red"> **[Project Checkpoint 4]** <span style="color:black"> (at least 2 pages submission each team)   |
 | Mon  |  May 1 	|	Presentation  	|   <span style="color:red"> **Program 4 Due at 11:59pm** </span>          	|
 | Wed  |  May 3  |	Presentation   |      |
-| Mon  | May 8   | Presentation   |      	       |
 | Tues. | May 9  |   Report and Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
 
 
