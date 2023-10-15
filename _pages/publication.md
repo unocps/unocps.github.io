@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Selected journal papers
+1. Wei-Ju Chen, Peng Wu, Pei-Chi Huang, Aloysius K. Mok, and Song Han. "[Regular Composite Resource Partitioning and Reconfiguration in Open Systems](https://dl.acm.org/doi/abs/10.1145/3609424)". ACM Transactions on Embedded Computing Systems (2023).
 1. Fahad Alrasheedi, Xin Zhong, and Pei-Chi Huang. "[Padding Module: Learning the Padding in Deep Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10021573)", IEEE Access (2023).
 1. Kwok Sun Cheng, Pei-Chi Huang, Tae-Hyuk Ahn, and Myoungkyu Song. "[Tool Support for Improving Software Quality in Machine Learning Programs](https://www.mdpi.com/2078-2489/14/1/53)", Information 14, no. 1 (2023): 53.
 1. Abeyrathna, Dilanga, Shailabh Rauniyar, Rajesh K. Sani, and Pei-Chi Huang. "[A Morphological Post-Processing Approach for Overlapped Segmentation of Bacterial Cell Images.](https://www.mdpi.com/2504-4990/4/4/52)", Machine Learning and Knowledge Extraction 4, no. 4 (2022): 1024-1041.
