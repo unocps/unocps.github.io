@@ -35,10 +35,10 @@ The primary textbook: Operating System Design: The Xinu Approach (second edition
 ## Grading
 
 * Homework and Quizzes (Individual): 20%
-* Programming Assignments (Teamwork, 1-3 for each group): 30%
+* Programming Assignments (Teamwork, 1-3 for each group): 25%
+* Discussion (Individual): 10%
 * Midterm: 20%
-* Final Project (Teamwork, 1-3 for each group): 30%
-
+* Final Project (Teamwork, 1-3 for each group): 25%
 
 ### Grading Type
 Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
