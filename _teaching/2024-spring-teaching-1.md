@@ -88,14 +88,10 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 8  | Mar. 11 - Mar. 15  |  Spring Break  |
 | 9  | Mar. 18 - Mar. 22 |  [Low-level Memory Management] <br> <span style="color:red"> **Project Progress Report** <span style="color:black"> (at least 1 page section submission each team)   | Reading: ch.10 & ch.11 & ch.12 <br> <a href="" style="color: blue">Program 2 Available</a>  |
 | 10  |  Mar. 25 - Mar. 29 |  [High-level Memory Management] | Reading: ch.12 & ch.13 <br> <span style="color:red"> Homework 3 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 3 Solution</a> |
-| 11  |  Apr. 3  |  <span style="color:red"> **Midterm** </span>  |   <span style="color:red"> **Anytime** </span>  |
-| 11 | Apr. 5 | [Device Management]  |   Reading: ch.13 & ch.14 <br>  <a href="">Program 3 Available</a>|
-| 12  |  Apr. 8 - Apr. 12  |    [Clock and Timer Management] |  Reading: ch.15 <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
+| 11 | Apr. 1 - Apr. 5 | [Device Management]  |   Reading: ch.13 & ch.14 <br>  <a href="">Program 3 Available</a>|
+| 12  |  Apr. 10  |  <span style="color:red"> **Midterm** </span>  |   <span style="color:red"> **Anytime** </span>  |
+| 12  |  Apr. 11 - Apr. 12  |    [Clock and Timer Management] |  Reading: ch.15 <br> <span style="color:red"> **Program 2 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Homework 4 Available</a>  |
 | 13  | Apr. 15- Apr. 19 |  [High-level Synchronous Message Passing]   | Reading: ch.14  & ch.15 <br>  <span style="color:red"> Homework 4 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 4 Solution</a>  |
 | 14  | Apr. 22 - Apr. 26 |  [Networking Protocols]   <br>  <span style="color:red"> **Project Progress Report** <span style="color:black"> (at least 1 page section submission each team) | Reading: ch.16 & ch.17 <br>  <a href="" style="color: blue">Homework 5 Available</a> |
 | 15  | Apr. 29 - May 3 | Presentation | <span style="color:red"> **Program 3 Due, 11:59pm** </span>  <br> <span style="color:red"> Homework 5 Due (upload to Canvas) </span>  <br>  <a href="" style="color: green">Homework 5 Solution</a>  |
 | 16 | May 10  | Final Report and Recorded Demo Due | [Report Template](https://www.ieee.org/conferences/publishing/templates.html) <br> Report and Demo Due 11:59pm <br> Submission: 1) A report, 2) Presentation slides, 3) Presentation video, and 4) Demo video. |
-
-
-
-
