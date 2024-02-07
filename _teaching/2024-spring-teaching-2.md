@@ -91,8 +91,8 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Wed   |   Feb. 7   |   [Robot Simulation]   |   Reading: ch3 <br>    <span style="color:red"> **Project Proposal (the title, project description, motivation, the references)** <span style="color:black"> (1 page submission each team) |
 |  Mon   |   Feb. 12   |    [Introduction to ROS Basic Commands] 	|   Reading: Ch4, [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level |
 |  Wed   |   Feb. 14 |   [Introduction to ROS Build System]	| Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level   |
-|  Mon   |  Feb. 19 |   [Introduction to ROS Build System]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level  <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span>     |
-|  Wed   | Feb. 21  |   [Introduction to ROS Publishers and subscribers]      | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br> <a href="" style="color: blue">Program 2 Available</a>    |
+|  Mon   |  Feb. 19 |   [Introduction to ROS Build System]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level     |
+|  Wed   | Feb. 21  |   [Introduction to ROS Publishers and subscribers]      | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Program 2 Available</a>    |
 |  Mon   | Feb. 26  |    [Introduction to ROS Publishers and subscribers]  | <span style="color:red"> **[Project Checkpoint 1]** <span style="color:black"> (at least 2 pages submission each team; please follow IEEE format.) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
  |  Wed   | Feb. 28  |    [Sensing and Perception in Simulation (Basic)]    | **[Project Checkpoint 1]** <span style="color:black"> (3 mins presentation) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
 |  Mon   |  Mar. 4   |  [Sensing and Perception in Simulation (Basic)]  |	|
