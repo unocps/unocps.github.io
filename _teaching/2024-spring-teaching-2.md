@@ -94,8 +94,8 @@ This schedule, and the links contained in it, are subject to change during the s
 |  Mon   |  Feb. 19 |   [Introduction to ROS Build System]   | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level     |
 |  Wed   | Feb. 21  |   [Introduction to ROS Publishers and subscribers]      | Reading: [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials): Beginner Level <br>  <span style="color:red"> **Program 1 Due, 11:59pm**</span>  <br> <a href="" style="color: blue">Program 2 Available</a>    |
 |  Mon   | Feb. 26  |    [Introduction to ROS Publishers and subscribers]  | <span style="color:red"> **[Project Checkpoint 1]** <span style="color:black"> (at least 2 pages submission each team; please follow IEEE format.) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials)   |
- |  Wed   | Feb. 28  |    [Sensing and Perception in Simulation (Basic)]    | **[Project Checkpoint 1]** <span style="color:black"> (3 mins presentation) <br> Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
-|  Mon   |  Mar. 4   |  [Sensing and Perception in Simulation (Basic)]  |	|
+ |  Wed   | Feb. 28  |    [Sensing and Perception in Simulation (Basic)]    | Reading: ch4 <br>  [Gazebo Tutorials](http://gazebosim.org/tutorials) |
+|  Mon   |  Mar. 4   |  [Sensing and Perception in Simulation (Basic)]  |	 **[Project Checkpoint 1]** <span style="color:black"> (3 mins presentation) |
 |  Wed   |  Mar. 6  |  [Sensing and Perception in Simulation (Basic)]  |  Reading: ch5, [Gazebo Tutorials Intermediate](http://gazebosim.org/tutorials?cat=guided_i&tut=guided_i1)    |
 |  Mon   |  Mar. 11  | 	 Spring Vacation (Student Holiday) - No class   |   		 |
 | Wed    |  Mar. 13  |     Spring Vacation (Student Holiday) - No class   |    		 |
