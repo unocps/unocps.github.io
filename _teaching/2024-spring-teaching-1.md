@@ -46,17 +46,17 @@ Letter grades will be determined using the weighted average of the various items
 |Range  	 | Grade |
 |:---------|:------|
 | 100% to 97% | A+    |
-| <97% to 93%  | A     |
-| <93% to 90% | A-    |
+| <97% to 94%  | A     |
+| <94% to 90% | A-    |
 | <90% to 87%  | B+    |
-| <87% to 83%  | B     |
-| <83% to 80%  | B-    |
+| <87% to 84%  | B     |
+| <84% to 80%  | B-    |
 | <80% to 77%  | C+    |
-| <77% to 73%  | C     |
-| <73% to 70%  | C-    |
+| <77% to 74%  | C     |
+| <74% to 70%  | C-    |
 | <70% to 67%  | D+    |
-| <67% to 63%  | D     |
-| <63% to 60%  | D-    |
+| <67% to 64%  | D     |
+| <64% to 60%  | D-    |
 | <60% to 0%   | F     |
 
 ## Late Policy
