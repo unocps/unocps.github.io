@@ -48,21 +48,21 @@ If you have questions regarding the grading of programming assignments, group pr
 ### Grading Type
 Letter grades will be determined using the weighted average of the various items used to evaluate students. A typical grade mapping is illustrated below.
 
-|Points   		 | Grade |
-|:-----------------|:----------|
-|97 – 100%| A+    |
-|93 – 96%  | A        		 |
-|90 – 92%  | A-    |
-|87 – 89%  | B+    |
-|83 – 86%  | B        		 |
-|80 – 82%  | B-    |
-|77 – 79%  | C+    |
-|73 – 76%  | C     |
-|70 – 72%  | C-    |
-|67 – 69%  | D+    |
-|63 – 66%  | D     |
-|60 – 62%  | D-    |
-|0 – 59%	| F        		 |
+|Range  	 | Grade |
+|:---------|:------|
+| 100% to 97% | A+    |
+| <97% to 94%  | A     |
+| <94% to 90% | A-    |
+| <90% to 87%  | B+    |
+| <87% to 84%  | B     |
+| <84% to 80%  | B-    |
+| <80% to 77%  | C+    |
+| <77% to 74%  | C     |
+| <74% to 70%  | C-    |
+| <70% to 67%  | D+    |
+| <67% to 64%  | D     |
+| <64% to 60%  | D-    |
+| <60% to 0%   | F     |
 
 ### Late Policy
 Programming Assignments and Projects are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2 days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span>
