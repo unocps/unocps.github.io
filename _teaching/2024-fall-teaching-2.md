@@ -33,13 +33,14 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 6  |  Sep. 30  -   Oct. 1  |   [Adversarial Search]  		 |           |
 | 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |            |
 | 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]    |                 |
-| 9    |   Oct. 21 - Oct. 27  	 |   Semester Break <br> [Markov Decision Processes] |              |
+| 9    |   Oct. 21 - Oct. 27  |   Semester Break <br> [Markov Decision Processes] |              |
 | 10  |  Oct. 28 - Oct. Nov. 3     |   <span style="color:red"> **Midterm II** </span>  |          |
 | 11  |   Nov. 4 - Nov. 10 	 |  [Reinforcement Learning]    |          |
-| 12  |   Nov. 11 - Nov. 17 	[Reinforcement Learning]    |                |
+| 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |                |
 | 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |        	 |
 | 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |               |
 | 15  | Dec. 2 - Dec. 8 	 |   [The Future of AI]		 |           |
 | 16 | Dec. 9 - Dec. 13 	 |  Prep Week - Study Days   | Reading: textbook, supplemental materials, and all slides |
 | 17  | Dec ? (TBD)  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides <br> <span style="color:red"> Anytime, 120 mins </span> |
+
 
