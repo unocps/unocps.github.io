@@ -41,6 +41,6 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |               |
 | 15  | Dec. 2 - Dec. 8 	 |   [The Future of AI]		 |           |
 | 16 | Dec. 9 - Dec. 13 	 |  Prep Week - Study Days   | Reading: textbook, supplemental materials, and all slides |
-| 17  | Dec ? (TBD)  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides <br> <span style="color:red"> Anytime, 120 mins </span> |
+| 17  | Dec ? (TBD)  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides |
 
 
