@@ -14,5 +14,5 @@ Artificial intelligence (AI) is rapidly advancing due to breakthroughs in data a
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
 * Office Hour: Mon/Wed 2PM - 3PM via Zoom or by appointment
-* CSCI4500-001: Students will attend twice a week in-person (Location: Peter Kiewit Institute 256). Few day(s) may participate remotely synchronously learning if necessary.
+* CSCI 4450/8456: Students will attend twice a week in-person (Location: Peter Kiewit Institute 256). Few day(s) may participate remotely synchronously learning if necessary.
 * [Course Schedule](#schedule)   
