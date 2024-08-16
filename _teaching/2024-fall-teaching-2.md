@@ -17,24 +17,6 @@ Artificial intelligence (AI) is rapidly advancing due to breakthroughs in data a
 * CSCI 4450/8456: Students will attend twice a week in-person (Location: Peter Kiewit Institute 256). Few day(s) may participate remotely synchronously learning if necessary.
 * [Course Schedule](#schedule)
 
-  ## Recommended Textbook
-Artificial Intelligence: A Modern Approach (4th Ed) by Russel and Norvig, Prentice Hall, 2021.
-
-## Grading
-If you have questions regarding the grading of homework, programming assignments, midterms and final, you MUST come to see the instructor WITHIN ONE WEEK after the date your homework, programming assignments, or exams have been returned to you.
-
-## Late Policy
-Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2 days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span>
-
-Contact the instructor in case of a medical emergency, and a written proof from your doctor is required. <span style="color:red"> **You are allowed to extend one more day after the approval.** </span>
-
-## Academic Integrity
-You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow [the University Policy](https://www.unomaha.edu/student-life/student-conduct-and-community-standards/policies/academic-integrity.php) on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
-
-### Accommodations
-Reasonable accommodations are provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: [unoaccessibility@unomaha.edu](unoaccessibility@unomaha.edu)
-
-
 ---------------------------------------------------------------------------------------------------------------
 # Schedule
 This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final.
