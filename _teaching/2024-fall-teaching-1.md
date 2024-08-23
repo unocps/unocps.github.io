@@ -1,4 +1,4 @@
- ---
+---
 title: "CSCI4500 Operating Systems (Fall 2024)"
 collection: teaching
 type: Undergraduate course
