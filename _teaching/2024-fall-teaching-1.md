@@ -5,7 +5,7 @@ type: Undergraduate course
 permalink: /teaching/2024-fall-teaching-1
 venue: UNO
 date: Aug 26, 2024 - Dec 20, 2024
-time: NONE
+time: Anytime
 location: Totally Online
 ---
 An operating system is an abstraction of computer system hardware; it manages the sharing of various hardware and software resources among the users of the computer system. The parallel history of hardware and operating system development introduces many key concepts including, for example, processor modes, direct memory access (DMA), device controllers, and virtual memory. Basic approaches to kernel organization and implementation are considered. This is often the first course in which students encounter concurrency and concurrent programs. Additional topic areas include system performance evaluation (particularly relating to processor and memory management), security, virtualization, resource allocation and scheduling, and file systems.
