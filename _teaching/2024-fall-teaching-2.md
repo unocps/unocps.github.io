@@ -30,7 +30,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 3  |  Sep. 9   -   Sep. 15   |  [Uninformed Search] <br>  [Informed Search]    			 |           |
 | 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |           |
 | 5  |  Sep. 23  -   Sep. 29  |   <span style="color:red"> **Midterm I** </span>	 |           |
-| 6  |  Sep. 30  -   Oct. 1  |   [Adversarial Search]  		 |           |
+| 6  |  Sep. 30  -   Oct. 6  |   [Adversarial Search]  		 |           |
 | 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |            |
 | 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]    |                 |
 | 9    |   Oct. 21 - Oct. 27  |   Semester Break <br> [Markov Decision Processes] |              |
