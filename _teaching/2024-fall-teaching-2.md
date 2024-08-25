@@ -25,7 +25,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Week |   	 |      		 Topic        		 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| 1  |  Aug. 26  -   Sep.1  |   [Introduction to AI]  	 |  Canvas: "Start here"  <br> Ch.1 & ch.2     |
+| 1  |  Aug. 26  -   Sep.1  |   [Introduction to AI]  	 |  Canvas: "Start here"  <br> ch.1 & ch.2     |
 | 2  |  Sep. 2  -   Sep. 8    |  Labor Day <br> [Uninformed Search]    	 |  ch.2 & Ch.3        |
 | 3  |  Sep. 9   -   Sep. 15   |  [Uninformed Search] <br>  [Informed Search]    			 |           |
 | 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |           |
