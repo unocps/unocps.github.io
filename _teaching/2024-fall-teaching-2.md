@@ -25,22 +25,24 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Week |   	 |      		 Topic        		 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| 1  |  Aug. 26  -   Sep.1  |   [Introduction to AI]  	 |  Canvas: "Start here"  <br> ch.1 & ch.2     |
-| 2  |  Sep. 2  -   Sep. 8    |  Labor Day <br> [Uninformed Search]    	 |  ch.2 & Ch.3        |
-| 3  |  Sep. 9   -   Sep. 15   |  [Uninformed Search] <br>  [Informed Search]    			 |           |
-| 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |           |
+| 1  |  Aug. 26  -   Sep.1  |   [Introduction to AI]  	 |     Reading: Canvas - "Start here"  <br> ch.1         |
+| 2  |  Sep. 2  -   Sep. 8    |  Labor Day <br> [Uninformed Search]    	 |   Reading: ch.2 & ch.3.1-3.4        |
+| 3  |  Sep. 9   -   Sep. 15   |  [Uninformed Search] <br>  [Informed Search]   | Reading:ch.3.1-3.4 & ch.3.5-3.6  |
+| 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |   Reading:  Ch.6       |
 | 5  |  Sep. 23  -   Sep. 29  |   <span style="color:red"> **Midterm I** </span>	 |           |
-| 6  |  Sep. 30  -   Oct. 6  |   [Adversarial Search]  		 |           |
-| 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |            |
-| 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]    |                 |
-| 9    |   Oct. 21 - Oct. 27  |   Semester Break <br> [Markov Decision Processes] |              |
+| 6  |  Sep. 30  -   Oct. 6  |   [Adversarial Search]  		 |   Reading: ch.5.1-5.2        |
+| 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |            |  Reading: ch.5.3  |
+| 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2   |
+| 9    |   Oct. 21 - Oct. 27  |   Semester Break <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2      |
 | 10  |  Oct. 28 - Oct. Nov. 3     |   <span style="color:red"> **Midterm II** </span>  |          |
-| 11  |   Nov. 4 - Nov. 10 	 |  [Reinforcement Learning]    |          |
-| 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |                |
-| 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |        	 |
-| 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |               |
-| 15  | Dec. 2 - Dec. 8 	 |   [The Future of AI]		 |           |
+| 11  |   Nov. 4 - Nov. 10 	 |  [Reinforcement Learning]    |   Reading: ch.22.1-22.2       |
+| 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |   Reading: ch.22.1-22.2              |
+| 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |    Reading: ch.12.2-12.6; ch.13.1-13.3     	 |
+| 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |    Reading: ch.12.2-12.6; 13.1-13.3              |
+| 15  | Dec. 2 - Dec. 8 	 |   [Neural Networks]		 |  Reading: ch.21.1-21.6         |
 | 16 | Dec. 9 - Dec. 13 	 |  Prep Week - Study Days   | Reading: textbook, supplemental materials, and all slides |
-| 17  | Dec ? (TBD)  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides |
+| 17  | Dec. 11  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides |
+
+
 
 
