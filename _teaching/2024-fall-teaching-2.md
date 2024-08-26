@@ -31,17 +31,18 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |   Reading:  ch.6       |
 | 5  |  Sep. 23  -   Sep. 29  |   <span style="color:red"> **Midterm I** </span>	 |           |
 | 6  |  Sep. 30  -   Oct. 6  |   [Adversarial Search]  		 |   Reading: ch.5.1-5.2        |
-| 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |            |  Reading: ch.5.3  |
+| 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |    Reading: ch.5.3  |
 | 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2   |
 | 9    |   Oct. 21 - Oct. 27  |   Semester Break <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2      |
 | 10  |  Oct. 28 - Oct. Nov. 3     |   <span style="color:red"> **Midterm II** </span>  |          |
 | 11  |   Nov. 4 - Nov. 10 	 |  [Reinforcement Learning]    |   Reading: ch.22.1-22.2       |
 | 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |   Reading: ch.22.1-22.2              |
 | 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |    Reading: ch.12.2-12.6; ch.13.1-13.3     	 |
-| 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |    Reading: ch.12.2-12.6; 13.1-13.3              |
+| 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |    Reading: ch.12.2-12.6; 13.1-13.3    |
 | 15  | Dec. 2 - Dec. 8 	 |   [Neural Networks]		 |  Reading: ch.21.1-21.6         |
 | 16 | Dec. 9 - Dec. 13 	 |  Prep Week - Study Days   | Reading: textbook, supplemental materials, and all slides |
 | 17  | Dec. 11  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides |
+
 
 
 
