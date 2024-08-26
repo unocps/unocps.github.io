@@ -28,7 +28,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 1  |  Aug. 26  -   Sep.1  |   [Introduction to AI]  	 |     Reading: Canvas - "Start here"  <br> ch.1         |
 | 2  |  Sep. 2  -   Sep. 8    |  Labor Day <br> [Uninformed Search]    	 |   Reading: ch.2 & ch.3.1-3.4        |
 | 3  |  Sep. 9   -   Sep. 15   |  [Uninformed Search] <br>  [Informed Search]   | Reading:ch.3.1-3.4 & ch.3.5-3.6  |
-| 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |   Reading:  Ch.6       |
+| 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |   Reading:  ch.6       |
 | 5  |  Sep. 23  -   Sep. 29  |   <span style="color:red"> **Midterm I** </span>	 |           |
 | 6  |  Sep. 30  -   Oct. 6  |   [Adversarial Search]  		 |   Reading: ch.5.1-5.2        |
 | 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |            |  Reading: ch.5.3  |
