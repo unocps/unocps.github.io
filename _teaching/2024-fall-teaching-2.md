@@ -32,14 +32,14 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 4  |  Sep. 16  -   Sep. 22  |   [Constraint Satisfaction Problems]	 |   Reading:  ch.6   <br> <span style="color:red"> Homework 1 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 2 Available</a>   <br> <span style="color:red"> **Project 1 Due, 11:59pm**</span>  |
 | 5  |  Sep. 23  -   Sep. 29  |   <span style="color:red"> **Midterm I (Wed.)** </span>	 |     <span style="color:red"> Homework 2 Due (Gradescope)  |
 | 6  |  Sep. 30  -   Oct. 6  |   [Adversarial Search]  		 |   Reading: ch.5.1-5.2  <br> <a href="" style="color:blue"> Homework 3 Available</a>  <br> <a href="" style="color:blue">Project 2 Available</a>     |
-| 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |    Reading: ch.5.3  <br>  <span style="color:red"> Homework 3 Due (Gradescope)  |
-| 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2 <br> <a href="" style="color:blue"> Homework 5 Available</a>  |
+| 7  |  Oct. 7  -   Oct. 13  	 |   [Uncertainty / ExpectiMax]  	 |    Reading: ch.5.3    |
+| 8  |  Oct. 14 - Oct. 20	|  Conference Meeting <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2 <br>  <span style="color:red"> Homework 3 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 4 Available</a>  |
 | 9    |   Oct. 21 - Oct. 27  |   Semester Break <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2  <br> <span style="color:red"> **Project 2 Due, 11:59pm**</span>   |
-| 10  |  Oct. 28 - Oct. Nov. 3     |   <span style="color:red"> **Midterm II ( Wed.)** </span>  |   <span style="color:red"> Homework 5 Due (Gradescope)       |
-| 11  |   Nov. 4 - Nov. 10 	 |  [Reinforcement Learning]    |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 6 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a>    |
-| 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |   Reading: ch.22.1-22.2 <br>   <span style="color:red"> Homework 6 Due (Gradescope)            |
-| 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |    Reading: ch.12.2-12.6; ch.13.1-13.3    <br> <a href="" style="color:blue"> Homework 7 Available</a>   	 |
-| 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |    Reading: ch.12.2-12.6; 13.1-13.3   <br>   <span style="color:red"> Homework 7 Due (Gradescope)  <br> <span style="color:red"> **Project 3 Due, 11:59pm**</span>          |
+| 10  |  Oct. 28 - Oct. Nov. 3     |   <span style="color:red"> **Midterm II ( Wed.)** </span>  |   <span style="color:red"> Homework 4 Due (Gradescope)       |
+| 11  |   Nov. 4 - Nov. 10 	 |  [Reinforcement Learning]    |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a>    |
+| 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |   Reading: ch.22.1-22.2 <br>   <span style="color:red"> Homework 5 Due (Gradescope)            |
+| 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |    Reading: ch.12.2-12.6; ch.13.1-13.3    <br> <a href="" style="color:blue"> Homework 6 Available</a>   	 |
+| 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |    Reading: ch.12.2-12.6; 13.1-13.3   <br>   <span style="color:red"> Homework 6 Due (Gradescope)  <br> <span style="color:red"> **Project 3 Due, 11:59pm**</span>          |
 | 15  | Dec. 2 - Dec. 8 	 |   [Neural Networks]		 |  Reading: ch.21.1-21.6         |
 | 16  | Dec. 11  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides |
 
