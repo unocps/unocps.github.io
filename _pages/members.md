@@ -7,7 +7,7 @@ author_profile: true
 
 |         Name        |     Title           |       Topic         |   Email             | Semester             |
 |:--------------------|:--------------------|:--------------------|:--------------------| 
-| Md Ruman Islam <span style="color:blue"> [Md Ruman Islam](https://rumanislam.me) </span> | MS/PhD student | Adaptive Congestion Control for Real-Time Communication using Deep Reinforcement Learning with Generative Adversarial Networks | mdrumanislam@unomaha.edu | 2023 Spring - Present |
+| <span style="color:blue"> [Md Ruman Islam](https://rumanislam.me) </span> | MS/PhD student | Adaptive Congestion Control for Real-Time Communication using Deep Reinforcement Learning with Generative Adversarial Networks | mdrumanislam@unomaha.edu | 2023 Spring - Present |
 | Haritha Prasad Rayakota | PhD students | Multimodal End-to-end Deep Learning| hrayakota@unomaha.edu | 2020 Fall - Present |
 | Ejan Shakya | Master students | Synergizing Modalities: A Deep-Learning-Driven Contrastive Learning Strategy for Efficient Biomedical Information Retrieval | eshakya@unomaha.edu | 2022 Fall - 2024 Spring |
 | Austin Riffle | Master students | Autonomous UAV Navigation using Reinforcement Learning with Proximal Policy Optimization | ariffle@unomaha.edu | 2022 Fall - 2024 Spring |
