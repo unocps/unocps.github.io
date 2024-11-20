@@ -40,7 +40,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 12  |   Nov. 11 - Nov. 17  |	[Reinforcement Learning]    |   Reading: ch.22.1-22.2 <br>   <span style="color:red"> Homework 5 Due (Gradescope)            |
 | 13  |   Nov. 18  - Nov. 24  |  [Probabilities and Bayes Nets] |    Reading: ch.12.2-12.6; ch.13.1-13.3    <br> <a href="" style="color:blue"> Homework 6 Available</a>   	 |
 | 14 |   Nov. 25 - Dec. 1   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |    Reading: ch.12.2-12.6; 13.1-13.3 |
-| 15  | Dec. 2 - Dec. 8 	 |   [Probabilities and Bayes Nets] <Zoom Meeting>	 |  Reading: ch.21.1-21.6  <br>   <span style="color:red"> Homework 6 Due (Gradescope)  <br> <span style="color:red"> **Project 3 Due, 11:59pm**</span>        |
+| 15  | Dec. 2 - Dec. 8 	 |   [Probabilities and Bayes Nets] <br> <a href="" style="color:red">Zoom Meeting</a> |  Reading: ch.21.1-21.6  <br>   <span style="color:red"> Homework 6 Due (Gradescope)  <br> <span style="color:red"> **Project 3 Due, 11:59pm**</span>        |
 | 16  | Dec. 11  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides |
 
 
