@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Selected journal papers
-1. Md Ruman Islam, Mahadevan Subramaniam, and Pei-Chi Huang. "[Image-based deep learning for smart digital twins: a review](https://link.springer.com/article/10.1007/s10462-024-11002-y)." Artificial Intelligence Review 58, no. 5: 146, 2025.
+1. Md Ruman Islam, Mahadevan Subramaniam, and Pei-Chi Huang. "[Image-based deep learning for smart digital twins: a review](https://link.springer.com/article/10.1007/s10462-024-11002-y)." Artificial Intelligence Review 58, no. 5 (2025): 146.
 1. Kyungki Kim, Mykhailo Ivashchenko, Prashnna Ghimire, and Pei-Chi Huang. "[Context-Aware and Adaptive Task Planning for Autonomous Construction Robots Through Llm-Robot Communication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4827728)." Available at SSRN 4827728, 2024.
 1. Kyungki Kim, John Windle, Melissa Christian, Tom Windle, Erica Ryherd, Pei-Chi Huang, Anthony Robinson, and Reid Chapman. "[Framework for Integrating Large Language Models with a Robotic Health Attendant for Adaptive Task Execution in Patient Care](https://www.mdpi.com/2076-3417/14/21/9922)." Applied Sciences 14, no. 21 (2024): 9922.
 1. Wei-Ju Chen, Peng Wu, Pei-Chi Huang, Aloysius K. Mok, and Song Han. "[Regular Composite Resource Partitioning and Reconfiguration in Open Systems](https://dl.acm.org/doi/abs/10.1145/3609424)". ACM Transactions on Embedded Computing Systems (2023).
