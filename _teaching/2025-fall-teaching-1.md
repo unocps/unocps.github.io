@@ -75,7 +75,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Week |    	|           	Topic             	| Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| 1  |  Aug. 26  -   Aug.31  |   [Themes] &  [Introduction to Operating Systems & History]   	|                   	|
+| 1  |  Aug. 25  -   Aug. 31  |   [Themes] &  [Introduction to Operating Systems & History]   	|                   	|
 | 2  |  Sep. 1  -   Sep. 7   |   Labor Day <br> [Introduction to Operating Systems & History]         	| Reading: ch.1 |
 | 3  |  Sep. 8   -   Sep. 14	|   [Operating Systems Structure]       	| Reading: ch.2  <br> <a href="" style="color:blue"> Homework 1 Available</a> |
 | 4  |  Sep. 15  -   Sep. 21  |   [Operating Systems Structure] <br> [Processes]   	| Reading: ch.3 <br> <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>   <br> <a href="" style="color:blue">Program 1 Available</a>  |
@@ -84,7 +84,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 7  |  Oct. 6  -   Oct. 12  | [CPU Scheduling]   	|	Reading: ch.6	<br> <span style="color:red"> Homework 2 Due (Upload to Canvas) </span> <br> <a href="" style="color: blue">Homework 3 Available</a>   <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span>   <br>  <a href="" style="color: blue">Program 2 Available</a>   <br> OSTEP [Lock](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)  (skip 28.8-28.11)  |
 | 8  |  Oct. 13 - Oct. 19	|  [Process Synchronization]	| Reading: ch.7  <br>  <span style="color:red"> Homework 3 Due (Upload to Canvas)  </span> 	<br> OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf)   |
 | 9  |  Oct. 20 - Oct. 26  	|   Semester Break <br> <span style="color:red"> **Midterm** </span> |   Reading: <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> Anytime, 90 mins </span>    	|
-| 10  |  Oct. 27 - Oct. Nov. 2	|   [Synchronization Example]   | Reading: Ch.8 <br>	<a href="" style="color: blue">Homework 4 Available</a>  |
+| 10  |  Oct. 27 - Nov. 2	|   [Synchronization Example]   | Reading: Ch.8 <br>	<a href="" style="color: blue">Homework 4 Available</a>  |
 | 11  |   Nov. 3 - Nov. 9  	|  [Deadlocks] <br> [Main Memory]	|  Reading: ch.9   <br>  OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)   <br> 	<span style="color:red"> **Program 2 Due, 11:59pm**</span>   <br> <a href="" style="color:blue"> Program 3 Available</a>  	|
 | 12  |   Nov. 10 - Nov. 16 	| [Main Memory]	<br> [Virtual Memory] 	| Reading: ch.10  <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>	<br> <a href="" style="color: blue">Homework 5 Available</a>  |
 | 13  |   Nov. 17  - Nov. 23   | [Virtual Memory] | Reading: ch.11  <br>  Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html)  	|
