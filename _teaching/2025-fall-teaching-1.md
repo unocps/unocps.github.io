@@ -15,7 +15,6 @@ An operating system is an abstraction of computer system hardware; it manages th
 * Email: phuang at unomaha dot edu
 * Office Hour: Wed 8AM - 9AM or 4:15pm - 5:15pm via Zoom by appointment
 * CSCI4500-850: Students will learn from the recorded videos. (Location: Totally Online)
-
 * [Course Schedule](#schedule)    
 
 ## Prerequisites:    
