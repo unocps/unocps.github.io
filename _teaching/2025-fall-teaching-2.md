@@ -32,8 +32,8 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 4  |  Sep. 15  -   Sep. 21  |  [Informed Search] <br> [Constraint Satisfaction Problems] 	|   Reading:  ch.6   <br> <span style="color:red"> Homework 1 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 2 Available</a>   <br> <span style="color:red"> **Project 1 Due, 11:59pm**</span>  |
 | 5  |  Sep. 22  -   Sep. 28  |   [Constraint Satisfaction Problems] 	| 	<span style="color:red"> Homework 2 Due (Gradescope)  |
 | 6  |  Sep. 29  -   Oct. 5  |  <span style="color:red"> **Midterm I (Mon.)** </span> <br> [Adversarial Search]       	|   Reading: ch.5.1-5.2  <br> <a href="" style="color:blue"> Homework 3 Available</a>  <br> <a href="" style="color:blue">Project 2 Available</a> 	|
-| 7  |  Oct. 6  -   Oct. 12   	|   [Uncertainty / ExpectiMax]   	|	Reading: ch.5.3	|
-| 8  |  Oct. 13 - Oct. 19	|  [Markov Decision Processes]  |  Reading: ch.17.1-17.2 <br>  <span style="color:red"> Homework 3 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 4 Available</a>  |
+| 7  |  Oct. 6  -   Oct. 12   	|   [Adversarial Search] <br> [Uncertainty / ExpectiMax]   	|	Reading: ch.5.3	|
+| 8  |  Oct. 13 - Oct. 19	|  [Uncertainty / ExpectiMax] <br>[Markov Decision Processes]  |  Reading: ch.17.1-17.2 <br>  <span style="color:red"> Homework 3 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 4 Available</a>  |
 | 9	|   Oct. 20 - Oct. 26  |   Semester Break <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2  <br> <span style="color:red"> **Project 2 Due, 11:59pm**</span>   |
 | 10  |  Oct. 27 - Oct. Nov. 2 	|   [Markov Decision Processes]  |   <span style="color:red"> Homework 4 Due (Gradescope)   	|
 | 11  |   Nov. 3 - Nov. 9 	|  <span style="color:red"> **Midterm II** </span>   |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a>	|
