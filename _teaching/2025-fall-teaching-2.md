@@ -36,7 +36,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 8  |  Oct. 13 - Oct. 19	|  [Uncertainty / ExpectiMax] <br>[Markov Decision Processes]  |  Reading: ch.17.1-17.2 <br>  <span style="color:red"> Homework 3 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 4 Available</a>  |
 | 9	|   Oct. 20 - Oct. 26  |   Semester Break <br> [Markov Decision Processes]  |  Reading: ch.17.1-17.2  <br> <span style="color:red"> **Project 2 Due, 11:59pm**</span>   |
 | 10  |  Oct. 27 - Oct. Nov. 2 	|   [Markov Decision Processes]  |   <span style="color:red"> Homework 4 Due (Gradescope)   	|
-| 11  |   Nov. 3 - Nov. 9 	|  <span style="color:red"> **Midterm II (Mon.)** </span> <br> [Reinforcement Learning]	   |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a>	|
+| 11  |   Nov. 3 - Nov. 9 	|  [Reinforcement Learning]	<br> <span style="color:red"> **Midterm II (Wed.)** </span>   |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a>	|
 | 12  |   Nov. 10 - Nov. 16  |	[Reinforcement Learning]	|   Reading: ch.22.1-22.2 <br>   <span style="color:red"> Homework 5 Due (Gradescope)        	|
 | 13  |   Nov. 17  - Nov. 23  |  [Probabilities and Bayes Nets] |	Reading: ch.12.2-12.6; ch.13.1-13.3	<br> <a href="" style="color:blue"> Homework 6 Available</a>    	|
 | 14 |   Nov. 45 - Nov. 30   |  [Probabilities and Bayes Nets] <br>  Thanksgiving Vacation |	Reading: ch.12.2-12.6; 13.1-13.3 |
