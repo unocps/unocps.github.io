@@ -1,4 +1,3 @@
-
 ---
 title: "CSCI 4450/8456 Artificial Intelligence (Spring 2026)"
 collection: teaching
