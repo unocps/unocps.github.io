@@ -26,7 +26,7 @@ Readings from additional sources are linked to the schedule. All reading assignm
 | Week |    |           Topic             | Assignment <br>(to be completed before class) | 
 |:----:|:----------|:------------------------------------|:----------------------------------------------| 
 | 1  |  Jan. 12  -   Jan. 18  |   [Introduction to AI]   | Reading: Canvas - "Start here"  <br> ch.1     | 
-| 2  |  Jan. 19  -   Jan. 25 |  Labor Day <br> [Uninformed Search]     |   Reading: ch.2 & ch.3.1-3.4  <br> <a href="" style="color:blue"> Homework 1 Available</a> <br> <a href="" style="color:blue">Project 1 Available</a> | 
+| 2  |  Jan. 19  -   Jan. 25 |  Martin Luther King Day <br> [Uninformed Search]     |   Reading: ch.2 & ch.3.1-3.4  <br> <a href="" style="color:blue"> Homework 1 Available</a> <br> <a href="" style="color:blue">Project 1 Available</a> | 
 | 3  |  Jan. 26   -   Feb. 1   |  [Uninformed Search] <br>  [Informed Search]   | Reading:ch.3.1-3.4 & ch.3.5-3.6   | 
 | 4  |  Feb. 2  -   Feb. 8  |  [Informed Search] <br> [Constraint Satisfaction Problems] |   Reading:  ch.6   <br> <span style="color:red"> Homework 1 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 2 Available</a>   <br> <span style="color:red"> **Project 1 Due, 11:59pm**</span>  | 
 | 5  |  Feb. 9  -   Feb. 15  |   [Constraint Satisfaction Problems] | <span style="color:red"> Homework 2 Due (Gradescope)  | 
