@@ -1,5 +1,5 @@
 ---
-title: "CSCI8530-001 Advanced Operating Systems (Spring 2026)"
+title: "CSCI 8530-001 Advanced Operating Systems (Spring 2026)"
 collection: teaching
 type: Graduate course
 permalink: /teaching/2026-spring-teaching-1
