@@ -1,5 +1,5 @@
 ---
-title: "CSCI 4450/8456 Artificial Intelligence (Spring 2026)"
+title: "CSCI 4450/8456-850 Artificial Intelligence (Spring 2026)"
 collection: teaching
 type: Undergraduate/Graduate course
 permalink: /teaching/2026-spring-teaching-2
