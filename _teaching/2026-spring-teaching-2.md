@@ -1,12 +1,11 @@
 ---
-title: "CSCI8530-001 Advanced Operating Systems (Spring 2026)"
+title: "CSCI 4450/8456-850 Artificial Intelligence (Spring 2026)"
 collection: teaching
-type: Graduate course
-permalink: /teaching/2026-spring-teaching-1
+type: Undergraduate/Graduate course
+permalink: /teaching/2026-spring-teaching-2
 venue: UNO
 date: Jan. 12, 2026 - May 8, 2026
-time: M 6PM - 8:40PM 
-location: Peter Kiewit Institute 256
+location: Totally Online
 ---
 
 The course introduces the design and structure of computer operating systems and also considers advanced operating system topics and exposes students to recent developments in operating systems research. The course involves concepts, principles, functionality, trade-offs, and implementation of systems that support concurrent processing. The individual components of an operating system (Xinu) will be examined in detail at the source code level, and students will be expected to complete various assignments on real hardware (Intel Galileo board or Raspberry Pi 2B (or 3B) or BeagleBone Black. Others are NOT recommended.) or Oracle VM VirtualBox (if you cannot get this real hardware). At a minimum, you will need a board, a memory card, a USB-micro cable, and a USB-serial adapter. Some of these assignments will involve simple “follow the steps'' activities, while others will require the design of new or modified system components and application programs. Lectures will closely follow the expected readings which are indicated in the class schedule on the class web pages.
