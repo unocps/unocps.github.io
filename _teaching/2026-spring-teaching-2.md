@@ -47,4 +47,3 @@ Readings from additional sources are linked to the schedule. All reading assignm
 | 14 |   Apr. 13 - Apr. 19   |  [Probabilities and Bayes Nets] | Reading: ch.12.2-12.6; 13.1-13.3 | 
 | 15  | Apr. 20 - Apr. 26  |   [Probabilities and Bayes Nets] |  Reading: ch.21.1-21.6  <br>   <span style="color:red"> Homework 6 Due (Gradescope)  <br> <span style="color:red"> **Project 3 Due, 11:59pm**</span>    | 
 | 16  | May. 1  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides | 
-
