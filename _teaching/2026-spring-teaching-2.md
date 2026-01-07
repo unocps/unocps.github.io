@@ -30,12 +30,12 @@ Readings from additional sources are linked to the schedule. All reading assignm
 | 3  |  Jan. 26   -   Feb. 1   |  [Uninformed Search] <br>  [Informed Search]   | Reading:ch.3.1-3.4 & ch.3.5-3.6   | 
 | 4  |  Feb. 2  -   Feb. 8  |  [Informed Search] <br> [Constraint Satisfaction Problems] |   Reading:  ch.6   <br> <span style="color:red"> Homework 1 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 2 Available</a>   <br> <span style="color:red"> **Project 1 Due, 11:59pm**</span>  | 
 | 5  |  Feb. 9  -   Feb. 15  |   [Constraint Satisfaction Problems] | <span style="color:red"> Homework 2 Due (Gradescope)  | 
-| 6  |  Feb. 16  -   Feb. 22  |  <span style="color:red"> **Midterm I ** </span> <br> [Adversarial Search]       |   Reading: ch.5.1-5.2  <br> <a href="" style="color:blue"> Homework 3 Available</a>  <br> <a href="" style="color:blue">Project 2 Available</a> | 
+| 6  |  Feb. 16  -   Feb. 22  |  <span style="color:red"> **Midterm I** </span> <br> [Adversarial Search]       |   Reading: ch.5.1-5.2  <br> <a href="" style="color:blue"> Homework 3 Available</a>  <br> <a href="" style="color:blue">Project 2 Available</a> | 
 | 7  |  Feb. 23  -   Mar. 1   |   [Adversarial Search] <br> [Uncertainty / ExpectiMax]   | Reading: ch.5.3 | 
 | 8  |  Mar. 2 - Mar. 8 |  [Uncertainty / ExpectiMax] <br>[Markov Decision Processes]  |  Reading: ch.17.1-17.2 <br>  <span style="color:red"> Homework 3 Due (Gradescope) <br> <a href="" style="color:blue"> Homework 4 Available</a>  | 
 | 9 |   Mar. 9 - Mar. 15  |   [Markov Decision Processes]  |  Reading: ch.17.1-17.2  <br> <span style="color:red"> **Project 2 Due, 11:59pm**</span>   | 
 | 10  |  Mar. 16 – Mar. 22 |   Spring Vacation (Student Holiday) <br> [Markov Decision Processes]  |   <span style="color:red"> Homework 4 Due (Gradescope)   | 
-| 11  |   Mar. 23 - Mar. 29 |  [Reinforcement Learning] <br> <span style="color:red"> **Midterm II ** </span>   |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a> | 
+| 11  |   Mar. 23 - Mar. 29 |  [Reinforcement Learning] <br> <span style="color:red"> **Midterm II** </span>   |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a> | 
 | 12  |   Mar. 30 - Apr. 5  | [Reinforcement Learning]  |   Reading: ch.22.1-22.2 <br>   <span style="color:red"> Homework 5 Due (Gradescope)        | 
 | 13  |   Apr. 6  - Apr. 12  |  [Probabilities and Bayes Nets] | Reading: ch.12.2-12.6; ch.13.1-13.3 <br> <a href="" style="color:blue"> Homework 6 Available</a>    | 
 | 14 |   Apr. 13 - Apr. 19   |  [Probabilities and Bayes Nets] | Reading: ch.12.2-12.6; 13.1-13.3 | 
