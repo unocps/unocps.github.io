@@ -15,9 +15,15 @@ Artificial intelligence (AI) is rapidly advancing due to breakthroughs in data a
 * Email: phuang at unomaha dot edu 
 * Office Hour: Wed 12pm - 2pm via Zoom by appointment 
 * CSCI 4450-850 / CSCI 8456-850: Students will learn from the recorded videos. (Location: Totally Online)
-* [Course Schedule](#schedule) 
- 
---------------------------------------------------------------------------------------------------------------- 
+* [Course Schedule](#schedule)
+  
+## Academic Integrity
+You may discuss the homeworks and assignments with anyone and use any reference materials but provided you do not copy any other person's work. We will follow [the University Policy on Academic Integrity](https://www.unomaha.edu/campus-policies/academic-integrity.php) regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
+
+## Accommodations
+Reasonable accommodation is provided for students who are registered with Accessibility Services Center (ASC) and make their requests sufficiently in advance. For more information, contact ASC (Location: 104 H&K, Phone: 402.554.2872, Email: unoaccessibility@unomaha.edu)
+
+---------------------------------------------------------------------------------------------------------------
 # Schedule 
 This schedule, and the links contained in it, are subject to change during the semester. Exam dates, however, are final. 
 Readings from additional sources are linked to the schedule. All reading assignments are required and are expected to be completed before class on the scheduled day. 
