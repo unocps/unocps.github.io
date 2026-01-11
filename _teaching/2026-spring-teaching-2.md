@@ -42,8 +42,8 @@ Readings from additional sources are linked to the schedule. All reading assignm
 | 9 |   Mar. 9 - Mar. 15  |   [Markov Decision Processes]  |  Reading: ch.17.1-17.2  <br> <span style="color:red"> **Project 2 Due, 11:59pm**</span>   | 
 | 10  |  Mar. 16 – Mar. 22 |   Spring Vacation (Student Holiday) <br> [Markov Decision Processes]  |   <span style="color:red"> Homework 4 Due (Gradescope)   | 
 | 11  |   Mar. 23 - Mar. 29 |  [Reinforcement Learning] <br> <span style="color:red"> **Midterm II** </span>   |   Reading: ch.22.1-22.2  <br> <a href="" style="color:blue"> Homework 5 Available</a>  <br> <a href="" style="color:blue">Project 3 Available</a> | 
-| 12  |   Mar. 30 - Apr. 5  | [Reinforcement Learning]  |   Reading: ch.22.1-22.2 <br>   <span style="color:red"> Homework 5 Due (Gradescope)        | 
-| 13  |   Apr. 6  - Apr. 12  |  [Probabilities and Bayes Nets] | Reading: ch.12.2-12.6; ch.13.1-13.3 <br> <a href="" style="color:blue"> Homework 6 Available</a>    | 
+| 12  |   Mar. 30 - Apr. 5  | [Reinforcement Learning]  |   Reading: ch.22.1-22.2      | 
+| 13  |   Apr. 6  - Apr. 12  |  [Probabilities and Bayes Nets] | Reading: ch.12.2-12.6; ch.13.1-13.3 <br>   <span style="color:red"> Homework 5 Due (Gradescope) <br>  <a href="" style="color:blue"> Homework 6 Available</a>    | 
 | 14 |   Apr. 13 - Apr. 19   |  [Probabilities and Bayes Nets] | Reading: ch.12.2-12.6; 13.1-13.3 | 
 | 15  | Apr. 20 - Apr. 26  |   [Probabilities and Bayes Nets] |  Reading: ch.21.1-21.6  <br>   <span style="color:red"> Homework 6 Due (Gradescope)  <br> <span style="color:red"> **Project 3 Due, 11:59pm**</span>    | 
 | 16  | May. 1  |   <span style="color:red"> **Midterm III** </span> | Reading: textbook, supplemental materials, and all slides | 
