@@ -15,7 +15,7 @@ The course introduces the design and structure of computer operating systems and
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
 * Office Hour: Wednesday 12 - 2 PM via Zoom or by appointment
-* Class Info: Students will attend twice a week in person (Location: Peter Kiewit Institute 256). Few day(s) may participate remotely synchronously learning if necessary. 
+* Class Info: Students will attend once a week in person (Location: Peter Kiewit Institute 256). Few day(s) may participate remotely synchronously learning if necessary. 
 * [Course Schedule](#schedule)	 
 
 ## Prerequisites:    
