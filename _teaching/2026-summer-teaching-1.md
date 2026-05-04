@@ -80,7 +80,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 | 6  |  June 8   -   June 14  |  [Process Synchronization]    | Reading: ch.7   <br> OSTEP: [Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-monitors.pdf)   <br> <span style="color:red"> **Midterm** </span> <!---[Review Notes](https://drive.google.com/file/d/1ck8nXZ-yrPi86NRrlHerbdLIEtxlYkWc/view?usp=sharing) <br>  --> <span style="color:red"> Anytime, 75 mins </span>  |
 | 7 |  June 15   -   June 21    |  [Synchronization Example]   | Reading: Ch.8  |
 | 8  |   June 15   -   June 21  |  [Deadlocks]  |  Reading: ch.9   <br>  OSTEP [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)    <br> <span style="color:red"> Homework 4 Due (Upload to Canvas) </span>    <br> <a href="" style="color: blue">Homework 5 Available</a>  <br> <a href="" style="color:blue"> Program 3 Available</a>   |
-| 9  |   June 22   -   June 26     | [Main Memory]    <br> [Virtual Memory]     | Reading: ch.10    |
+| 9  |   June 22   -   June 26     | [Main Memory]      | Reading: ch.10    |
 | 10  |   June 22 – June 26   | [Virtual Memory]  | Reading: ch.11  <br>  Distributed Systems for Fun and Profit, by Mikito Takada, [Chapter 2](http://book.mixu.net/distsys/abstractions.html)   <br> <span style="color:red"> Homework 5 Due (Upload to Canvas) </span>  <br>    <span style="color:red"> **Program 3 Due  at 11:59pm** </span> |
 | 10  | June 26  |   <span style="color:red"> [**Final Exam** ](https://www.unomaha.edu/registrar/students/after-enrollment/final-exam.php#tts2) </span> | Reading: textbook, supplemental materials, and all slides <br> <span style="color:red"> Anytime, 120 mins </span> |
 
