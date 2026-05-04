@@ -71,7 +71,7 @@ Readings from additional sources are linked from the schedule. All reading assig
 
 | Module |        |               Topic                 | Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
-| 0  |  May 26  -   May 31  |   [Themes] &  [Introduction to Operating Systems & History]   |  Reading: ch.1 <br> <a href="" style="color:blue"> Homework 1 Available</a>  <br> <a href="" style="color:blue">Program 1 Available</a>  |
+| 0  |  May 26  -   May 31  |   [Themes]   |  Reading: ch.1 <br> <a href="" style="color:blue"> Homework 1 Available</a>  <br> <a href="" style="color:blue">Program 1 Available</a>  |
 | 1  |  May 26  -   May 31  |   [Introduction to Operating Systems & History]             | Reading: ch.1 |
 | 2  |  May 26  -   May 31      |  [Operating Systems Structure]           | Reading: ch.2 <br> <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>   <br> <a href="" style="color: blue">Homework 2 Available</a> <br> <span style="color:red"> **Program 1 Due, 11:59pm**</span>  |
 | 3  |  June 1   -   June 7  |   [Processes]      | Reading: ch.3 & ch.4  <br> OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling")   <br> <span style="color:red"> Homework 2 Due (Upload to Canvas) </span> <br> <a href="" style="color: blue">Homework 3 Available</a>  <br>  <a href="" style="color: blue">Program 2 Available</a>   |
