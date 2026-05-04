@@ -1,25 +1,16 @@
 --- 
-
 title: "CSCI4500 Operating Systems (Summer 2025)" 
-
 collection: teaching 
-
 type: Undergraduate course 
-
 permalink: /teaching/2026-summer-teaching-1 
-
 venue: UNO 
-
 date: May 26, 2026 - June 26, 2026 
-
 location: Totally Online 
-
 --- 
 
 An operating system is an abstraction of computer system hardware; it manages the sharing of various hardware and software resources among the users of the computer system. The parallel history of hardware and operating system development introduces many key concepts including, for example, processor modes, direct memory access (DMA), device controllers, and virtual memory. Basic approaches to kernel organization and implementation are considered. This is often the first course in which students encounter concurrency and concurrent programs. Additional topic areas include system performance evaluation (particularly relating to processor and memory management), security, virtualization, resource allocation and scheduling, and file systems. 
 
  
-
 # Administrative Information 
 
 * Instructor: Pei-Chi Huang 
@@ -74,19 +65,19 @@ If you have questions regarding the grading of homework, programming assignments
 
 |Range       | Grade | 
 |:---------|:------| 
-| 100% to 97%  | A+    | 
+| 100% to 97%  | A+   | 
 | <97% to 94%  | A     | 
 | <94% to 90%  | A-    | 
-| <90% to 87%  | B+    | 
+| <90% to 87%  | B+   | 
 | <87% to 84%  | B     | 
 | <84% to 80%  | B-    | 
-| <80% to 77%  | C+    | 
+| <80% to 77%  | C+   | 
 | <77% to 74%  | C     | 
 | <74% to 70%  | C-    | 
-| <70% to 67%  | D+    | 
+| <70% to 67%  | D+   | 
 | <67% to 64%  | D     | 
-| <64% to 60%  | D-    | 
-| <60% to 0%   | F     | 
+| <64% to 60%  | D-   | 
+| <60% to 0%    | F     |
 
 ## Late Policy 
 
