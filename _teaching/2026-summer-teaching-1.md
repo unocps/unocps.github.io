@@ -1,5 +1,5 @@
 ---
-title: "CSCI4500 Operating Systems (Summer 2025)"
+title: "CSCI4500 Operating Systems (Summer 2026)"
 collection: teaching
 type: Undergraduate course
 permalink: /teaching/2026-summer-teaching-1
@@ -12,7 +12,7 @@ An operating system is an abstraction of computer system hardware; it manages th
 # Administrative Information
 * Instructor: Pei-Chi Huang
 * Email: phuang at unomaha dot edu
-* Office Hour: Tuesday 8AM -10AM via Zoom by appointment
+* Office Hour: via Zoom by appointment
 * CSCI4500: Students will learn from the recorded videos. (Location: Totally Online)
 * [Course Schedule](#schedule)  
 
