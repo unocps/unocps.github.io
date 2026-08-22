@@ -4,7 +4,7 @@ collection: teaching
 type: Undergraduate course
 permalink: /teaching/2026-fall-teaching-1
 venue: UNO
-date: Aug 24, 2025 - Dec 18, 2025
+date: Aug 24, 2026 - Dec 18, 2026
 time: Anytime
 location: Totally Online
 ---
