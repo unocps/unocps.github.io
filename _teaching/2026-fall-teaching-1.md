@@ -75,8 +75,8 @@ Readings from additional sources are linked to the schedule. All reading assignm
 | Week |    	|           	Topic             	| Assignment <br>(to be completed before class) |
 |:----:|:----------|:------------------------------------|:----------------------------------------------|
 | 1  |  Aug. 24  -   Aug. 30  |   [Themes] &  [Introduction to Operating Systems & History]   	|    |
-| 2  |  Aug. 31  -   Sep. 6  |   Labor Day <br> [Introduction to Operating Systems & History]         	| Reading: ch.1 |
-| 3  |  Sep. 7   -   Sep. 13	|   [Operating Systems Structure]       	| Reading: ch.2  <br> <a href="" style="color:blue"> Homework 1 Available</a> |
+| 2  |  Aug. 31  -   Sep. 6  |   [Introduction to Operating Systems & History]         	| Reading: ch.1 |
+| 3  |  Sep. 7   -   Sep. 13	|   Labor Day <br> [Operating Systems Structure]       	| Reading: ch.2  <br> <a href="" style="color:blue"> Homework 1 Available</a> |
 | 4  |  Sep. 14  -   Sep. 20  |   [Operating Systems Structure] <br> [Processes]   	| Reading: ch.3 <br> <span style="color:red"> Homework 1 Due (Upload to Canvas) </span>   <br> <a href="" style="color:blue">Program 1 Available</a>  |
 | 5  |  Sep. 21  -   Sep. 27  |	[Processes]   	|	Reading: ch.4 <br> OSTEP: [Common Concurrency Problems, pages 1-11](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf) (stop at "Deadlock Avoidance via Scheduling") |
 | 6  |  Sep. 28  -   Oct. 4 |   [Threads & Concurrency] 	|	Reading:  ch.5 <br> <a href="" style="color: blue">Homework 2 Available</a>  <br>  [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)  <br> [The Multilevel Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)   |
