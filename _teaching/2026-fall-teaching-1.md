@@ -55,9 +55,8 @@ If you have questions regarding the grading of homework, programming assignments
 
 
 ## Late Policy
-Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2 days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span>
-
-Contact the instructor in case of a medical emergency, and written proof from your doctor is required. <span style="color:red"> **You are allowed to extend one more day after the approval.** </span>
+Homeworks and Programming Assignments are subject to late penalty. Here is the point deduction policy: <span style="color:red"> **20% deduction (late by 1 day), 40% deduction (late by 2 days), 80% deduction (late by 3 days), and no credit if late by more than three days.** </span> 
+In case of a medical emergency or other circumstances affecting your academic participation, please contact the instructor and submit a UNO Supported Absence Notification Request through the Office of Student Outreach and Support (SOS). Please do not submit medical or health-related documentation directly to the instructor. <span style="color:red"> **You are allowed to extend one more day after the approval.** </span>
 
 ## Academic Integrity
 You may discuss the homeworks and assignments with anyone and use any reference materials, but provided you do not copy any other person's work. We will follow [the University Policy](https://www.unomaha.edu/campus-policies/academic-integrity.php) on Academic Integrity regarding any cheating and plagiarism. Take the time to familiarize yourself with the contents of this page, as you are responsible for its contents.
